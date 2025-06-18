@@ -1,0 +1,151 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/Montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);       /* transparent black */
+  backdrop-filter: blur(12px);               /* glassy blur */
+  -webkit-backdrop-filter: blur(12px);       /* Safari support */
+  filter: brightness(80%);                   /* dim the whole navbar */
+  transition: background-color 0.3s ease;
+  box-shadow: none;                          /* optional: remove sharp shadow */
+}
+
+
+.hero-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.7); /* semi-transparent black */
+  z-index: 1;
+}
+
+.z-2 {
+  z-index: 2;
+  position: relative;
+}
+
+.carousel-img {
+  height: 400px;               /* Set the height you want */
+  object-fit: cover;           /* Crop to fill the container */
+  width: 100%;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #6691ff; /* light green */
+  color: #ffffff;            /* optional: dark green text */
+  box-shadow: none;
+}
+
+.accordion-button:focus {
+  box-shadow: 0 0 0 0.25rem rgba(44, 84, 247, 0.25); /* green focus ring */
+  border-color: #288ca7; /* optional */
+}
+
+.form-control:focus {
+  border-color: #249fe1; /* or your custom green */
+  box-shadow: 0 0 0 0.2rem rgba(46, 139, 87, 0.25); /* optional green glow */
+  outline: none;
+}
+
+.nav-tabs .nav-link {
+  color: black;
+  font-weight: 500;
+}
+
+.nav-tabs .nav-link.active {
+  color: #0056b3;
+  border-color: transparent transparent #0056b3 transparent;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  transform: translateY(-5px);
+}
+
+@media (max-width: 576px) {
+
+  .hero-image-logo {
+    height: 100px;
+  }
+
+  .footer-logo {
+    height: 100px;
+  }
+
+  .hero-image-logo-divider {
+    display: none;
+  }
+
+  .scientist-descr {
+    width: 75%;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .lab-review-tab-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .achieve-img {
+    height: 200px;
+  }
+  
+  .management-descr {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .satbayev-img {
+    height: 200px;
+    width: 180px;
+    text-align: center;
+  }
+
+  .contacts-map {
+    width: 100%;
+  }
+
+  .contacts-content {
+    width: 100%;
+  }
+
+  .contacts-content .contacts-text {
+    text-align: center;
+  }
+
+  .contacts-content .contacts-text p {
+    margin: auto;
+  }
+  .footer-content {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .logo-text {
+    display: none;
+  }
+
+  .footer-logos {
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+  }
+  .footer-logos  a  i {
+    font-size: 20px;
+  }
+
+  .footer-text {
+    display: none;
+  }
+}

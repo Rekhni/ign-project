@@ -57,7 +57,7 @@ export default function LabNavbar({ lang }) {
           title={`${t("Услуги", "Publications", "Жарияланымдар", "出版物")}`}
         >
           <div
-            className="mt-3 w-75 mx-auto p-3"
+            className="mt-3 mx-auto p-3 lab-content"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -76,7 +76,7 @@ export default function LabNavbar({ lang }) {
           title={`${t("Проекты", "Projects", "Жобалар", "项目")}`}
         >
           <div 
-            className="mt-3 w-75 mx-auto p-3" 
+            className="mt-3 mx-auto p-3 lab-content" 
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -103,7 +103,7 @@ export default function LabNavbar({ lang }) {
           title={`${t("Контакты", "Media", "Медиа", "媒体")}`}
         >
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="mt-3 mx-auto p-3 lab-content"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",

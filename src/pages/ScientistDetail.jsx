@@ -13,14 +13,14 @@ export default function ScientistDetail({ lang }) {
         <div className="d-lg-flex w-75 mx-auto justify-content-center" style={{ padding: "30px 0", gap: '30px' }}>
             <div className='text-center'>
               
-              <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} alt="scientist1" height="300" className='rounded'/>
+              <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} alt={scientist.name} height="300" className='rounded scientist-image'/>
             </div>
             <div className="scientist-descr w-100 w-lg-50">
               <h1>{scientist.name[lang]}</h1>
               <p style={{fontSize: '20px'}}>{scientist.title[lang]}</p>
-              <div className="d-lg-flex flex-wrap" style={{fontSize: '15px'}}>
+              <div className="d-flex justify-content-center flex-wrap" style={{fontSize: '15px'}}>
                 {scientist.specTags[lang].split('\n').map((tag, idx) => (
-                  <p className="text-dark rounded" style={{backgroundColor: 'rgb(148, 216, 248)', padding: '5px 8px', fontSize: '12px', marginRight: '15px'}} key={idx} >{tag}</p>
+                  <p className="text-dark rounded scientist-spec-tags" style={{backgroundColor: 'rgb(148, 216, 248)', padding: '5px 8px', fontSize: '12px', marginRight: '15px'}} key={idx} >{tag}</p>
                 ))}
               </div>
               <p>{scientist.shortInfo[lang]}</p>

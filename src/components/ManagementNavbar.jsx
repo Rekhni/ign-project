@@ -43,6 +43,9 @@ export default function ManagementNavbar({ lang }) {
               {managementData.review.bigBio[lang].map((line, idx) => (
                   <p style={{fontFamily: 'Montserrat'}}ey={idx}>{line}</p> 
               ))}       
+                {managementData.moreInfo[lang].map((item, idx) => (
+                <p key={idx}>{item}</p>
+              ))}
             </div>
           </div>
         </Tab>

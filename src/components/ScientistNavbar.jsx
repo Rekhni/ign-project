@@ -17,7 +17,7 @@ export default function ScientistNavbar({ lang }) {
      >
         <Tab eventKey="overview" title={`${t('Обзор', 'Overview', 'Шолу', '概览')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -27,7 +27,7 @@ export default function ScientistNavbar({ lang }) {
             {scientist.review[lang].map((line, idx) => (
                 <p key={idx}>{line}</p> 
             ))}
-            <div className='d-flex gap-3 flex-wrap justify-content-center'>
+            <div className='scientist-quotes'>
                 {scientist.quotes[lang][0] !== "" && scientist.quotes[lang].map((item, idx) => (
                     <p className='scientist-quote text-white rounded shadow w-75' style={{ fontSize: '15px', padding: '20px', backgroundColor: 'rgb(129, 181, 246)'}} key={idx}>{item}</p>
                 ))}
@@ -36,7 +36,7 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="publications" title={`${t('Публикации', 'Publications', 'Жарияланымдар', '出版物')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -52,7 +52,7 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="projects" title={`${t('Проекты', 'Projects', 'Жобалар', '项目')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -71,7 +71,7 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="teaching" title={`${t('Преподавание', 'Teachings', 'Оқыту', '教学')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -87,7 +87,7 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="awards" title={`${t('Награды', 'Awards', 'Марапаттар', '奖项')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -103,7 +103,7 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="media"  title={`${t('Медиа', 'Media', 'Медиа', '媒体')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto p-3"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",

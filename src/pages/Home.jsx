@@ -24,7 +24,7 @@ export default function Home({ lang }) {
             <img
               src={logo}
               alt=""
-              className="z-2 mb-3 m-0 hero-image-logo"
+              className="z-2 m-0 hero-image-logo"
               height="150"
               style={{ color: 'white', paddingRight: '30px' }}
             />
@@ -48,10 +48,10 @@ export default function Home({ lang }) {
                 <div className="w-100">
             </div>
             <div
-              className="mx-auto d-flex justify-content-center z-2 w-100 w-lg-50 mt-3"
+              className=" mx-auto d-flex justify-content-center z-2 w-100 w-lg-50 mt-3"
             >
               <button
-                className="text-dark"
+                className="text-dark p-3"
                 style={{ fontSize: 'clamp(14px, 4vw, 20px)', backgroundColor: 'rgb(255, 255, 255)', padding: "10px 20px", borderRadius: "20px" }}
               >
                 <a href="#form" className='text-dark text-decoration-none'>

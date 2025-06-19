@@ -37,7 +37,7 @@ export default function Home({ lang }) {
                 margin: '0 auto'
               }}
             ></div>
-            <p className='logo-text text-white z-2' style={{marginLeft: '15px', fontSize: 'clamp(14px, 4vw, 20px)', paddingLeft: '30px'}}>
+            <p className='logo-text text-white w-75 z-2' style={{marginLeft: '15px', fontSize: 'clamp(14px, 4vw, 20px)', paddingLeft: '30px'}}>
               {t(
                 'Институт геологических наук им. К. И. Сатпаева',
                 'Kanysh Satpayev Institute of geological sciences',
@@ -52,7 +52,7 @@ export default function Home({ lang }) {
             >
               <button
                 className="text-dark"
-                style={{ fontSize: 'clamp(14px, 4vw, 20px)', backgroundColor: 'rgb(189, 185, 185)', padding: "10px 20px", borderRadius: "20px" }}
+                style={{ fontSize: 'clamp(14px, 4vw, 20px)', backgroundColor: 'rgb(255, 255, 255)', padding: "10px 20px", borderRadius: "20px" }}
               >
                 <a href="#form" className='text-dark text-decoration-none'>
                     {t(
@@ -71,9 +71,8 @@ export default function Home({ lang }) {
         <div className='text-dark'>
           <div
             id="carouselExampleAutoplaying"
-            className="carousel slide w-100 h-100"
+            className="carousel slide w-100 h-75"
             data-bs-ride="carousel"
-            style={{ maxHeight: '500px' }}
           >
             <div className="carousel-inner">
               {newsData.map((news, index) => (
@@ -165,7 +164,7 @@ export default function Home({ lang }) {
                 ></iframe>
             </div>
         </div>
-        <div className="d-flex flex-column justify-content-center w-100 text-white" style={{backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat', paddingTop: '30px'}}>
+        <div className="d-flex flex-column justify-content-center w-100 text-white p-3" style={{backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
             <div className="d-flex justify-content-center align-items-center gap-3 w-75 mx-auto">
                 <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
                 <h1 className='fs-sm-3'>
@@ -233,19 +232,6 @@ export default function Home({ lang }) {
           </div>
         </div>
         <div style={{ margin: '40px 0' }}>
-          <div
-            className="d-flex justify-content-center align-items-center gap-3 w-75 mx-auto"
-            style={{ margin: '0 0 20px 20px'}}
-          >
-            <hr className="bg-dark rounded" style={{ height: '2px', width: '30%'}}/>
-            <h1 style={{fontSize: '30px'}}>{t(
-              'Партнеры', 
-              'Our services', 
-              'Қызметтеріміз', 
-              '我们的服务'
-            )}</h1>
-            <hr className="bg-dark" style={{ height: '2px', width: '30%' }}/>
-          </div>
           <PartnersSlider logos={partnersData}/>
         </div>
         <section id="form"

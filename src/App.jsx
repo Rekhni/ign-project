@@ -4,6 +4,7 @@ import { lazy, Suspense } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css'
+import ScrollToTop from './components/ScrollToTop';
 const Home = lazy(() => import("./pages/Home")) 
 const Museum = lazy(() => import('./pages/Museum'));
 const Navbar = lazy(() => import('./components/Navbar'));
@@ -32,6 +33,7 @@ function App() {
 
   return (
     <Router>
+      <ScrollToTop />
       <Navbar lang={language} onToggleLanguage={setLanguage}/>
       <Suspense fallback={<Spinner/>}>
         <Routes>

@@ -70,7 +70,14 @@
   transform: translateY(-5px);
 }
 
+
 @media (max-width: 576px) {
+
+  .carousel-img {
+    height: 300px;               /* Set the height you want */
+    object-fit: cover;           /* Crop to fill the container */
+    width: 100%;
+  }
 
   .hero-image-logo {
     height: 100px;

@@ -1,0 +1,1 @@
+const m=[{images:["/museum/museumImg1.jpeg","/museum/museumImg2.jpeg","/museum/museumImg3.jpeg","/museum/museumImg4.jpeg","/museum/museumImg5.jpeg","/museum/museumImg6.jpeg","/museum/museumImg7.jpeg","/museum/museumImg8.jpeg"]}];export{m};

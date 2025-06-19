@@ -69,7 +69,7 @@ export default function Museum({ lang }) {
                     {museumData[0].images.map((img, index) => (
                       <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
                         <img
-                          src={img}
+                          src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
                           className="d-block w-100 carousel-img"
                           alt={`museum-${index}`}
                           style={{ filter: "brightness(60%)" }}

@@ -12,7 +12,8 @@ export default function ScientistDetail({ lang }) {
       <div className='text-dark bg-white' style={{fontFamily: 'Montserrat',}}>
         <div className="d-lg-flex w-75 mx-auto justify-content-center" style={{ padding: "30px 0", gap: '30px' }}>
             <div className='text-center'>
-              <img src={scientist.image} alt="scientist1" height="300" className='rounded'/>
+              
+              <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} alt="scientist1" height="300" className='rounded'/>
             </div>
             <div className="scientist-descr w-100 w-lg-50">
               <h1>{scientist.name[lang]}</h1>

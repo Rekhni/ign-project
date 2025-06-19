@@ -32,7 +32,8 @@ const PartnersSlider = ({ logos }) => {
         <ul className="glide__slides d-flex text-center">
           {logos.logos.map((logo, index) => (
             <li className="glide__slide" key={index}>
-              <img src={logo} alt={`Partner ${index}`} style={{ maxWidth: '200px', maxHeight: '80px', objectFit: 'contain' }} />
+              
+              <img src={`${import.meta.env.BASE_URL}${logo.slice(1)}`} alt={`Partner ${index}`} style={{ maxWidth: '200px', maxHeight: '80px', objectFit: 'contain' }} />
             </li>
           ))}
         </ul>

@@ -26,7 +26,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto gap-4">
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/" end>
+              <NavLink className="nav-link text-white" to="/ign-project/" end>
               {t('Главная', 'Home', 'Басты бет', '首页')}
               </NavLink>
             </li>

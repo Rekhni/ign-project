@@ -10,7 +10,8 @@ export default function Management({ lang }) {
       <div className='text-dark bg-white' style={{fontFamily: 'Montserrat'}}>
         <div className="d-lg-flex w-75 mx-auto justify-content-center" style={{ padding: "30px 0", gap: '30px' }}>
             <div className='text-center'>
-              <img src={managementData.image} alt="scientist1" height="300" className='rounded'/>
+              
+              <img src={`${import.meta.env.BASE_URL}${managementData.image.slice(1)}`} alt="scientist1" height="300" className='rounded'/>
             </div>
             <div className="management-descr w-lg-50">
               <h1>{managementData.name[lang]}</h1>

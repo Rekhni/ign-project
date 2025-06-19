@@ -31,7 +31,7 @@ export default function NewsDetail({ lang }) {
                 key={index}
               >
                 <img
-                  src={img}
+                  src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
                   className="d-block w-100"
                   alt={`news-${index}`}
                   style={{ height: '480px', objectFit: 'cover' }}

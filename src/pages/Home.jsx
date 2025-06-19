@@ -80,7 +80,7 @@ export default function Home({ lang }) {
                 <NavLink to={`/news/${news.id}`}> 
                   <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
                     <img
-                      src={news.images[0]}
+                      src={`${import.meta.env.BASE_URL}${news.images[0].slice(1)}`}
                       className="d-block w-100 carousel-img"
                       alt={`news-${index}`}
                       style={{ filter: "brightness(60%)" }}
@@ -189,7 +189,7 @@ export default function Home({ lang }) {
                 <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
                   <NavLink to="/museum">
                     <img
-                      src={img}
+                      src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
                       className="d-block w-100 carousel-img"
                       alt={`museum-${index}`}
                       style={{ filter: "brightness(60%)" }}

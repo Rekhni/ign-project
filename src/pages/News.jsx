@@ -18,7 +18,8 @@ export default function News({ lang }) {
                 {newsData.map((news) => (
                     <div className="card position-relative text-white" style={{width: '17rem', height: '320px', backgroundColor: 'rgb(0, 53, 118)'}} key={news.id}>
                             <NavLink to={`/news/${news.id}`} className="text-decoration-none text-white">
-                                <img src={news.images[0]} className="card-img-top" alt="news-img" style={{height: '180px'}} />
+                                
+                                <img src={`${import.meta.env.BASE_URL}${news.images[0].slice(1)}`} className="card-img-top" alt="news-img" style={{height: '180px'}} />
                                 <div className="card-body">
                                     <p className="card-text">
                                         {news.title[lang]}

@@ -127,7 +127,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/nikitina.png"
+    "image": "/scientists/nikitina.webp"
   },
   {
     "id": 2,
@@ -293,7 +293,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/ozdoev.png"
+    "image": "/scientists/ozdoev.webp"
   },
   {
     "id": 3,
@@ -390,41 +390,105 @@
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Современное состояние изученности вторичных кварцитов северного сегмента Жонгаро-Балхашской складчатой системы и их золотоносности (Центральный Казахстан) (The current state of research on Secondary Quartzites of the Northern Segment of the Jungar-Balkhash Folded System and Their Au Mineralization (Central Kazakhstan) (на англ. яз.) / Minerals (Basel, Switzerland) 2023, 13, 813. C. 2-32., Scopus, процентиль 73%.",
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Характеристика вторичных кварцитов и их золотоносности вулкано-плутонической структуры Кызылтас (Центральный Казахстан) (Characteristics of secondary quartites and their gold-bearing in the Kyzyltas volcano-plutonic structure (Central Kazakhstan))/Геология и разведка недр (Алматы), 2023. № 2, С. 4-30.",
         "Сейтмуратова Э.Ю., Баратов Р.Т., Сайдашева Ф.Ф., Горяева В.С., Машрапова М.А., Аршамов Я.К. К изучению кольцевых структур Центрального и Южного Казахстана и их рудоносности (To study the ring structures of Central and Southern Kazakhstan and their ore content) / Известия НАН РК (News of the National Academy of Sciences of the Republic of Kazakhstan, Series of geology and technical sciences) (Алматы), 2023. № 3 (459), (на англ. яз.) С. 2-36., Scopus, процентиль 41%.",
-        "Seitmuratova E., Ping Sh., Baratov R., Dautbekov D., Mashrapova M., Shadiyev N., Arshamov Ya. Features of the continental volcanic-plutonic belts of the Junggar-Balkhash fold system // Mining of Mineral Deposits (Украина). 2024. V.18, Issue 3, 63-81, Scopus, процентиль 77%.",
         "Сейтмуратова Э.Ю., Даутбеков Д.О., Машрапова М., Даулетулы А. Современное состояние минерально-сырьевой базы Казахстана и металлогенические исследования в Институте геологических наук им. К.И. Сатпаева // Горный журнал Казахстана (Алматы). 2024. № 8. С. 48-57 (КОКСОН);",
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Баратов Р.Т., Даутбеков Д.О., Машрапова М., Аршамов Я.К. Геология и металлогения позднепалеозойских континентальных вулкано-плутонических поясов Жонгаро- Балхашской складчатой системы (Казахстан) // Науки о Земле в Казахстане. Международный геологический конгресс – МГК-37. Доклады казахстанских геологов. Изд-во Казахстанское геологическое общество «КазГЕО», Алматы. 2024. (396 с.) С.9-29;",
-        "Changhao Li, Ping Shen, Reimar Seltmann, Di Zhang, Hongdi Pan, Eleonora Seitmuratova. Quartz textures, trace elements, fluid inclusions, and in-situ oxygen isotopes from Aktogai porphyry Cu deposits, Kazakhstan//American Mineralogist. 2024, Scopus, пр-ль 89.",
-        "Haoxuan Feng, Reimar Seltmann, Ping Shen, Xiangkai Chu, Qingyu Suo, Eleonora Seitmuratova, Vitaly Shatov. Hydrothermal rutile chemistry and U-Pb age fingerprinting of the formation of the giant Nurkazgan porphyry Cu-Au deposit, Central Kazakhstan // Ore Geology Reviews. 2024, процентиль 85%",
-        "Baratov, Refat T.; Seitmuratova, Eleonora Y.; Murtazin, Ermek Z.; Dautbekov, Diyas O., Kelyukhov, Vyacheslav N. Lithium Concentrations in Saline Brines of the Shu–Sarysu Depression // Applied Sciences (Switzerland), Открытый доступ, Том 14, Выпуск 12, June 2024, Номер статьи 5351 https://www.mdpi.com/2076-3417/14/12/5351 Q1/79",
         "Сейтмуратова Э.Ю. К.И. Сатпаев и его соратники, создатели геологической науки. // Геология и охрана недр. 1(90)2024, с. 20",
-        "Сейтмуратова Э.Ю. Современное состояние минерально-сырьевой базы Казахстана и металлогенические исследования в институте геологических наук им К.И.Сатпаева.//Материалы МНТК, 2024, с."
+        "Сейтмуратова Э.Ю. Современное состояние минерально-сырьевой базы Казахстана и металлогенические исследования в институте геологических наук им К.И.Сатпаева.//Материалы МНТК, 2024, с.",
+        "Хаошуань Фэн, Раймар Зельтман, Пин Шэнь, Сянькай Чу, Циньюй Со, Элеонора Сейтмуратова, Виталий Шатов. Химия гидротермального рутила и датирование по U-Pb для установления возраста формирования гигантского медно-золотого порфирового месторождения Нурказган (Центральный Казахстан) // Ore Geology Reviews. 2024, процентиль 85%",
+        "Чанхао Ли, Пин Шэнь, Раймар Зельтман, Ди Чжан, Хунди Пан, Элеонора Сейтмуратова. Текстуры кварца, следовые элементы, включения флюидов и in-situ кислородные изотопы медно-порфировых месторождений Актоғай, Казахстан // American Mineralogist. 2024, Scopus, процентиль 89.",
+        "Баратов Рефат Т., Сейтмуратова Элеонора Ю., Муртазин Ермек З., Даутбеков Дияс О., Келюхов Вячеслав Н. Концентрации лития в рассолах Шу-Сарысуйской впадины // Applied Sciences (Швейцария), открытый доступ, том 14, выпуск 12, июнь 2024, статья № 5351 https://www.mdpi.com/2076-3417/14/12/5351 Q1/79",
+        "Сейтмуратова Э., Пин Ш., Баратов Р., Даутбеков Д., Машрапова М., Шадиев Н., Аршамов Я. Особенности континентальных вулкано-плутонических поясов Жонгаро-Балхашской складчатой системы // Mining of Mineral Deposits (Украина). 2024. Т.18, выпуск 3, с.63-81, Scopus, процентиль 77%."
       ],
-      "en": ["List of publications","Total number of scientific works — 296, of which 231 have been published, including 11 monographs and 65 scientific and production reports."],
-      "kz": ["Жарияланымдар тізімі","Ғылыми еңбектердің жалпы саны — 296, оның ішінде 231 жарияланған, соның ішінде 11 монография және 65 ғылыми-өндірістік есеп."],
-      "zh": ["出版物清单","科研成果总数为296项，其中已发表231项，包括11本专著和65份科研生产报告。"]
+      "en": [
+        "Seitmuratova E.Y., Baratov R.T., Saidasheva F.F., Goryaeva V.S., Mashrapova M.A., Arshamov Ya.K. Patterns of manifestation of ring structures of Kazakhstan and their ore content // Geology and Subsoil Protection. No. 3(84). 2022. Pp. 50-64. (ISSN 2414-4282) RSCI",
+        "E.Y. Seitmuratova, R.T. Baratov, Ya.K. Arshamov, D.O. Dautbekov, Sh.A. Seitzhanov. Lithium and gold content in salt domes and saline lands of Western and Southern Kazakhstan // Scientific Bulletin of the National Mining University. Dnipro. 2023. No. 1 (193). Pp. 10-19. Scopus, Q2, percentile 50",
+        "Seitmuratova E.Y., Goryaeva V.S., Saidasheva F.F., Arshamov Ya.K., Baratov R.T., Dautbekov D.O., Shadiev N.Sh., Mashrapova M.A., Karimkebov T. The current state of research on secondary quartzites of the Northern Segment of the Jungar-Balkhash Folded System and their Au mineralization (Central Kazakhstan) // Minerals (Basel, Switzerland) 2023, 13, 813. Pp. 2-32. Scopus, percentile 73%",
+        "Seitmuratova E.Y., Goryaeva V.S., Saidasheva F.F., Arshamov Ya.K., Baratov R.T., Dautbekov D.O., Shadiev N.Sh., Mashrapova M.A., Karimkebov T. Characteristics of secondary quartzites and their gold-bearing in the Kyzyltas volcano-plutonic structure (Central Kazakhstan) // Geology and Exploration of Mineral Deposits (Almaty), 2023. No. 2, Pp. 4-30",
+        "Seitmuratova E.Y., Baratov R.T., Saidasheva F.F., Goryaeva V.S., Mashrapova M.A., Arshamov Ya.K. To study the ring structures of Central and Southern Kazakhstan and their ore content // News of the National Academy of Sciences of the Republic of Kazakhstan, Series of Geology and Technical Sciences (Almaty), 2023. No. 3 (459). Pp. 2-36. Scopus, percentile 41%",
+        "Seitmuratova E.Y., Dautbekov D.O., Mashrapova M., Dauletuly A. The current state of Kazakhstan's mineral resource base and metallogenic research at the Satpayev Institute of Geological Sciences // Mining Journal of Kazakhstan (Almaty). 2024. No. 8. Pp. 48-57 (KOKSON)",
+        "Seitmuratova E.Y., Goryaeva V.S., Saidasheva F.F., Baratov R.T., Dautbekov D.O., Mashrapova M., Arshamov Ya.K. Geology and metallogeny of the Late Paleozoic continental volcano-plutonic belts of the Jungar-Balkhash Folded System (Kazakhstan) // Earth Sciences in Kazakhstan. 37th International Geological Congress. Reports of Kazakh Geologists. KazGeo Publishing House, Almaty. 2024. Pp. 9-29",
+        "Seitmuratova E.Y. K.I. Satpayev and his associates, the founders of geological science // Geology and Subsoil Protection. 1(90)2024, p. 20",
+        "Seitmuratova E.Y. The current state of the mineral resource base of Kazakhstan and metallogenic research at the Satpayev Institute of Geological Sciences // Materials of MNTK, 2024, p.",
+        "Haoxuan Feng, Reimar Seltmann, Ping Shen, Xiangkai Chu, Qingyu Suo, Eleonora Seitmuratova, Vitaly Shatov. Hydrothermal rutile chemistry and U-Pb age fingerprinting of the formation of the giant Nurkazgan porphyry Cu-Au deposit, Central Kazakhstan // Ore Geology Reviews. 2024, процентиль 85%",
+        "Changhao Li, Ping Shen, Reimar Seltmann, Di Zhang, Hongdi Pan, Eleonora Seitmuratova. Quartz textures, trace elements, fluid inclusions, and in-situ oxygen isotopes from Aktogai porphyry Cu deposits, Kazakhstan//American Mineralogist. 2024, Scopus, пр-ль 89.",
+        "Baratov, Refat T.; Seitmuratova, Eleonora Y.; Murtazin, Ermek Z.; Dautbekov, Diyas O., Kelyukhov, Vyacheslav N. Lithium Concentrations in Saline Brines of the Shu–Sarysu Depression // Applied Sciences (Switzerland), Открытый доступ, Том 14, Выпуск 12, June 2024, Номер статьи 5351 https://www.mdpi.com/2076-3417/14/12/5351 Q1/79",
+        "Seitmuratova E., Ping Sh., Baratov R., Dautbekov D., Mashrapova M., Shadiyev N., Arshamov Ya. Features of the continental volcanic-plutonic belts of the Junggar-Balkhash fold system // Mining of Mineral Deposits (Украина). 2024. V.18, Issue 3, 63-81, Scopus, процентиль 77%."
+
+      ],
+      "kz": [
+          "Сейтмуратова Е.Ю., Баратов Р.Т., Сайдашева Ф.Ф., Горяева В.С., Машрапова М.А., Аршамов Я.К. Қазақстандағы шеңберлі құрылымдардың көрініс заңдылықтары және олардың рудалылығы // Геология және жер қойнауын қорғау. № 3(84). 2022 ж. 50-64 б. (ISSN 2414-4282) РИНЦ",
+          "Е.Ю. Сейтмуратова, Р.Т. Баратов, Я.К. Аршамов, Д.О. Даутбеков, Ш.А. Сейтжанов. Батыс және Оңтүстік Қазақстанның тұзды күмбездері мен сорларындағы литий мен алтын мөлшері // Ұлттық тау-кен университетінің ғылыми бюллетені. Днепр. 2023. № 1 (193). 10-19 б. Scopus, Q2, процентиль 50",
+          "Сейтмуратова Е.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Жоңғар-Балқаш қатпарлы жүйесінің солтүстік сегментінің екінші реттік кварциттерін зерттеудің қазіргі жағдайы және олардың алтындылығы (Орталық Қазақстан) // Minerals (Basel, Switzerland) 2023, 13, 813. 2-32 б. Scopus, процентиль 73%",
+          "Сейтмуратова Е.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Қызылтас жанартаулық-плутоникалық құрылымының екінші реттік кварциттері мен олардың алтындылығының сипаттамасы (Орталық Қазақстан) // Геология және пайдалы қазбаларды барлау (Алматы), 2023. № 2, 4-30 б.",
+          "Сейтмуратова Е.Ю., Баратов Р.Т., Сайдашева Ф.Ф., Горяева В.С., Машрапова М.А., Аршамов Я.К. Орталық және Оңтүстік Қазақстанның шеңберлі құрылымдарын және олардың рудалылығын зерттеу // ҚР ҰҒА Хабарлары. Геология және техникалық ғылымдар сериясы (Алматы), 2023. № 3 (459). 2-36 б. Scopus, процентиль 41%",
+          "Сейтмуратова Е.Ю., Даутбеков Д.О., Машрапова М., Даулетұлы А. Қазақстанның минералдық-шикізат базасының қазіргі жағдайы және К.И. Сәтбаев атындағы геологиялық ғылымдар институтындағы металлогендік зерттеулер // Қазақстанның тау-кен журналы (Алматы). 2024. № 8. 48-57 б. (КОКСОН)",
+          "Сейтмуратова Е.Ю., Горяева В.С., Сайдашева Ф.Ф., Баратов Р.Т., Даутбеков Д.О., Машрапова М., Аршамов Я.К. Жоңғар-Балқаш қатпарлы жүйесінің кейінгі палеозой континенттік жанартаулық-плутоникалық белдеулерінің геологиясы мен металлогениясы (Қазақстан) // Қазақстандағы Жер туралы ғылымдар. 37-ші Халықаралық геологиялық конгресс. Қазақ геологтары баяндамалары. ҚазГЕО баспасы, Алматы. 2024. 9-29 б.",
+          "Сейтмуратова Е.Ю. К.И. Сәтбаев және оның серіктестері — геологиялық ғылымның негізін қалаушылар // Геология және жер қойнауын қорғау. 1(90)2024, 20 б.",
+          "Сейтмуратова Е.Ю. Қазақстанның минералдық-шикізат базасының қазіргі жағдайы және К.И.Сәтбаев атындағы геологиялық ғылымдар институтындағы металлогендік зерттеулер // МНТК материалдары, 2024, б.",
+          "Хаошуань Фэн, Раймар Зельтман, Пин Шэнь, Сянькай Чу, Циньюй Со, Элеонора Сейтмуратова, Виталий Шатов. Нұрқазған алып мыс-алтын порфир кен орнының түзілуін анықтау үшін гидротермальды рутил химиясы және U-Pb жасын анықтау // Ore Geology Reviews. 2024, процентиль 85%",
+          "Чанхао Ли, Пин Шэнь, Раймар Зельтман, Ди Чжан, Хунди Пан, Элеонора Сейтмуратова. Ақтоғай мыс-порфир кен орындарындағы кварц текстуралары, іздік элементтер, сұйықтық қосындылары және in-situ оттегі изотоптары // American Mineralogist. 2024, Scopus, процентиль 89.",
+          "Баратов Рефат Т., Сейтмуратова Элеонора Ю., Муртазин Ермек З., Даутбеков Дияс О., Келюхов Вячеслав Н. Шу-Сарысу ойпатының тұзды ерітінділеріндегі литий концентрациясы // Applied Sciences (Швейцария), ашық қолжетімділік, том 14, шығарылым 12, маусым 2024, мақала № 5351 https://www.mdpi.com/2076-3417/14/12/5351 Q1/79",
+          "Сейтмуратова Э., Пин Ш., Баратов Р., Даутбеков Д., Машрапова М., Шадиев Н., Аршамов Я. Жоңғар-Балқаш қатпарлы жүйесінің континенттік вулканды-плутоникалық белдеулерінің ерекшеліктері // Mining of Mineral Deposits (Украина). 2024. Т.18, шығарылым 3, 63-81 б., Scopus, процентиль 77%."
+      ],
+      "zh": [
+          "塞特穆拉托娃 E.Yu., 巴拉托夫 R.T., 赛达谢娃 F.F., 戈里亚耶娃 V.S., 马什拉波娃 M.A., 阿尔沙莫夫 Ya.K. 哈萨克斯坦环状构造的表现规律及其成矿性 // 地质与矿产保护. 第3期(84). 2022年. 第50-64页. (ISSN 2414-4282) RSCI",
+          "E.Y. 塞特穆拉托娃, R.T. 巴拉托夫, Ya.K. 阿尔沙莫夫, D.O. 道特别科夫, Sh.A. 塞特让诺夫. 哈萨克斯坦西部和南部盐丘及盐碱地的锂和金含量 // 国家矿业大学科学公报. 第聂伯. 2023年. 第1期(193). 第10-19页. Scopus, Q2, 百分位50",
+          "塞特穆拉托娃 E.Yu., 戈里亚耶娃 V.S., 赛达谢娃 F.F., 阿尔沙莫夫 Ya.K., 巴拉托夫 R.T., 道特别科夫 D.O., 沙迪耶夫 N.Sh., 马什拉波娃 M.A., 卡里姆别科夫 T. 准噶尔-巴尔喀什褶皱系北段次生石英岩及其金矿化研究现状（中哈萨克斯坦） // Minerals (瑞士巴塞尔) 2023, 13, 813. 第2-32页. Scopus, 百分位73%",
+          "塞特穆拉托娃 E.Yu., 戈里亚耶娃 V.S., 赛达谢娃 F.F., 阿尔沙莫夫 Ya.K., 巴拉托夫 R.T., 道特别科夫 D.O., 沙迪耶夫 N.Sh., 马什拉波娃 M.A., 卡里姆别科夫 T. 中哈萨克斯坦赤塔斯火山-深成岩构造次生石英岩及其金矿化特征 // 地质与矿产勘查（阿拉木图），2023年第2期，第4-30页",
+          "塞特穆拉托娃 E.Yu., 巴拉托夫 R.T., 赛达谢娃 F.F., 戈里亚耶娃 V.S., 马什拉波娃 M.A., 阿尔沙莫夫 Ya.K. 中部和南部哈萨克斯坦环状构造及其成矿性的研究 // 哈萨克斯坦国家科学院学报. 地质与技术科学系列（阿拉木图），2023年. 第3期(459). 第2-36页. Scopus, 百分位41%",
+          "塞特穆拉托娃 E.Yu., 道特别科夫 D.O., 马什拉波娃 M., 道列图里 A. 哈萨克斯坦矿产资源基础现状及 K.I. 萨特帕耶夫地质科学研究所成矿学研究 // 哈萨克斯坦矿业杂志（阿拉木图）. 2024. 第8期. 第48-57页 (KOKSON)",
+          "塞特穆拉托娃 E.Yu., 戈里亚耶娃 V.S., 赛达谢娃 F.F., 巴拉托夫 R.T., 道特别科夫 D.O., 马什拉波娃 M., 阿尔沙莫夫 Ya.K. 哈萨克斯坦准噶尔-巴尔喀什褶皱系晚古生代大陆火山-深成岩带地质与成矿作用 // 哈萨克斯坦地球科学. 第37届国际地质大会. 哈萨克斯坦地质学会出版. 阿拉木图. 2024. 第9-29页",
+          "塞特穆拉托娃 E.Yu. K.I. 萨特帕耶夫及其同事——地质科学的奠基人 // 地质与矿产保护. 1(90)2024, 第20页",
+          "塞特穆拉托娃 E.Yu. 哈萨克斯坦矿产资源基础现状及 K.I. 萨特帕耶夫地质科学研究所成矿学研究 // MNTK 材料, 2024, 页",
+          "Haoxuan Feng, Reimar Seltmann, Ping Shen, Xiangkai Chu, Qingyu Suo, Eleonora Seitmuratova, Vitaly Shatov. 水热金红石化学和U-Pb年代学指纹确定努尔卡兹甘巨型斑岩铜金矿床的形成年代（中哈萨克斯坦） // Ore Geology Reviews. 2024, 百分位 85%",
+          "Changhao Li, Ping Shen, Reimar Seltmann, Di Zhang, Hongdi Pan, Eleonora Seitmuratova. 哈萨克斯坦阿克托盖斑岩铜矿床的石英结构、微量元素、流体包裹体和原位氧同位素 // American Mineralogist. 2024, Scopus, 百分位 89",
+          "Baratov Refat T., Seitmuratova Eleonora Y., Murtazin Ermek Z., Dautbekov Diyas O., Kelyukhov Vyacheslav N. 输-萨雷苏洼地盐水中的锂浓度 // Applied Sciences (瑞士), 开放获取, 第14卷, 第12期, 2024年6月, 文章编号 5351 https://www.mdpi.com/2076-3417/14/12/5351 Q1/79",
+          "Seitmuratova E., Ping Sh., Baratov R., Dautbekov D., Mashrapova M., Shadiyev N., Arshamov Ya. 准噶尔-巴尔喀什褶皱带大陆火山-深成带的特征 // Mining of Mineral Deposits (乌克兰). 2024. 第18卷, 第3期, 第63-81页, Scopus, 百分位 77%"
+      ]
     },
     "activeProjects": {
-      "ru": ["Требует заполнения"],
-      "en": ["Required field"],
-      "kz": ["Міндетті түрде толтыру қажет"],
-      "zh": ["必填项"]
+      "ru": [
+        "Оценка промышленных перспектив рудоносности Шынгыс-Тарбагатайской складчатой системы с позиций современных геотектонических концепций"
+      ],
+      "en": [
+        "Assessment of the industrial prospects of ore-bearing potential of the Shyngys-Tarbagatai fold system from the perspective of modern geotectonic concepts"
+      ],
+      "kz": [
+        "Шыңғыс-Тарбағатай қатпарлы жүйесінің рудалылығының өндірістік перспективаларын қазіргі геотектоникалық тұжырымдамалар тұрғысынан бағалау"
+      ],
+      "zh": [
+        "从现代地球构造概念出发评估申吉斯-塔尔巴盖塔伊褶皱系统成矿性的工业前景"
+      ]
     },
     "finishedProjects": {
       "ru": [
               "Геологическое доизучение Акчатау-Коунрадского рудного района (масштаб 1:200000). Один из руководителей и основных исполнителей.",
-              "Составление «Карты перспективных золоторудных площадей, рудных узлов и участков» (масштаб 1:500 000). Разработаны критерии поиска эпитермального золото-серебряного оруденения."
+              "Составление «Карты перспективных золоторудных площадей, рудных узлов и участков» (масштаб 1:500 000). Разработаны критерии поиска эпитермального золото-серебряного оруденения.",
+              "Определение и оценка промышленных перспектив рудоносности структурно- формационных зон палеозоид Казахстана на базе анализа металлогенограмм»",
+              "Выявление научно-обоснованных перспективных площадей для обнаружения крупнообъемных эпитермальных золото- серебряных месторождений убогих руд в вулкано-плутонических поясах Казахстана.",
+              "Изучение рудоносности кольцевых структур Центрального и Южного Казахстана с выявлением наиболее перспективных из них для постановки поисковых работ"
             ],
       "en": [
               "Geological re-study of the Akchatau-Kounrad ore district (scale 1:200,000). One of the leaders and main performers.",
-              "Compilation of the 'Map of promising gold ore areas, ore nodes and sites' (scale 1:500,000). Search criteria for epithermal gold-silver mineralization have been developed."
+              "Compilation of the 'Map of promising gold ore areas, ore nodes and sites' (scale 1:500,000). Search criteria for epithermal gold-silver mineralization have been developed.",
+              "Determination and assessment of the industrial prospects of ore-bearing structural-formational zones of the Paleozoides of Kazakhstan based on the analysis of metallogenograms",
+              "Identification of scientifically substantiated prospective areas for the discovery of large-volume epithermal gold-silver deposits of low-grade ores in the volcano-plutonic belts of Kazakhstan.",
+              "Study of the ore potential of ring structures in Central and Southern Kazakhstan with identification of the most promising ones for exploration work"
+
             ],
       "kz": [
               "Ақшатау-Коунрад рудалы ауданын геологиялық қайта зерттеу (масштаб 1:200000). Басшылардың және негізгі орындаушылардың бірі.",
-              "«Перспективалы алтын кені бар алаңдар, рудалы түйіндер мен учаскелер картасын» (масштаб 1:500 000) құрастыру. Эпитермальды алтын-күміс кентастарын іздеу критерийлері әзірленді."
+              "«Перспективалы алтын кені бар алаңдар, рудалы түйіндер мен учаскелер картасын» (масштаб 1:500 000) құрастыру. Эпитермальды алтын-күміс кентастарын іздеу критерийлері әзірленді.",
+              "Қазақстан палеозойының құрылымдық-формациялық белдеулерінің рудалылығының өндірістік перспективаларын металлогенограммалар талдауына негізделген анықтау және бағалау",
+              "Қазақстанның вулканды-плутоникалық белдеулеріндегі кедей рудалы ірі көлемді эпитермальды алтын-күміс кен орындарын анықтау үшін ғылыми негізделген перспективалы учаскелерді анықтау.",
+              "Орталық және Оңтүстік Қазақстандағы шеңберлі құрылымдардың рудалылығын зерттеу және іздестіру жұмыстары үшін ең перспективалы нысандарды айқындау"
             ],
       "zh": [
               "阿克恰套-库纳拉德矿区的地质再研究（比例尺1:200000）。是主要负责人和主要执行人之一。",
-              "编制“有前景金矿区、矿集区和矿段图”（比例尺1:500000）。制定了寻找浅成低温金银矿化的找矿标志。"
+              "编制“有前景金矿区、矿集区和矿段图”（比例尺1:500000）。制定了寻找浅成低温金银矿化的找矿标志。",
+              "基于成矿图谱分析确定和评估哈萨克斯坦古生代构造-岩相带成矿性的工业前景",
+              "确定在哈萨克斯坦火山-深成岩带内发现低品位大型热液型金银矿床的科学依据前景区。",
+              "研究中部和南部哈萨克斯坦环形构造的成矿性，并确定其中最有前景的区域以开展勘探工作"
             ]
     },
     "teachings": {
@@ -489,7 +553,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/seitmuratova.png"
+    "image": "/scientists/seitmuratova.webp"
   },
   {
     "id": 4,
@@ -646,7 +710,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/scientist3.jpeg"
+    "image": "/scientists/antonenko.webp"
   },
   {
     "id": 5,
@@ -826,7 +890,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/bekenova.png"
+    "image": "/scientists/bekenova.webp"
   },
   {
     "id": 6,
@@ -849,8 +913,8 @@
       "zh": "地层学\n古生物学\n生物地层学\n有孔虫\n石炭纪"
     },
     "shortInfo": {
-      "ru": "Опытный стратиграф и палеонтолог, специалист по биостратиграфии девона и карбона Казахстана, участница крупных международных проектов. Руководитель лаборатории стратиграфии",
-      "en": "An experienced stratigrapher and paleontologist, a specialist in the biostratigraphy of the Devonian and Carboniferous of Kazakhstan, and a participant in major international projects. Head of the Stratigraphy Laboratory.",
+      "ru": "Руководитель лаборатории стратиграфии, опытный стратиграф и палеонтолог, специалист по биостратиграфии девона и карбона Казахстана, участница крупных международных проектов.",
+      "en": "Head of the Stratigraphy Laboratory, an experienced stratigrapher and paleontologist, a specialist in the biostratigraphy of the Devonian and Carboniferous of Kazakhstan, and a participant in major international projects.",
       "kz": "Қазақстанның девон және карбон дәуірлерінің биостратиграфиясы бойынша маман, тәжірибелі стратиграф және палеонтолог, ірі халықаралық жобалардың қатысушысы. Стратиграфия зертханасының меңгерушісі.",
       "zh": "经验丰富的地层学家和古生物学家，哈萨克斯坦泥盆纪和石炭纪生物地层学专家，大型国际项目的参与者。地层学实验室主任。"
     },
@@ -1001,7 +1065,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/zhaimina.png"
+    "image": "/scientists/zhaimina.webp"
   },
   {
     "id": 7,
@@ -1114,22 +1178,26 @@
       "ru": [
         "INTAS «Процесс формирования кочевых племён в Семиречье в бронзовом и раннежелезном веках. Экология и археология»: Получены уникальные материалы по изменению климата и растительности, увязанные с хозяйственной деятельностью древних культур (требует заполнения ссылки на публикацию).",
         "Палинологическое изучение кернов нефтегазовых скважин (2005 г.): Выполнен комплексный биоспортиграфический анализ кернов совместно с коллективом палинологов института.",
-        "Атлас опорных разрезов нейрозоя (2002 г.): Подготовлен фундаментальный труд, отражающий стратиграфические и климатические реконструкции по ключевым разрезам региона."
+        "Атлас опорных разрезов нейрозоя (2002 г.): Подготовлен фундаментальный труд, отражающий стратиграфические и климатические реконструкции по ключевым разрезам региона.",
+        "Геолого-палеонтологические и палеоклиматические исследования кайнозойских отложений Центрального Казахстана как основы для прогнозирования месторождений полезных ископаемых."
       ],
       "en": [
         "INTAS 'The process of formation of nomadic tribes in Semirechye during the Bronze and Early Iron Ages. Ecology and archaeology': Unique materials were obtained on climate and vegetation changes linked to the economic activities of ancient cultures (link to publication needs to be provided).",
         "Palynological study of cores from oil and gas wells (2005): A comprehensive biospore-stratigraphic analysis of cores was carried out jointly with the institute's team of palynologists.",
-        "Atlas of key sections of the Neurozoic (2002): A fundamental work was prepared, reflecting stratigraphic and climatic reconstructions of the region's key sections."
+        "Atlas of key sections of the Neurozoic (2002): A fundamental work was prepared, reflecting stratigraphic and climatic reconstructions of the region's key sections.",
+        "Geological-paleontological and paleoclimatic studies of Cenozoic deposits of Central Kazakhstan as a basis for forecasting mineral deposits."
       ],     
       "kz": [
         "INTAS «Жетісуда қола және ерте темір дәуірлерінде көшпелі тайпалардың қалыптасу процесі. Экология және археология»: Ежелгі мәдениеттердің шаруашылық қызметімен байланыстырылған климат пен өсімдіктер жамылғысының өзгерісі бойынша бірегей материалдар алынды (жарияланым сілтемесін толықтыру қажет).",
         "Мұнай-газ ұңғымаларының өзектерін палинологиялық зерттеу (2005 ж.): Институт палинологтар ұжымымен бірге өзектердің кешенді биоспортиграфиялық талдауы жүргізілді.",
-        "Нейрозойдың тірек қималары атласы (2002 ж.): Аймақтың негізгі қималары бойынша стратиграфиялық және климаттық реконструкцияларды бейнелейтін іргелі еңбек дайындалды."
+        "Нейрозойдың тірек қималары атласы (2002 ж.): Аймақтың негізгі қималары бойынша стратиграфиялық және климаттық реконструкцияларды бейнелейтін іргелі еңбек дайындалды.",
+        "Орталық Қазақстанның кайнозойлық шөгінділерінің геологиялық-палеонтологиялық және палеоклиматтық зерттеулері пайдалы қазбалар кен орындарын болжаудың негізі ретінде."
       ],
       "zh": [
         "INTAS“七河地区青铜时代和早期铁器时代游牧部落形成过程：生态与考古”：获得了与古代文化经济活动相关的气候和植被变化的独特资料（需补充出版物链接）。",
         "油气井岩心的孢粉学研究（2005年）：与研究所孢粉学家团队共同完成了岩心的综合孢粉地层分析。",
-        "神经代基础剖面图集（2002年）：编制了反映该地区主要剖面的地层和气候重建的基础性著作。"
+        "神经代基础剖面图集（2002年）：编制了反映该地区主要剖面的地层和气候重建的基础性著作。",
+        "中哈萨克斯坦新生代地层的地质古生物学和古气候研究作为预测矿产资源的基础。"
       ]
     },
     "teachings": {
@@ -1177,7 +1245,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/nigmatova.png"
+    "image": "/scientists/nigmatova.webp"
   },
   {
     "id": 8,
@@ -1295,7 +1363,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/zhukov.png"
+    "image": "/scientists/zhukov.webp"
   },
   {
     "id": 9,
@@ -1401,7 +1469,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/glagolev.png"
+    "image": "/scientists/glagolev.webp"
   },
   {
     "id": 10,
@@ -1529,7 +1597,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/levin.png"
+    "image": "/scientists/levin.webp"
   },
   {
     "id": 11,
@@ -1646,7 +1714,7 @@
       "kz": "Міндетті түрде толтыру қажет",
       "zh": "必填项"
     },
-    "image": "/scientists/goryaeva.png"
+    "image": "/scientists/goryaeva.webp"
   },
   {
     "id": 12,
@@ -1772,6 +1840,228 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "image": "/scientists/pirogova.png"
+    "image": "/scientists/pirogova.webp"
+  },
+  {
+    "id": 13,
+    "name": {
+      "ru": "Г. Ж. Жолтаев",
+      "en": "G. Zh. Zholtaev",
+      "kz": "Г. Ж. Жолтаев",
+      "zh": "G. Zh. 乔尔塔耶夫"
+    },
+    "title": {
+      "ru": "Советник директора, Доктор геолого-минералогических наук, профессор, Академик Международной академии минеральных ресурсов, Международной инженерной академии и Национальной инженерной академии Республики Казахстан, почетный академик НАН РК",
+      "en": "Advisor to the Director, Doctor of Geological and Mineralogical Sciences, Professor, Academician of the International Academy of Mineral Resources, International Engineering Academy and National Engineering Academy of the Republic of Kazakhstan, Honorary Academician of the National Academy of Sciences of the Republic of Kazakhstan",
+      "kz": "Директордың кеңесшісі, геология-минералогия ғылымдарының докторы, профессор, Халықаралық минералдық ресурстар академиясының, Халықаралық инженерлік академиясының және Қазақстан Республикасының Ұлттық инженерлік академиясының академигі, ҚР Ұлттық ғылым академиясының құрметті академигі",
+      "zh": "院长顾问，地质矿物学博士，教授，国际矿产资源科学院院士，国际工程科学院和哈萨克斯坦共和国国家工程科学院院士，哈萨克斯坦共和国国家科学院名誉院士"
+    },
+    "specTags": {
+      "ru": "Геология и разведка нефтяных и газовых месторождений\nГеология нефти и газа\nНефтегазоносность Казахстана\nГеология нефтегазовых областей",
+      "en": "Geology and exploration of oil and gas fields\nPetroleum geology\nOil and gas potential of Kazakhstan\nGeology of oil and gas regions",
+      "kz": "Мұнай және газ кен орындарының геологиясы мен барлауы\nМұнай мен газ геологиясы\nҚазақстанның мұнай-газ әлеуеті\nМұнай-газ аймақтарының геологиясы",
+      "zh": "石油和天然气田地质与勘探\n石油与天然气地质\n哈萨克斯坦石油天然气潜力\n油气区地质"
+    },
+    "shortInfo": {
+      "ru": "Жолтаев Геро́й Жолтаевич — видный учёный в области геологии нефти и газа. Имеет значительный вклад в разработку учебных программ и методических пособий по геологии нефтегазовых месторождений Казахстана и зарубежных стран.",
+      "en": "Zholtaev Geroy Zholtayevich is a prominent scientist in the field of petroleum geology. He has made a significant contribution to the development of educational programs and methodological manuals on the geology of oil and gas fields of Kazakhstan and foreign countries.",
+      "kz": "Жолтаев Герой Жолтайұлы — мұнай мен газ геологиясы саласындағы көрнекті ғалым. Қазақстан мен шетелдердің мұнай-газ кен орындарының геологиясы бойынша оқу бағдарламалары мен әдістемелік құралдарын әзірлеуге үлкен үлес қосты.",
+      "zh": "乔尔塔耶夫·赫罗伊·乔尔塔耶维奇是石油地质领域的杰出科学家。他在哈萨克斯坦及外国油气田地质学教育课程和方法手册的开发方面作出了重要贡献。"
+    },
+    "review": {
+      "ru": [
+        "Жолтаев Геро́й Жолтаевич — выдающийся учёный в области геологии нефти и газа, один из ведущих специалистов Казахстана, посвятивший более полувека развитию нефтегазовой геологии страны. Его профессиональный путь — пример беззаветного служения науке, высокого мастерства и педагогического таланта.",
+        "Окончил Казахский политехнический институт им. В.И. Ленина по специальности «Геология и разведка нефтяных и газовых месторождений». С 1963 по 1993 годы прошёл путь от ассистента до доцента кафедры геологии и разведки нефтяных и газовых месторождений, а в 1979–1992 гг. занимал должности заместителя декана и декана нефтяного факультета КазПТИ. С 1993 года — профессор и заведующий кафедрой геологии нефти и газа. В 2000–2004 гг. работал проректором по научной работе и международным связям. С 2004 по 2016 годы возглавлял кафедру геологии нефти и газа КазНТУ / КазНИТУ. В 2009–2010 гг. — директор Института геологических наук им. К.И. Сатпаева. С 2017 года — директор ТОО «Институт геологических наук им. К.И. Сатпаева».",
+        "Жолтаев Геро́й Жолтаевич внёс значительный вклад в изучение нефтегазоносных областей Казахстана, разработку методов прогнозирования и оценки нефтегазовых ресурсов. Он активно участвовал в создании учебных программ, учебников и методических пособий для подготовки молодых специалистов. Автор более 300 научных трудов, включая 4 монографии, 15 методических указаний и 5 учебных пособий, соавтор учебников по геологии нефтегазовых месторождений Казахстана, Алжира и Кубы.",
+        "Его научные интересы охватывают геологию нефтегазоносных бассейнов, нефтегазоносность Казахстана, геологию нефтегазовых областей, структурную геоморфологию и региональную стратиграфию. Он уделяет большое внимание подготовке кадров: его воспитанники занимают руководящие и исследовательские должности в научных центрах, вузах и производственных компаниях страны и за рубежом.",
+        "Сегодня Жолтаев Геро́й Жолтаевич — признанный авторитет в геологическом сообществе, продолжает делиться своим опытом, вносить вклад в развитие отечественной науки и подготовку нового поколения геологов."
+      ],
+      "en": [
+        "Heroi Zholtayev is an outstanding scientist in the field of oil and gas geology, one of Kazakhstan's leading specialists who has devoted more than half a century to the development of the country's petroleum geology. His professional path is an example of selfless service to science, high skill, and pedagogical talent.",
+        "He graduated from the V.I. Lenin Kazakh Polytechnic Institute with a degree in 'Geology and exploration of oil and gas fields'. From 1963 to 1993, he rose from assistant to associate professor of the department of geology and exploration of oil and gas fields, and in 1979–1992 served as deputy dean and dean of the oil faculty of KazPTI. Since 1993, he has been a professor and head of the department of oil and gas geology. From 2000 to 2004, he served as vice-rector for research and international relations. From 2004 to 2016, he headed the department of oil and gas geology of KazNTU / KazNITU. In 2009–2010, he was the director of the Satpayev Institute of Geological Sciences. Since 2017, he has been the director of LLP 'Satpayev Institute of Geological Sciences'.",
+        "Heroi Zholtayev made a significant contribution to the study of oil and gas regions of Kazakhstan, the development of methods for forecasting and evaluating oil and gas resources. He actively participated in the creation of educational programs, textbooks, and teaching aids for training young specialists. He is the author of more than 300 scientific works, including 4 monographs, 15 methodological guidelines, and 5 textbooks, and co-author of textbooks on oil and gas geology of Kazakhstan, Algeria, and Cuba.",
+        "His scientific interests cover the geology of oil and gas basins, oil and gas potential of Kazakhstan, geology of petroleum regions, structural geomorphology, and regional stratigraphy. He pays great attention to personnel training: his students hold leadership and research positions in scientific centers, universities, and production companies in Kazakhstan and abroad.",
+        "Today, Heroi Zholtayev is a recognized authority in the geological community, continues to share his experience, and contributes to the development of domestic science and the training of a new generation of geologists."
+      ],
+      "kz": [
+        "Герой Жолтаев — Қазақстанның мұнай-газ геологиясы саласындағы көрнекті ғалым, еліміздің мұнай-газ геологиясының дамуына жарты ғасырдан астам өмірін арнаған жетекші мамандардың бірі. Оның кәсіби жолы — ғылымға адал қызмет етудің, жоғары шеберліктің және педагогикалық дарынның үлгісі.",
+        "Ол В.И. Ленин атындағы Қазақ политехникалық институтын «Мұнай және газ кен орындарын геологиясы және барлау» мамандығы бойынша тәмамдады. 1963–1993 жылдары мұнай және газ кен орындарын геологиясы және барлау кафедрасында ассистенттен доцентке дейінгі жолдан өтті, 1979–1992 жылдары ҚазПТИ-дің мұнай факультетінде деканның орынбасары және деканы қызметтерін атқарды. 1993 жылдан бастап мұнай және газ геологиясы кафедрасының профессоры әрі меңгерушісі. 2000–2004 жылдары ғылыми жұмыс және халықаралық байланыстар жөніндегі проректор болды. 2004–2016 жылдары ҚазҰТУ / ҚазҰИТУ мұнай және газ геологиясы кафедрасын басқарды. 2009–2010 жылдары К.И. Сәтбаев атындағы Геологиялық ғылымдар институтының директоры. 2017 жылдан бастап «К.И. Сәтбаев атындағы Геологиялық ғылымдар институты» ЖШС директоры.",
+        "Герой Жолтаев Қазақстанның мұнай-газ аймақтарын зерттеу, мұнай-газ ресурстарын болжау және бағалау әдістерін әзірлеуге үлкен үлес қосты. Жас мамандарды даярлауға арналған оқу бағдарламаларын, оқулықтар мен әдістемелік құралдарды жасауға белсенді қатысты. 300-ден астам ғылыми жұмыстың, оның ішінде 4 монографияның, 15 әдістемелік нұсқаудың және 5 оқу құралының авторы, Қазақстан, Алжир және Куба мұнай-газ кен орындарының геологиясы бойынша оқулықтардың авторы.",
+        "Оның ғылыми қызығушылықтары мұнай-газ бассейндерінің геологиясын, Қазақстанның мұнай-газдылығын, мұнай-газ аймақтарының геологиясын, құрылымдық геоморфологияны және аймақтық стратиграфияны қамтиды. Ол кадр даярлауға үлкен мән береді: оның шәкірттері елімізде және шетелде ғылыми орталықтарда, жоғары оқу орындарында және өндірістік компанияларда басшылық және зерттеу қызметтерін атқарады.",
+        "Бүгінгі күні Герой Жолтаев — геологиялық қоғамдастықта мойындалған бедел иесі, өз тәжірибесімен бөлісуді, отандық ғылымды дамытуға және жаңа буын геологтарын даярлауға үлес қосуды жалғастыруда."
+      ],
+      "zh": [
+        "赫罗伊·若尔塔耶夫是哈萨克斯坦油气地质领域杰出的科学家，是该国石油地质发展半个多世纪的重要推动者之一。他的职业生涯是忠诚于科学、高超技艺和教育才能的典范。",
+        "他毕业于列宁命名的哈萨克理工学院，专业是“油气田地质与勘探”。1963年至1993年间，他从助教成长为油气田地质与勘探教研室副教授，1979年至1992年间曾任哈工石油系副院长和院长。自1993年起，任油气地质教研室主任、教授。2000年至2004年担任科研和国际合作副校长。2004年至2016年任哈国科大/哈国理工油气地质教研室主任。2009年至2010年，任萨特帕耶夫地质科学研究所所长。自2017年以来，担任“萨特帕耶夫地质科学研究所”有限责任公司董事长。",
+        "赫罗伊·若尔塔耶夫在研究哈萨克斯坦油气区、开发油气资源预测和评估方法方面作出了重要贡献。他积极参与制定培训年轻专家的教学大纲、教材和教学参考资料。发表了300多篇科学著作，包括4本专著、15本教学指导书和5本教科书，是哈萨克斯坦、阿尔及利亚和古巴油气田地质学教科书的合著者。",
+        "他的科研兴趣包括油气盆地地质、哈萨克斯坦油气潜力、油气区地质、构造地貌学和区域地层学。他高度重视人才培养，他的学生在国内外科研机构、高校和生产企业中担任领导和科研岗位。",
+        "如今，赫罗伊·若尔塔耶夫是地质学界公认的权威，继续分享他的经验，为国内科学发展和新一代地质学家的培养做出贡献。"
+      ]
+    },
+    "quotes": {
+      "ru": [""],
+      "en": [""],
+      "kz": [""],
+      "zh": [""]
+    },
+    "publications": {
+      "ru": [
+        "«Геология нефтяных и газовых месторождений Алжира», 1977",
+        "«Геология нефтяных месторождений Кубы», 1981",
+        "«Геологическое строение и нефтегазоносность Южного Торгая», 1998",
+        "«Геологическое строение и перспективы нефтегазоносности Северного и Среднего Каспия», 2005",
+        "«Нефтепромысловая геология и подсчет запасов», 2009",
+        "«Геологические основы разработки нефтяных и газовых месторождений», 2009",
+        "«Научное обоснование углеводородного потенциала Республики Казахстан», 2013",
+        "Жолтаев Г.Ж. Геодинамическая модель сырдарьинской впадины и оценка перспектив нефтегазоносности палеозойских отложений. // Материалы конференции «Актуальные проблемы нефтегазовой геологии и освоения углеводородного потенциала недр и пути их решения» Акромходжаевские чтения. Ташкент 2023 г., с.154",
+        "Жолтаев Г.Ж. К.И. Сатпаев - основатель науки о Земле в Казахстане. // Геология и охрана недр. 1(90)2024, с. 8",
+        "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Атлас закономерностей размещения твердых полезных ископаемых. Алматы 2024. Монография с. 250"
+      ],
+      "en": [
+      "\"Geology of Oil and Gas Fields of Algeria\", 1977",
+      "\"Geology of Oil Fields of Cuba\", 1981",
+      "\"Geological Structure and Oil and Gas Potential of Southern Torgai\", 1998",
+      "\"Geological Structure and Prospects for Oil and Gas Potential of the Northern and Central Caspian\", 2005",
+      "\"Oilfield Geology and Reserves Estimation\", 2009",
+      "\"Geological Foundations for the Development of Oil and Gas Fields\", 2009",
+      "\"Scientific Justification of the Hydrocarbon Potential of the Republic of Kazakhstan\", 2013",
+      "Zholtaev G.Zh. Geodynamic Model of the Syrdarya Depression and Assessment of Oil and Gas Prospects of Paleozoic Deposits. // Conference Materials \"Current Issues of Oil and Gas Geology and Development of Hydrocarbon Potential of Subsoil and Ways of Their Solution\" Akromkhodzhaev Readings. Tashkent 2023, p. 154",
+      "Zholtaev G.Zh. K.I. Satpayev - Founder of Earth Science in Kazakhstan. // Geology and Subsoil Protection. 1(90)2024, p. 8",
+      "Zholtaev G.Zh., Zhukov N.M., Antonenko A.A. Atlas of the Regularities of Solid Mineral Deposits Distribution. Almaty 2024. Monograph p. 250"
+    ],
+    "kz": [
+      "«Алжирдің мұнай және газ кен орындарының геологиясы», 1977",
+      "«Кубаның мұнай кен орындарының геологиясы», 1981",
+      "«Оңтүстік Торғайдың геологиялық құрылысы және мұнай-газдылығы», 1998",
+      "«Солтүстік және Орта Каспийдің геологиялық құрылысы және мұнай-газдылығының перспективалары», 2005",
+      "«Мұнай кәсіпшілігі геологиясы және қорларды есептеу», 2009",
+      "«Мұнай және газ кен орындарын игерудің геологиялық негіздері», 2009",
+      "«Қазақстан Республикасының көмірсутек әлеуетінің ғылыми негіздемесі», 2013",
+      "Жолтаев Г.Ж. Сырдария ойпатының геодинамикалық моделі және палеозой шөгінділерінің мұнай-газдылық перспективаларын бағалау. // «Мұнай-газ геологиясының өзекті мәселелері және жер қойнауының көмірсутек әлеуетін игеру жолдары» конференция материалдары Акромходжаев оқулары. Ташкент 2023 ж., 154-бет",
+      "Жолтаев Г.Ж. Қ.И. Сәтбаев – Қазақстандағы Жер туралы ғылымның негізін қалаушы. // Геология және жер қойнауын қорғау. 1(90)2024, 8-бет",
+      "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Қатты пайдалы қазбалардың орналасу заңдылықтарының атласы. Алматы 2024. Монография 250-бет"
+    ],
+    "zh": [
+      "《阿尔及利亚油气田地质》，1977",
+      "《古巴油田地质》，1981",
+      "《南托尔盖地质构造与油气资源潜力》，1998",
+      "《北部和中部里海地质构造与油气资源前景》，2005",
+      "《油田地质与储量计算》，2009",
+      "《油气田开发的地质基础》，2009",
+      "《哈萨克斯坦共和国碳氢化合物潜力的科学依据》，2013",
+      "Жолтаев Г.Ж. 锡尔河洼地的地球动力学模型及古生代沉积物油气资源前景评估 // 会议材料《油气地质及矿产潜力开发的热点问题及解决途径》阿克罗姆霍贾耶夫研讨会。塔什干 2023，第154页",
+      "Жолтаев G.Ж. K.I. 萨特帕耶夫——哈萨克斯坦地球科学的奠基人 // 《地质与矿产保护》。1(90)2024，第8页",
+      "Жолтаев G.Ж., Жуков N.М., Антоненко A.A. 固体矿产分布规律图集。阿拉木图 2024。专著，第250页"
+    ]
+    },
+    "activeProjects": {
+      "ru": [
+        "Научное обоснование расширения и восполнения минеральных ресурсов приоритетных и критических полезных ископаемых – основа инновационного развития Казахстана",
+        "Переоценка промышленных перспектив развития минерально-сырьевой базы золота важнейших горнорудных районов Казахстана с современных геодинамических позиций",
+        "Разработка геодинамических моделей строения Сырдарьинского и Северно- Торгайского осадочных бассейнов и разработка проекта региональных геологоразведочных работ",
+        "Провести перспективную оценку выявления месторождений меди, свинца, цинка и других видов минерального сырья в Балхашском регионе и прилегающих территорий Казахстана"
+      ],
+      "en": [
+        "Scientific justification for the expansion and replenishment of mineral resources of priority and critical minerals – the basis for Kazakhstan's innovative development",
+        "Reassessment of the industrial prospects for the development of the mineral resource base of gold in major mining regions of Kazakhstan from the standpoint of modern geodynamics",
+        "Development of geodynamic models of the structure of the Syrdarya and North Torgai sedimentary basins and drafting a project for regional geological exploration works",
+        "Prospective assessment for the discovery of copper, lead, zinc and other types of mineral raw material deposits in the Balkhash region and adjacent territories of Kazakhstan"
+      ],
+      "kz": [
+        "Басым және стратегиялық маңызды пайдалы қазбалардың минералдық ресурстарын кеңейту мен толықтырудың ғылыми негіздемесі – Қазақстанның инновациялық дамуының негізі",
+        "Қазақстанның ірі кенді аудандарындағы алтынның минералдық-шикізат базасын дамыту бойынша өндірістік перспективаларды қазіргі геодинамикалық ұстанымдардан қайта бағалау",
+        "Сырдария және Солтүстік Торғай шөгінді бассейндерінің құрылысының геодинамикалық модельдерін әзірлеу және өңірлік геологиялық барлау жұмыстары жобасын жасау",
+        "Балқаш аймағы мен оған іргелес Қазақстан аумақтарында мыс, қорғасын, мырыш және басқа да минералдық шикізат түрлерінің кен орындарын анықтаудың перспективалық бағалауын жүргізу"
+      ],
+      "zh": [
+        "优先和关键矿产资源扩张与补充的科学依据——哈萨克斯坦创新发展的基础",
+        "从现代地球动力学角度重新评估哈萨克斯坦主要矿区金矿矿产资源基地开发的工业前景",
+        "制定锡尔河和北托尔盖沉积盆地构造的地球动力学模型，并制定区域地质勘探项目",
+        "对在巴尔喀什地区及其毗邻的哈萨克斯坦领土发现铜、铅、锌及其他矿产资源矿床的前景进行评估"
+      ]
+    },
+    "finishedProjects": {
+      "ru": [
+        "Атлас закономерностей размещения месторождений твердых полезных ископаемых.",
+        "Составление кадастра и атласа памятников геологической природы Республики Казахстан как научная основа рационального природопользования",
+        "Переоценка промышленных перспектив развития минерально-сырьевой базы золота важнейших горнорудных районов Казахстана с современных геодинамических позиций",
+        "Геодинамическая модель и перспективы нефтегазоносности палеозойских отложений Торгайского бассейна"
+      ],
+      "en": [
+        "Atlas of patterns of solid mineral deposits distribution.",
+        "Compilation of a cadastre and atlas of geological nature monuments of the Republic of Kazakhstan as a scientific basis for rational use of natural resources.",
+        "Reassessment of the industrial prospects for the development of the mineral resource base of gold in major mining regions of Kazakhstan from the standpoint of modern geodynamics.",
+        "Geodynamic model and prospects for oil and gas potential of Paleozoic deposits of the Torgai Basin"
+      ],
+      "kz": [
+        "Қатты пайдалы қазбалар кен орындарының орналасу заңдылықтарының атласы.",
+        "Қазақстан Республикасының геологиялық табиғат ескерткіштерінің кадастрын және атласын жасау – табиғи ресурстарды ұтымды пайдалану үшін ғылыми негіз.",
+        "Қазақстанның ірі кенді аудандарындағы алтынның минералдық-шикізат базасын дамыту бойынша өндірістік перспективаларды қазіргі геодинамикалық ұстанымдардан қайта бағалау.",
+        "Торғай ойпатының палеозойлық жыныстарының геодинамикалық моделі мен мұнай-газдылық перспективалары"
+      ],
+      "zh": [
+        "固体矿产矿床分布规律图集。",
+        "编制哈萨克斯坦共和国地质自然遗迹名录和图集，作为合理利用自然资源的科学基础。",
+        "从现代地球动力学角度重新评估哈萨克斯坦主要矿区金矿矿产资源基地开发的工业前景。",
+        "托尔盖盆地古生代地层的地球动力学模型及油气远景"
+      ]
+    },
+    "teachings": {
+      "ru": ["Требует заполнения"],
+      "en": ["Required field"],
+      "kz": ["Міндетті түрде толтыру қажет"],
+      "zh": ["必填项"]
+    },
+    "achievements": {
+      "ru": [
+        "Почетный разведчик недр Казахстана",
+        "Отличник нефтяной промышленности СССР",
+        "Лауреат Национальной премии «Золотой Прометей»",
+        "Лауреат Государственной премии РК (2015 г.)",
+        "Орден «Курмет» (РК)",
+        "Орден «Парасат» (РК, 2019 г.)",
+        "Орден «Барс» (РК, 2023 г.)",
+        "Медаль «За доблестный труд» (СССР)",
+        "Медаль «Айрықша еңбегі үшін» (РК)",
+        "Почетный профессор нескольких казахстанских и зарубежных университетов"
+      ],
+      "en": [
+        "Honorary Subsoil Explorer of Kazakhstan",
+        "Excellence in the Oil Industry of the USSR",
+        "Laureate of the National Award 'Golden Prometheus'",
+        "Laureate of the State Prize of the Republic of Kazakhstan (2015)",
+        "Order of Kurmet (RK)",
+        "Order of Parasat (RK, 2019)",
+        "Order of Bars (RK, 2023)",
+        "Medal 'For Valiant Labor' (USSR)",
+        "Medal 'For Special Merit' (RK)",
+        "Honorary professor of several Kazakh and foreign universities"
+      ],
+      "kz": [
+        "Қазақстанның Құрметті барлаушысы",
+        "КСРО мұнай өнеркәсібінің үздігі",
+        "Ұлттық «Алтын Прометей» сыйлығының лауреаты",
+        "Қазақстан Республикасының Мемлекеттік сыйлығының лауреаты (2015 ж.)",
+        "«Құрмет» ордені (ҚР)",
+        "«Парасат» ордені (ҚР, 2019 ж.)",
+        "«Барыс» ордені (ҚР, 2023 ж.)",
+        "«Ерен еңбегі үшін» медалі (КСРО)",
+        "«Айрықша еңбегі үшін» медалі (ҚР)",
+        "Қазақстанның және шетелдің бірнеше университетінің құрметті профессоры"
+      ],
+      "zh": [
+        "哈萨克斯坦荣誉矿产勘探者",
+        "苏联石油工业优秀工作者",
+        "国家奖“金普罗米修斯”获得者",
+        "哈萨克斯坦共和国国家奖获得者（2015年）",
+        "“库尔梅特”勋章（哈萨克斯坦）",
+        "“帕拉萨特”勋章（哈萨克斯坦，2019年）",
+        "“巴尔斯”勋章（哈萨克斯坦，2023年）",
+        "“为英勇劳动”奖章（苏联）",
+        "“为特殊功勋”奖章（哈萨克斯坦）",
+        "多所哈萨克斯坦及海外大学名誉教授"
+      ]
+    },
+    "image": "/scientists/zholtayev.webp"
   }
 ]

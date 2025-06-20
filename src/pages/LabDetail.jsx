@@ -1,7 +1,7 @@
 import labsData from '../labsData.json';
 import { useParams } from 'react-router-dom';
 import Contacts from '../components/Contacts';
-import LabImg from '../assets/labBgImg.png';
+import LabImg from '../assets/labBgImg.webp';
 import LabNavbar from '../components/LabNavbar';
 
 
@@ -37,9 +37,11 @@ export default function LabDetail({ lang }) {
                 />
 
                 <div style={{ marginLeft: '40px', zIndex: 2 }}>
-                    <h1 className='w-50'>{lab.name[lang]}</h1>
-                    <h3>Институт геологических наук им. К. И. Сатпаева</h3>
-                    <p>{lab.slogan[lang]}</p>
+                    <h1 className='w-100'>{lab.name[lang]}</h1>
+                    <br/>
+                    <p style={{fontSize: '20px'}}>{lab.slogan[lang]}</p>
+                    <br/>
+                    {/* <p>Заведующий - {lab.team[lang][0]}</p> */}
                 </div>
             </div>
             <div className='w-100 mx-auto'>

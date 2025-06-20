@@ -68,7 +68,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                {t('Лаборатории', 'Laboratories', 'Зертханалар', '实验室')}
+                {t('Научные лаборатории', 'Laboratories', 'Зертханалар', '实验室')}
                 </NavLink>
                 <ul className="dropdown-menu gap-3" aria-labelledby="labsDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     {labsData.map((lab) => (

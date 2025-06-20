@@ -1,12 +1,30 @@
 import { Tabs, Tab, Container } from 'react-bootstrap';
 import labsData from '../labsData.json';
 import { useParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+
 
 
 export default function LabNavbar({ lang }) {
     const { id } = useParams();
     const lab = labsData[id];
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
+    const scientistsList = [
+        { name: 'О. И. Никитина', id: 1},
+        { name: 'С. М. Оздоев', id: 2},  
+        { name: 'Э. Ю. Сейтмуратова', id: 3}, 
+        { name: 'А. А. Антоненко', id: 4}, 
+        { name: 'Г. К. Бекенова', id: 5}, 
+        { name: 'В. Я. Жаймина', id: 6}, 
+        { name: 'С. А. Нигматова', id: 7}, 
+        { name: 'Н. М. Жуков', id: 8}, 
+        { name: 'В. А. Глаголев', id: 9}, 
+        { name: 'В. Л. Левин', id: 10}, 
+        { name: 'В. С. Горяева', id: 11}, 
+        { name: 'Г. Ж. Жолтаев', id: 12}
+      ]
+
+      
   return (
     <Container className="my-4">
       <Tabs
@@ -43,11 +61,28 @@ export default function LabNavbar({ lang }) {
                 boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
-              <h3>Команда</h3>
-              <ul>
-                {lab.team[lang].map((item, idx) => (
-                  <li key={idx}>{item}</li>
-                ))}
+              <h3 className='mb-3 text-center'>Команда</h3>
+              <ul className='d-flex flex-wrap gap-3 justify-content-center'>
+                {lab.team[lang].map((item, idx) => {
+                  // Find matching scientist object by name
+                  const matchedScientist = scientistsList.find(scientist => item === scientist.name);
+
+                  if (matchedScientist) {
+                    return (
+                      <li key={idx} style={{backgroundColor: idx === 0 ? 'rgb(191, 169, 3)' : 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} className='p-3'>
+                        <Link to={`/scientists-gallery/${matchedScientist.id}`} className="text-white text-decoration-none">
+                          {item}
+                        </Link>
+                      </li>
+                    );
+                  } else {
+                    return (
+                      <li key={idx} style={{backgroundColor: idx === 0 ? 'rgb(191, 169, 3)' : 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} className='text-white p-3'>
+                        {item}
+                      </li>
+                    );
+                  }
+                })}
               </ul>
             </div>
           </div>

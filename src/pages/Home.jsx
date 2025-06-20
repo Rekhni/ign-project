@@ -119,8 +119,8 @@ export default function Home({ lang }) {
         </div>
         <div className="justify-content-center w-100 text-dark" style={{ padding: '30px 0', backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
           <div className="d-flex justify-content-center flex-wrap p-4 gap-3 gap-lg-5">
-            <div className="shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
-              <h3 className="mb-0"><NavLink className='text-decoration-none text-dark' to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></h3>
+            <div className=" shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
+              <h3 className="three-main-btns mb-0"><NavLink className='text-decoration-none text-dark' to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></h3>
             </div>
             <div className="shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
               <h3 className="mb-0"><NavLink className='text-decoration-none text-dark' to="#">GeoSpark</NavLink></h3>

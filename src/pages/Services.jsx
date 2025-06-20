@@ -10,8 +10,8 @@ export default function Services({ lang }) {
           >
             <hr className="bg-dark rounded" style={{ height: '2px', width: '30%'}}/>
             <h1 style={{fontSize: '30px'}}>{t(
-              'Наши услуги', 
-              'Our services', 
+              'Услуги', 
+              'Services', 
               'Қызметтеріміз', 
               '我们的服务'
             )}</h1>

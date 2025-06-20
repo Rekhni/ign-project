@@ -3,7 +3,6 @@ import logo from '../assets/logo.svg';
 import backgroundImg2 from '../assets/bg-img5.png';
 import Contacts from '../components/Contacts.jsx';
 import newsData from '../newsData.json';
-import museumData from '../museumData.json';
 import { NavLink } from 'react-router-dom';
 import PartnersSlider from '../components/PartnersSlider.jsx';
 import partnersData from '../partnersData.json';
@@ -135,7 +134,7 @@ export default function Home({ lang }) {
             </div>
           </div>
         </div>
-        <div className="d-flex flex-column justify-content-center w-100 text-dark bg-white" style={{fontFamily: 'Montserrat', paddingTop: '30px'}}>
+        {/* <div className="d-flex flex-column justify-content-center w-100 text-dark bg-white" style={{fontFamily: 'Montserrat', paddingTop: '30px'}}>
             <div className="d-flex justify-content-center align-items-center gap-3 w-75 mx-auto">
                 <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
                 <h1 className='fs-3 fs-lg-8'>
@@ -163,74 +162,7 @@ export default function Home({ lang }) {
                     allowFullScreen
                 ></iframe>
             </div>
-        </div>
-        <div className="d-flex flex-column justify-content-center w-100 text-white p-3" style={{backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
-            <div className="d-flex justify-content-center align-items-center gap-3 w-75 mx-auto">
-                <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
-                <h1 className='fs-sm-3'>
-                    {t(
-                      "Музей",
-                      "Museum",
-                      "Мұражай",
-                      '博物馆'
-                    )}
-                </h1>
-                <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
-            </div>
-          <div
-            id="carouselExampleAutoplaying2"
-            className="carousel slide w-75"
-            data-bs-ride="carousel"
-            style={{ margin: "30px auto", maxHeight: '500px' }}
-          >
-            <div className="carousel-inner">
-              {museumData[0].images.map((img, index) => (
-                <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
-                  <NavLink to="/museum">
-                    <img
-                      src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
-                      className="d-block w-100 carousel-img"
-                      alt={`museum-${index}`}
-                      style={{ filter: "brightness(60%)" }}
-                    />
-                    <div className="carousel-caption d-none d-md-block fs-sm-2 fs-lg-5">
-                      <h5>{t(
-                        'Нажмите на картину, чтобы подробнее узнать о музее',
-                        'Click on the picture to learn more about the museum',
-                        'Суретті басып, музей туралы толығырақ біліңіз',
-                        '点击图片以了解更多关于博物馆的信息'
-                      )}</h5>
-                    </div>
-                  </NavLink>
-                </div>
-              ))}
-            </div>
-            <button
-              className="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselExampleAutoplaying2"
-              data-bs-slide="prev"
-            >
-              <span
-                className="carousel-control-prev-icon"
-                aria-hidden="true"
-              ></span>
-              <span className="visually-hidden">Previous</span>
-            </button>
-            <button
-              className="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselExampleAutoplaying2"
-              data-bs-slide="next"
-            >
-              <span
-                className="carousel-control-next-icon"
-                aria-hidden="true"
-              ></span>
-              <span className="visually-hidden">Next</span>
-            </button>
-          </div>
-        </div>
+        </div> */}
         <div style={{ margin: '40px 0' }}>
           <PartnersSlider logos={partnersData}/>
         </div>

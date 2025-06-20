@@ -90,7 +90,8 @@
 .scientist-quotes {
   display: flex;
   gap: 20px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .services-item {
@@ -163,6 +164,11 @@
 
 @media (max-width: 576px) {
 
+  .services-item {
+    width: 100%;
+  }
+
+  .service-item
 
 
 .scientist-quotes {

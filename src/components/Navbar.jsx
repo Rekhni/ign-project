@@ -1,9 +1,19 @@
 import { NavLink } from 'react-router-dom';
 import labsData from '../labsData.json';
+import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Navbar({ lang, onToggleLanguage }) {
   const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
+  const [isCollapsed, setIsCollapsed] = useState(true);
+
+    const handleLinkClick = () => {
+    setIsCollapsed(true);
+  };
+
+  const toggleNavbar = () => {
+    setIsCollapsed(!isCollapsed);
+  };
 
   return (
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top text-white" style={{backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat', fontSize: '15px'}}>
@@ -20,13 +30,13 @@ export default function Navbar({ lang, onToggleLanguage }) {
         <option value="zh">CN</option>
       </select>
         {/* <NavLink className="navbar-brand fw-bold" to="/"><img src={logo} alt="Логотип" height="70"/></NavLink> */}
-        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <button className="navbar-toggler" type="button" onClick={toggleNavbar}>
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ms-auto gap-4">
+        <div className={`collapse navbar-collapse ${!isCollapsed ? 'show' : ''}`} id="navbarNav">
+          <ul className="navbar-nav ms-auto gap-4 d-flex flex-wrap justify-content-end">
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/ign-project/" end>
+              <NavLink className="nav-link text-white" to="/ign-project/" end onClick={handleLinkClick}>
               {t('Главная', 'Home', 'Басты бет', '首页')}
               </NavLink>
             </li>
@@ -42,19 +52,19 @@ export default function Navbar({ lang, onToggleLanguage }) {
               
               </NavLink>
                 <ul className="dropdown-menu gap-3" aria-labelledby="aboutDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
-                   <li><NavLink className="dropdown-item text-white" to="/history" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                   <li><NavLink className="dropdown-item text-white" to="/history" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     {t('История', 'History', 'Тарих', '历史')}
                     </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/management" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/management" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Руководство', 'Management', 'Басшылық', '管理层')}
                       </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/institute-structure" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/institute-structure" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Структура Института', 'Institute Structure', 'Институт құрылымы', '研究所结构')}
                       </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/scientific-achievements" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/scientific-achievements" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Научные достижения', 'Scientific Achievements', 'Ғылыми жетістіктер', '科学成果')}
                     </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/partners" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/partners" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Партнеры', 'Partners', 'Серіктестер', '合作伙伴')}
                       </NavLink></li>
                 </ul>
@@ -70,9 +80,18 @@ export default function Navbar({ lang, onToggleLanguage }) {
               >
                 {t('Научные лаборатории', 'Laboratories', 'Зертханалар', '实验室')}
                 </NavLink>
-                <ul className="dropdown-menu gap-3" aria-labelledby="labsDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                <ul 
+                  className="dropdown-menu gap-3" 
+                  aria-labelledby="labsDropdown" 
+                  style={{ 
+                    backgroundColor: 'rgb(0, 53, 118)',
+                    minWidth: '100%', 
+                    maxWidth: '100vw',
+                    overflowX: 'auto',
+                    padding: '10px'
+                  }}>
                     {labsData.map((lab) => (
-                      <li><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                      <li><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} onClick={handleLinkClick} style={{ backgroundColor: 'rgb(0, 53, 118)'}}>
                         {lab.name[lang]}
                       </NavLink></li>
                     ))}
@@ -89,37 +108,42 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 >
                     {t('Библиотека и Архив', 'Library & Archive', 'Кітапхана және мұрағат', '图书馆与档案馆')}
                 </NavLink>
-                <ul className="dropdown-menu" aria-labelledby="libraryDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
-                   <li><NavLink className="dropdown-item text-white" to="/library" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                <ul 
+                  className="dropdown-menu shadow-lg" 
+                  aria-labelledby="libraryDropdown" 
+                  style={{backgroundColor: 'rgb(0, 53, 118)', 
+                    boxShadow: '15px 12px 5px'
+                  }}>
+                   <li><NavLink className="dropdown-item text-white" to="/library" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     {t('Библиотека', 'Library', 'Кітапхана', '图书馆')}
                     </NavLink></li>
-                   <li><NavLink className="dropdown-item text-white" to="/archive" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                   <li><NavLink className="dropdown-item text-white" to="/archive" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     {t('Архив', 'Archive', 'Мұрағат', '档案馆')}
                     </NavLink></li>
                 </ul>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/museum">
+              <NavLink className="nav-link text-white" to="/museum" onClick={handleLinkClick}>
                 {t('Музей', 'Museum', 'Мұражай', '博物馆')}
               </NavLink>
             </li>
             <li className="nav-item ">
-              <NavLink className="nav-link text-white" to="/scientists-gallery">
+              <NavLink className="nav-link text-white" to="/scientists-gallery" onClick={handleLinkClick}>
                 {t('Галерея ученых', 'Scientists', 'Ғалымдар', '科学家画廊')}
                 </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/media">
+              <NavLink className="nav-link text-white" to="/media" onClick={handleLinkClick}>
                 {t('Медиа', 'Media Gallery', 'Медиа', '媒体画廊')}
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/news">
+              <NavLink className="nav-link text-white" to="/news" onClick={handleLinkClick}>
                 {t('Новости', 'News', 'Жаңалықтар', '新闻')}
                 </NavLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-white" href="#contacts">
+              <a className="nav-link text-white" href="#contacts" onClick={handleLinkClick}>
                 {t('Контакты', 'Contacts', 'Байланыс', '联系方式')}
               </a>
             </li>

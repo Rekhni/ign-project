@@ -1,1 +1,0 @@
-const m=[{images:["/museum/museumImg1.webp","/museum/museumImg2.webp","/museum/museumImg3.webp","/museum/museumImg4.webp","/museum/museumImg5.webp","/museum/museumImg6.webp","/museum/museumImg7.webp","/museum/museumImg8.webp"]}];export{m};

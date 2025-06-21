@@ -22,6 +22,9 @@ export default function ScientistNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              maxHeight: '300px',
+              overflowY: 'auto',
+              paddingRight: '10px'
             }}
           >
             {scientist.review[lang].map((line, idx) => (
@@ -43,7 +46,7 @@ export default function ScientistNavbar({ lang }) {
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
-            <ol>
+            <ol style={{ maxHeight: '300px', overflowY: 'auto', paddingRight: '10px' }}>
               {scientist.publications[lang].map((publication, idx) => (
                   <li className='m-3' key={idx}>{publication}</li>
               ))}
@@ -57,6 +60,9 @@ export default function ScientistNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              maxHeight: '300px',
+              overflowY: 'auto',
+              paddingRight: '10px'
             }}
           >
             <h3>{t('Активные проекты', 'Active Projects', 'Белсенді жобалар', '正在进行的项目')}</h3>
@@ -92,6 +98,9 @@ export default function ScientistNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              maxHeight: '300px',
+              overflowY: 'auto',
+              paddingRight: '10px'
             }}
           >
             <ul>

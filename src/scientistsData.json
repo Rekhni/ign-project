@@ -14,7 +14,7 @@
       "zh": "地质矿物学副博士"
     },
     "specTags": {
-      "ru": "Стратиграфия\nПалеонтология\nРегиональная геология\nСедиментология\nПалеоэкология инфо",
+      "ru": "Стратиграфия\nПалеонтология\nРегиональная геология\nСедиментология\nПалеоэкология",
       "en": "Stratigraphy\nPaleontology\nRegional geology\nSedimentology\nPaleoecology info",
       "kz": "Стратиграфия\nПалеонтология\nАймақтық геология\nСедиментология\nПалеоэкология ақпарат",
       "zh": "地层学\n古生物学\n区域地质学\n沉积学\n古生态学 信息"
@@ -55,9 +55,13 @@
     },
     "publications": {
       "ru": [
+        "Никитина О. И.  У истоков славного пути: к 80-летию института геологических наук им. к.и. сатпаева и на пороге 75 летия «борукаевской экспедиции». Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-196",
         "Никитина О.И.  (ТОО «Институт геологических наук им. К.И. Сатпаева») Перспективы и проблемы изучения рудовмещающих стратоуровней нижнего палеозоя Коксу-Текелийского рудного района Жонгарии.//Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "Yoshitaka Kakuwa* and Olga L. Nikitina. Petrography of Late Cambrian to Middle Ordovicianradiolarian chert in Kazakhstan with special reference to the emergence of benthic animals in the pelagic realm//Sedimentology, 2020, p. 1 (Scopus, IF 3.244), Quartile (Q1)",
+        "Leonid E. Popov, · Olga I. Nikitina, · Tatiana E. Pirogova, · Gappar Kh. Ergaliev. Cambrian brachiopods from the area of the former Semipalatinsk nucleartesting site, Chingiz Ranges, Kazakhstan// RESEARCH PAPER Paläontologische Gesellschaft 2021 https://doi.org/10.1007/s12542-020-00540-9.(Scopus)"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -72,25 +76,33 @@
         "«Стратиграфические схемы палеозоя Казахстана» · соавтор · 1980–1986 гг.",
         "Программы лаборатории региональной геологии ИГН (1998–2017 гг.) - основной исполнитель.",
         "Совместные исследования ЦАСП с ГИН РАН · участник · 2003–2010 гг.",
-        "Проекты Комитета геологии РК «Атлас опорных разрезов…», «Каталог стратиграфических страто-типов» · ведущий исполнитель · 2001–2011 гг."
+        "Проекты Комитета геологии РК «Атлас опорных разрезов…», «Каталог стратиграфических страто-типов» · ведущий исполнитель · 2001–2011 гг.",
+        "Составление и издание Атласа опорных геологических разрезов и стратотипов фанерозоя Казахстана (2018 - 2020 гг)",
+        "Модернизация, имеющий важное значение для развития геологической отрасли экономики страны по международному стандарту для будущих наших иностранных партнеров, а также обеспечивающий международный статус Геологии Казахстана в мире. - (2018-2020 гг)"
       ],
       "en": [
         "‘Paleozoic Stratigraphic Schemes of Kazakhstan’ · co-author · 1980–1986.",
         "Regional geology laboratory programs of the Satbayev Institute (1998–2017) - main executor.",
         "Joint studies of the Central Asian fold belt with the Geological Institute of the RAS · participant · 2003–2010.",
-        "Projects of the Geology Committee of Kazakhstan ‘Atlas of Reference Sections…’, ‘Catalog of Stratigraphic Stratotypes’ · leading executor · 2001–2011."
+        "Projects of the Geology Committee of Kazakhstan ‘Atlas of Reference Sections…’, ‘Catalog of Stratigraphic Stratotypes’ · leading executor · 2001–2011.",
+        "Compilation and publication of the Atlas of reference geological sections and stratotypes of the Phanerozoic of Kazakhstan (2018–2020)",
+        "Modernization, which is important for the development of the geological sector of the country's economy according to international standards for our future foreign partners, and which also ensures the international status of Kazakhstan's geology in the world. (2018–2020)"
       ],
       "kz": [
         "«Қазақстан палеозойының стратиграфиялық схемалары» · бірлескен автор · 1980–1986 жж.",
         "Қ.И. Сәтбаев атындағы Геологиялық ғылымдар институтының аймақтық геология зертханасының бағдарламалары (1998–2017 жж.) - негізгі орындаушы.",
         "РҒА Геология институтымен бірге Орта Азия қатпарлы белдеуін зерттеу · қатысушы · 2003–2010 жж.",
-        "ҚР Геология комитетінің жобалары «Эталондық қималар атласы…», «Стратиграфиялық страто-типтер каталогы» · жетекші орындаушы · 2001–2011 жж."
+        "ҚР Геология комитетінің жобалары «Эталондық қималар атласы…», «Стратиграфиялық страто-типтер каталогы» · жетекші орындаушы · 2001–2011 жж.",
+        "Қазақстан фанерозойының тірек геологиялық қималары мен стратотиптерінің Атласын құрастыру және басып шығару (2018–2020 жж.)",
+        "Геология саласын халықаралық стандарттарға сай жаңғырту, бұл еліміздің экономикасының геологиялық саласының дамуы үшін маңызды, болашақ шетелдік серіктестеріміз үшін және Қазақстан геологиясының әлемдік аренадағы халықаралық мәртебесін қамтамасыз етеді. (2018–2020 жж.)"
       ],
       "zh": [
         "《哈萨克斯坦古生代地层学方案》 · 合著者 · 1980–1986 年。",
         "萨特帕耶夫地质科学研究所区域地质实验室项目 (1998–2017 年) · 主要执行人。",
         "与俄罗斯科学院地质研究所联合开展中亚褶皱带研究 · 参与者 · 2003–2010 年。",
-        "哈萨克斯坦地质委员会项目《参考剖面图集…》《地层学标准剖面目录》 · 主要执行人 · 2001–2011 年。"
+        "哈萨克斯坦地质委员会项目《参考剖面图集…》《地层学标准剖面目录》 · 主要执行人 · 2001–2011 年。",
+        "编制和出版《哈萨克斯坦显生宙参考地质剖面和标准剖面图集》（2018–2020年）",
+        "按照国际标准进行的现代化改造，这对于国家经济地质行业的发展具有重要意义，为未来的外国合作伙伴奠定基础，同时确保哈萨克斯坦地质在世界上的国际地位。（2018–2020 年）"
       ]
     },
     "teachings": {
@@ -221,9 +233,21 @@
     },
     "publications": {
       "ru": [
+        "С.М. Оздоев, В.А. Попов, Н. Тлеуберди. Условия образования пород в истории геологического развития Илийской впадины в связи с перспективами нефтегазоносности// Нефть и газ № 3, Алматы, 2019 (КБЦ 0,061).",
+        "Оздоев С.М., Попов В.А., Тлеуберди Н. Геология нефтегазоносность Зайсанской и Алакольской впадин// Труды МНТК Бежановские чтения, 2019, с.",
+        "Оздоев С.М., Попов В.А., Тлеуберди Н. Книга. Геология и перспективы нефтегазоносности восточных и юго-восточных впадин Казахстана, - Алматы: Институт геологических наук им. К.И. Сатпаева, 2020. – 157 с.",
+        "Оздоев С.М. История лаборатории геологии нефти и газа. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-64",
+        "Оздоев С. М.Поисковые критерии эффективных комплексных методов поиска месторождений нефти и газа. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-191",
         "Оздоев С.М. (Институт геологических наук им. К.И. Сатпаева) Роль академика К.И. Сатпаева в становлении развития науки и нефтегазового комплекса Казахстана.// Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "S. M. Ozdoyev, N. S. Abduev, V. A. Popov, N. Tileuberdi, Ma Hua Dong Сommon and differing geological features of the alakol and chinese dzungarian troughs in view of their oil-and-gas prospects//News of the National Academy of sciences of the Repablic of Kazakhstan. Series of Geology and Technical Sciences. Number 4, 2019, p. 6 Scopus (IF 0, 14)",
+        "S.M. Ozdoyev, 1V.A. Popov, 1N. Tileuberdi, 2Ma huadong. Палеогеографические условия геологического строения осадочных толщ балхашской впадины и перспективы нефтегазоносности// International Scientific GeoConferenz SGEM 2020, 16-25August, Albena Co, Bulgaria процентиль – 26%(Scopus IF 0,139)",
+        "S.M. Ozdoyev, V.A. Popov, N. Tileuberdi, Ma Huadong. Палеогеографические условия породообразования в Алакольской впадине Восточного Казахстана в связи с нефтегазоносностью// International Scientific GeoConferenz SGEM 2020, 16-25August, Albena Co, Bulgaria, процентиль – 26% (Scopus IF 0,139)",
+        "Tileuberdi N., Zholtayev G.ZH., Abdeli D.Zh., Ozdoev S.M. Investigation of drainage mechanism of oil from pores of oil saturated rocks using nitrogen at the laboratory condition // News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Volume 5, Number 449 (2021), 146-152 https://doi.org/10.32014/2021.2518-170X.108, .(Scopus)",
+        "Tileuberdi N., Zholtayev G.ZH., Abdeli D.Zh., Ozdoev S.M. Investigation of drainage mechanism of oil from pores of oil saturated rocks using nitrogen at the laboratory condition // News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Volume 5, Number 449 (2021), 146-152 https://doi.org/10.32014/2021.2518-170X.108, .(Scopus)",
+        "Z. T. Umarbekova, K.Sh. Dyusembayeva, Ozdoev S.M., Gadeev R.R. Тhe Bakyrshik deposit’s gold mineralisation prospecting model// News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences, Volume 4, Number 448 (2021) P. 99-107, ISSN2224-5278 https://doi.org/10.32014/2021.2518-170X.87 Q4, процентиль 26. .(Scopus)"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -234,10 +258,18 @@
       "zh": ["必填项"]
     },
     "finishedProjects": {
-      "ru": ["Требует заполнения"],
-      "en": ["Required field"],
-      "kz": ["Міндетті түрде толтыру қажет"],
-      "zh": ["必填项"]
+      "ru": [
+        "Геодинамическая эволюция и оценка перспектив нефтегазоносности межгорных впадин Восточного и Юго-Восточного Казахстана (Алакольская, Балхашская и Илийская) - (2018-2020 гг)"
+      ],
+      "en": [
+        "Geodynamic evolution and assessment of the oil and gas potential of the intermontane depressions of Eastern and Southeastern Kazakhstan (Alakol, Balkhash, and Ili) - (2018-2020)"
+      ],
+      "kz": [
+        "Шығыс және Оңтүстік-Шығыс Қазақстанның (Алакөл, Балқаш және Іле) таулар арасындағы ойыстарының геодинамикалық эволюциясы және мұнай-газдылық перспективаларын бағалау - (2018-2020 жж)"
+      ],
+      "zh": [
+        "哈萨克斯坦东部和东南部（阿拉科尔、巴尔喀什和伊犁）山间洼地的地体动力学演化及其油气远景评价 - （2018–2020年）"
+      ]
     },
     "teachings": {
       "ru": [
@@ -385,6 +417,12 @@
     },
     "publications": {
       "ru": [
+        "Сейтмуратова Э.Ю., Горяева В.С., Аршамов Я.К., Сайдашева Ф.Ф., Баратов Р.Т., Даутбеков Д.О., Сейтжанов Ш.А. Выявление перспективных направлений поисков месторождений полезных в палеозоидах Казахстана на основе металлогенограмм// Интеграция науки и практики как механизм эффективного развития геологической отрасли Республики Узбекистан. Мат-лы Междунар. научн.-техн. конференции 2018 г. Ташкент. 2018. С. 97-100",
+        "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Даутбеков Д.О., Баратов Р.Т., Сейтжанов Ш.А. Современное состояние изученности геологии и рудоносности палеозоид Казахстана и новые пути поисковых работ // Инновации – ключевой фактор развития ГМК. Мат-лы Круглого стола. 15 ноября 2018 г. Алматы. 2018. С. 47-57. (КазНИТУ им.К.И. Сатпаева)",
+        "Сейтмуратова Э.Ю., Зейлик Б.С., Даутбеков Д.О., Баратов Р.Т. Прогнозирование месторождений металлических полезных ископаемых на основе принципов ударно- взрывной тектоники и использовании данных дистанционного зондирования Земли // Известия. Серия геологических и технических наук. Алматы. 2018. № 6. С. (Scopus)",
+        "Сейтмуратова Э.Ю., Горяева В.С., Аршамов Я.К., Баратов Р.Т. и др.результатах проведения прикладных научно-исследовательских работ по переоценке золотоносности Жонгаро-Балхашской складчатой системы// Известия НАН РК, серия геологии и технических наук, № 1 (433) 2019 (Scopus IF 0,14)",
+        "Э.Ю. Сейтмуратова. Комментарии к современному состоянию минерально- сырьевой базы страны и о роли научных исследований в геологической отрасл//Труды Сатпаевских чтений, 2019, с.6и",
+        "Сейтмуратова Э.Ю., Горяева В.С., Баратов Р.Т., Даутбеков Д.О., Бердина Л.Е. Металлогенограммы - кратчайший и объективный способ выявления новых перспективных направлений поисков месторождений полезных ископаемых//Труды МНТК Бежановские чтения, 2019, с",
         "Сейтмуратова Э.Ю., Баратов Р.Т., Сайдашева Ф.Ф., Горяева В.С., Машрапова М.А., Аршамов Я.К. Закономерности проявления кольцевых структур Казахстана и их рудоносность // Геология и охрана недр. № 3(84). 2022 г. С. 50-64. (ISSN 2414-4282)РИНЦ",
         "Э.Ю. Сейтмуратова, Р.Т. Баратов, Я.К. Аршамов, Д.О. Даутбеков, Ш.А. Сейтжанов. Литиеносность и золотоносность соляных куполов и солончаков Западного и Южного Казахстана (Lithium and gold content in salt domes and saline lands of Western and Southern Kazakhstan) // Науковий вісник Нациіонального гірничого униіверситету. м. Дниіпро. 2023. № 1 (193). С. 10-19. Scopus, Q2, процентиль 50",
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Современное состояние изученности вторичных кварцитов северного сегмента Жонгаро-Балхашской складчатой системы и их золотоносности (Центральный Казахстан) (The current state of research on Secondary Quartzites of the Northern Segment of the Jungar-Balkhash Folded System and Their Au Mineralization (Central Kazakhstan) (на англ. яз.) / Minerals (Basel, Switzerland) 2023, 13, 813. C. 2-32., Scopus, процентиль 73%.",
@@ -400,6 +438,10 @@
         "Сейтмуратова Э., Пин Ш., Баратов Р., Даутбеков Д., Машрапова М., Шадиев Н., Аршамов Я. Особенности континентальных вулкано-плутонических поясов Жонгаро-Балхашской складчатой системы // Mining of Mineral Deposits (Украина). 2024. Т.18, выпуск 3, с.63-81, Scopus, процентиль 77%."
       ],
       "en": [
+        "Ping Shen, Hongdi Pand, Keiko Hattori, David R. Cooke, Eleonora Seitmuratova Large Paleozoic and Mesozoic porphyry deposits in the Central Asian Orogenic Belt: Geodynamic settings, magmatic sources, and genetic models // Gondwana Research 58 (2018). Р. 161–194. (IF: 5.657) http://linkinghub.elsevier.com/retrieve/pii/S1342937X18300388 (Scopus)",
+        "Changhao Lia, Ping Shena, Hongdi Pand, Chong Caoa, Eleonora Seitmuratova Geology and ore-forming fluid evolution of the Aktogai giant porphyry Cu deposit, Kazakhstan // Journal of Asian Earth Sciences. Volume 165, 1. October 2018. Р. 192-209. (IF: 2.866) www.elsevier.com/locate/jseaes (Scopus)",
+        "Zholtaev G.Zh., Seitmuratova E.Yu., Zhukov N.М. Academician Kanysh Satpaev and the mineral resource base of Kazakhstan// News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Number 2, 2019, с. 225 SCOPUS (IF 0, 14)",
+        "Changhao Li, Ping Shen, Hongdi Pan, Eleonora Seitmuratova. Control on the size of porphyry copper reserves in the North Balkhash-West Junggar Metallogenic Belt// Lithos, V. 114, Nos. 1-2 (Scopus IF 3,857) - 2019",
         "Seitmuratova E.Y., Baratov R.T., Saidasheva F.F., Goryaeva V.S., Mashrapova M.A., Arshamov Ya.K. Patterns of manifestation of ring structures of Kazakhstan and their ore content // Geology and Subsoil Protection. No. 3(84). 2022. Pp. 50-64. (ISSN 2414-4282) RSCI",
         "E.Y. Seitmuratova, R.T. Baratov, Ya.K. Arshamov, D.O. Dautbekov, Sh.A. Seitzhanov. Lithium and gold content in salt domes and saline lands of Western and Southern Kazakhstan // Scientific Bulletin of the National Mining University. Dnipro. 2023. No. 1 (193). Pp. 10-19. Scopus, Q2, percentile 50",
         "Seitmuratova E.Y., Goryaeva V.S., Saidasheva F.F., Arshamov Ya.K., Baratov R.T., Dautbekov D.O., Shadiev N.Sh., Mashrapova M.A., Karimkebov T. The current state of research on secondary quartzites of the Northern Segment of the Jungar-Balkhash Folded System and their Au mineralization (Central Kazakhstan) // Minerals (Basel, Switzerland) 2023, 13, 813. Pp. 2-32. Scopus, percentile 73%",
@@ -466,29 +508,32 @@
               "Составление «Карты перспективных золоторудных площадей, рудных узлов и участков» (масштаб 1:500 000). Разработаны критерии поиска эпитермального золото-серебряного оруденения.",
               "Определение и оценка промышленных перспектив рудоносности структурно- формационных зон палеозоид Казахстана на базе анализа металлогенограмм»",
               "Выявление научно-обоснованных перспективных площадей для обнаружения крупнообъемных эпитермальных золото- серебряных месторождений убогих руд в вулкано-плутонических поясах Казахстана.",
-              "Изучение рудоносности кольцевых структур Центрального и Южного Казахстана с выявлением наиболее перспективных из них для постановки поисковых работ"
+              "Изучение рудоносности кольцевых структур Центрального и Южного Казахстана с выявлением наиболее перспективных из них для постановки поисковых работ",
+              "Комплексные поисковые технологии для выявления и моделирования перспективных участков эпитермального Au-Ag оруденения Кызылтасской вулкано-плутонической структуры для проведения геолого-разведочных работ с последующей добычей - (2018-2020 гг)"
             ],
       "en": [
               "Geological re-study of the Akchatau-Kounrad ore district (scale 1:200,000). One of the leaders and main performers.",
               "Compilation of the 'Map of promising gold ore areas, ore nodes and sites' (scale 1:500,000). Search criteria for epithermal gold-silver mineralization have been developed.",
               "Determination and assessment of the industrial prospects of ore-bearing structural-formational zones of the Paleozoides of Kazakhstan based on the analysis of metallogenograms",
               "Identification of scientifically substantiated prospective areas for the discovery of large-volume epithermal gold-silver deposits of low-grade ores in the volcano-plutonic belts of Kazakhstan.",
-              "Study of the ore potential of ring structures in Central and Southern Kazakhstan with identification of the most promising ones for exploration work"
-
+              "Study of the ore potential of ring structures in Central and Southern Kazakhstan with identification of the most promising ones for exploration work",
+              "Integrated exploration technologies for identifying and modeling prospective areas of epithermal Au-Ag mineralization in the Kyzyltas volcano-plutonic structure for geological exploration followed by mining (2018–2020)"
             ],
       "kz": [
               "Ақшатау-Коунрад рудалы ауданын геологиялық қайта зерттеу (масштаб 1:200000). Басшылардың және негізгі орындаушылардың бірі.",
               "«Перспективалы алтын кені бар алаңдар, рудалы түйіндер мен учаскелер картасын» (масштаб 1:500 000) құрастыру. Эпитермальды алтын-күміс кентастарын іздеу критерийлері әзірленді.",
               "Қазақстан палеозойының құрылымдық-формациялық белдеулерінің рудалылығының өндірістік перспективаларын металлогенограммалар талдауына негізделген анықтау және бағалау",
               "Қазақстанның вулканды-плутоникалық белдеулеріндегі кедей рудалы ірі көлемді эпитермальды алтын-күміс кен орындарын анықтау үшін ғылыми негізделген перспективалы учаскелерді анықтау.",
-              "Орталық және Оңтүстік Қазақстандағы шеңберлі құрылымдардың рудалылығын зерттеу және іздестіру жұмыстары үшін ең перспективалы нысандарды айқындау"
+              "Орталық және Оңтүстік Қазақстандағы шеңберлі құрылымдардың рудалылығын зерттеу және іздестіру жұмыстары үшін ең перспективалы нысандарды айқындау",
+              "Геологиялық барлау және кейінгі өндіру үшін Қызылтас вулкано-плутоникалық құрылымындағы эпитермалдық Au-Ag кенденуінің перспективалы учаскелерін анықтау және модельдеу бойынша кешенді іздеу технологиялары (2018–2020 жж.)"
             ],
       "zh": [
               "阿克恰套-库纳拉德矿区的地质再研究（比例尺1:200000）。是主要负责人和主要执行人之一。",
               "编制“有前景金矿区、矿集区和矿段图”（比例尺1:500000）。制定了寻找浅成低温金银矿化的找矿标志。",
               "基于成矿图谱分析确定和评估哈萨克斯坦古生代构造-岩相带成矿性的工业前景",
               "确定在哈萨克斯坦火山-深成岩带内发现低品位大型热液型金银矿床的科学依据前景区。",
-              "研究中部和南部哈萨克斯坦环形构造的成矿性，并确定其中最有前景的区域以开展勘探工作"
+              "研究中部和南部哈萨克斯坦环形构造的成矿性，并确定其中最有前景的区域以开展勘探工作",
+              "2018–2020 年用于地质勘探及后续开采的综合勘查技术，以识别和建模克孜勒塔斯火山-侵入杂岩结构中具前景的低温热液型金-银矿化区"
             ]
     },
     "teachings": {
@@ -496,8 +541,8 @@
           "Дисциплины: требует заполнения", 
           "Защищённые диссертации под руководством: требует заполнения", 
           "Кандидатов геолого-минералогических наук:\nМ.М. Стецюра\nФ.Ф. Сайдашева\nЯ.К. Аршамов",
-          "Доктора PhD:\n2 доктора PhD (ФИО и темы требуют заполнения)инфо",
-          "Магистерские диссертации:\n11 магистерских диссертаций (ФИО и темы требуют заполнения)инфо"
+          "Доктора PhD:\n2 доктора PhD (ФИО и темы требуют заполнения)",
+          "Магистерские диссертации:\n11 магистерских диссертаций (ФИО и темы требуют заполнения)"
       ],
       "en": [
           "Disciplines: requires completion",
@@ -636,11 +681,26 @@
     },
     "publications": {
       "ru": [
+        "А.А. Антоненко, К.С. Тогизов, Д.Б. Тугайбаева. Прогнозно-поисковые критерии свинцово-цинкового карстового оруденения на примере Ачисайского рудного района (Южный Казахстан)//Горный журнал Казахстана, Алматы, 2019, с. 14 КБЦ (IF 0,036)",
+        "А.А. Антоненко, Д.Б. Муратханов. Ванадиеносные сланцы Большого Каратау// Труды Сатпаевских чтений, 2019, c.16",
+        "А.А. Антоненко, А. Ходжимуратова, А.Е. Дуйсенбек, Ж.А. Карбозова. К изученности экзокарста Большого Каратау. //Труды Сатпаевских чтений, 2019, с.20",
+        "Жуков Н.М., Антоненко А.А., Машрапова М.А., Какимжанов Е.Х., Каратаева Г.М. Электронная минерагеническая карта Республики Казахстан// Материалы междунар научной конференции «Вклад выдающегося казахстанского ученого член- корреспондента АН КазССР, профессора П.Т. Тажибаевой в развитие геологической науки Казахстана».",
+        "Антоненко А. А., Жуков Н. М., Гойколова Т. В. Принципы регионального и локального прогноза месторождений цветных, редких и благородных металлов Казахстана//Геология и охрана недр №2 2020 г. с.53 (РИНЦ)",
+        "А.А. Антоненко, Н.М. Жуков, З.Н. Павлова, Т.В. Гойколова. Медно-золотое месторождение Варваринское, Казахстан. Влияние вмещающих пород на состав оруденения. //Геология рудных месторождений, том 62, №4, Россия, 2020. с. 349 (Scopus).",
+        "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Развитие металлогенической науки в Казахстане. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-14",
+        "Жуков Н.М., Антоненко А.А., Гойколова Т.В. Научные основы прогнозирования и оценки месторождений полезных ископаемых Казахстана. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-87",
+        "Антоненко А.А., Ходжимуратова А.Т., Карбозова Ж.А., Дуйсенбек А.Е. Ачисайский рудный район – эталлонный объект для разработкипоисковых критериев на карстовый тип оруденения. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-126",
+        "Тогизов К.С., Антоненко А.А. Свинцово-цинковые карсты Казахстана.// Монография. Институт геологических наук им. К.И. Сатпаева. Алматы. 2021. с.",
         "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Атлас закономерностей размещения твердых полезных ископаемых. Алматы 2024. Монография с. 250",
-        "Антоненко А.А., Минискул Ш.Д., Кажан И.М. Медно-никелевое оруденение Казахстана. //Материалы МНТК, 2024, с.",
-        "Мінісқұл Ш.Д., Umarbekova Z.T., Antonenko A.A., Mashrapova M.A., Dynamics of ore-forming processes in case of Kazakhstan’s gold ore deposits/ Proceedings of 23 nd International Multidisciplinary Scientific GeoConference SGEM 2023. Volume 3, issue 1. P.19-24 DOI10.5593/sgem2023/1.1/s01.03"
+        "Антоненко А.А., Минискул Ш.Д., Кажан И.М. Медно-никелевое оруденение Казахстана. //Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "А.А. Antonenko, A.T.Khodzhimuratova, D.B/Tugaibaeva, Z.Zh.Nurdauletova, N.A.Medeshova. Lead-zinc karsts of shaimerden type.//Известия НАН РК серия геологии итехнических наук №6. Алматы 2018. P.190 (Scopus).",
+        "Antonenko А.А., Togizov K.S., Khodzhimuratova А.Т., Karbozova Zh.А. local criteria in search for karst mineralization in the achisai ore district (south Kazakhstan) //Proceedings International Multidisciplinary Scientific GeoConference SGEM 2020, Болгария, Албена, 2020, с. (Scopus IF 0,139)",
+        "Antonenko А.А., Togizov K.S. The structural tectonic position and predictive search criteria for the lead-zinc karst mineralisation (south Kazakhstan)//Proceedings International Multidisciplinary Scientific GeoConference SGEM 2020, Болгария, Албена, 2020, с. (Scopus IF 0,139)",
+        "Мінісқұл Ш.Д., Umarbekova Z.T., Antonenko A.A., Mashrapova M.A., Dynamics of ore-forming processes in case of Kazakhstan’s gold ore deposits/ Proceedings of 23 nd International Multidisciplinary Scientific GeoConference SGEM 2023. Volume 3, issue 1. P.19-24 DOI10.5593/sgem2023/1.1/s01.03"
+
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -793,18 +853,26 @@
     },
     "publications": {
       "ru": [
-        "V.G. Stepanets, V.L. Levin, G.K. Bekenova, М.S. Khakimzhanov, K.S. Togizov*. Accessory copper ore minerals as a key issue in understanding the genesis of the Mayatas metacarbonatite ores (Ulytau, Central Kazakhstan) // News NAS RK. Series of geology and technical sciences № 2 (452), Almaty 2022y. P.172-191. ISSN 2224-5278. doi.org/10.32014/2022.2518-170X.168. (Процентиль 47);",
-        "Bekenova G.K., Peregudov V.V., Levin V.L., Kanatbaev Y.T., Muratkhanov D.B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining Metallurgical Plant (Aktau, Kazakhstan). Kompleksnoe Ispolzovanie Mineralnogo Syra = Complex Use of Mineral Resources. 2023; 328(1):76-87. https://doi.org/10.31643/2024/6445.09.",
+        "Степанец В.Г., Левин В.Л., Ли Е.С., Бекенова Г.К., Жуков Н.М., Хакимжанов М.С. Геология и минералогия карбонатитов линейно-трещинного типа рудопроявления Майке маятасского рудного района (Северный Улытау)// Известия Томского политехнического университета. Том 331, №9 (2020), с.199 Bulletin of the Tomsk Polytechnic University, Geo Assets Engineering, 2020, 331(9), стр. 199–214РИНЦ",
+        "Бекенова Г.К., Левин В.Л., Слюсарев А.П., Коккузова М.Н., Ли Е.С. Лаборатория минералогии к 80-летнему юбилею ИГН им. К.И. Сатпаева. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-33",
+        "Антонюк Р.М., Степанец В.Г., Дегтярев К.Е., Третьяков А.А., Бекенова Г.К., Левин В.Л., Ли Е.С. Первые результаты U–Th–Pb (SIMS)-геохронологического изучения циркона из серпентинизированных ультрамафитов тектурмасской офиолитовой зоны (Центральный Казахстан) //Доклады Российской академии наук. Науки о Земле. 2021. Т. 500. № 2. С.142-149. DOI: 10.31857/S2686739721100030 РИНЦ",
         "Бекенова Г.К., Перегудов В.В., Левин В.Л., Шаймураткызы К. Тонкодисперсное золото открытых кор выветривания и алмазосодержащих руд Кумдыкольского месторождения//Горный журнал Казахстана №8 (220) 2023, Алматы.",
-        "Karpenko V. Yu., Agakhanov Atali. A., Pautov L. A., Bekenova G. K., Uvarova Yu. A., Sokolova E., Dikaya T. V., Hawthorne F. C. Nickelalumite, ideally NiAl 4 (SO 4 ) (OH) 12 (H 2 O) 3 , a new-old mineral from the Kara-Tangi uranium deposit, Kyrgyzstan// Mineralogy and Petrology. 2023, volume 117, pages 219–229. Scopus",
-        "Bekenova, G. K., Peregudov, V. V., Levin, V. L., Kanatbaev, Y. T., &amp; Muratkhanov, D. B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining-Metallurgical Plant (Aktau, Kazakhstan) //Kompleksnoe Ispolzovanie Mineralnogo Syra= Complex use of mineral resources. – 2024. – Т. 328. – №. 1. – С. 76-87. https://doi.org/10.31643/2024/6445.09",
         "Бекенова Г.К., Перегудов В.В., Левин В.Л. Изучение и освоение микрои нанокомпонентов руд- кратчайший путь решения поблемы прироста запасов полезных ископаемых казахстана. // Геология и охрана недр. 3(92)2024, с. 45",
         "Перегудов В.В., Бекенова Г.К., Левин В.Л. Железосодержащие микросферы – маркеры глубинности и высоких температур образования алмазной, медно-золото- урановой минерализации. // Геология и охрана недр. 3(92)2024, с. 52",
         "Перегудов В.В. 1 , Бекенова Г.К. 2 , Левин В.Л. 2 , Шаймураткызы К. 3 , Муратханов Д.Б. 2 , Канатбаев Е.Т. 2 ( 1 ТОО «КРИЦ-НТК», 2 ТОО «Институт геологических наук им. К.И. Сатпаева», 3 ЧК «QAZAQDIAMONDS LTD») Способ извлечения тонкодисперсных фракций благородных и редкоземельных минералов (фаз).// Материалы МНТК, 2024, с.",
         "Ли Е.С., Степанец В.Г., Бекенова Г.К., Левин В.Л. Условия образования медной минерализации рудопроявления Майке. //Материалы МНТК, 2024, с."
 
       ],
-      "en": ["Required field"],
+      "en": [
+        "Yertlek Suiekpayev, Yerzhan Sapargaliyev, Galiya Bekenova, Mikhail Kravchenko, Alla Dolgopolova4, Reimar Seltmann. Mineralogical and geochemical features of satpaev ti-zr placer deposit, east Kazakhstan// News of the National Academy of sciences of the Repablic of Kazakhstan. Series of Geology and Technical Sciences. Number 1, 2019, с. 216 Scopus (IF 0, 14)",
+        "Dzhumankulova, S.K.,  Zhuchkov, V.I. ,  Alybaev, Z.A. ,  Bekenova, G.K. Review of State and Prospects for Development of Vanadium Production in the Kazakhstan Republic//Metallurgist, 2020, 64(1-2), стр. 75–81(Scopus)",
+        "Levin, V.L.,  Stepanets, V.G. , Li, E.S.,  Bekenova, G.K. ,  Khakimzhanov, M.S. Discovery of rhenium sulfides in copper sulfide ores from the mayke ore occurence (ulytau, central kazakhstan) | Находка сульфидов рения в медноколчеданных рудах проявления майке (улытау, центральный Казахстан)// Zapiski Rossiiskogo Mineralogicheskogo Obshchestva , 2020, 149(5), стр. 82–98 (Scopus) Q34",
+        "Suiekpayev Y.S., Sapargaliyev Y.M., Dolgopolova A.V., Pirajno F., Seltmann R., Khromykh S.V., Bekenova G.K., Kotler P.D., Kravchenko M.M., Azelkhanov A.Zh.Mineralogy, geochemistry and U-Pb zircon age of the Karaotkel Ti-Zr placer deposit, Eastern Kazakhstan and its genetic link to the Karaotkel-Preobrazhenka intrusion//Ore Geology Reviews. 2021. 131. 104015. www.elsevier.com/locate/oregeorev. https://doi.org/10.1016/j.oregeorev.2021.104015",
+        "V.G. Stepanets, V.L. Levin, G.K. Bekenova, М.S. Khakimzhanov, K.S. Togizov*. Accessory copper ore minerals as a key issue in understanding the genesis of the Mayatas metacarbonatite ores (Ulytau, Central Kazakhstan) // News NAS RK. Series of geology and technical sciences № 2 (452), Almaty 2022y. P.172-191. ISSN 2224-5278. doi.org/10.32014/2022.2518-170X.168. (Процентиль 47);",
+        "Bekenova G.K., Peregudov V.V., Levin V.L., Kanatbaev Y.T., Muratkhanov D.B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining Metallurgical Plant (Aktau, Kazakhstan). Kompleksnoe Ispolzovanie Mineralnogo Syra = Complex Use of Mineral Resources. 2023; 328(1):76-87. https://doi.org/10.31643/2024/6445.09.",
+        "Karpenko V. Yu., Agakhanov Atali. A., Pautov L. A., Bekenova G. K., Uvarova Yu. A., Sokolova E., Dikaya T. V., Hawthorne F. C. Nickelalumite, ideally NiAl 4 (SO 4 ) (OH) 12 (H 2 O) 3 , a new-old mineral from the Kara-Tangi uranium deposit, Kyrgyzstan// Mineralogy and Petrology. 2023, volume 117, pages 219–229. Scopus",
+        "Bekenova, G. K., Peregudov, V. V., Levin, V. L., Kanatbaev, Y. T., &amp; Muratkhanov, D. B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining-Metallurgical Plant (Aktau, Kazakhstan) //Kompleksnoe Ispolzovanie Mineralnogo Syra= Complex use of mineral resources. – 2024. – Т. 328. – №. 1. – С. 76-87. https://doi.org/10.31643/2024/6445.09"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -976,10 +1044,15 @@
     },
     "publications": {
       "ru": [
+        "В.Я. Жаймина, Е.И. Кулагина Особенности пограничных отложений девона и карбона разреза Карамурун (Большой Каратау, Южный Казахстан) //Известия НАН РК. Серия геологии и технических наук, №4, Алматы 2019, с. (Scopus IF 0,14)",
+        "Сейтмуратова Э.Ю., Жаймина В.Я., Сайдашева Ф.Ф., Горяева В.С., Баратов Р.Т., Даутбеков Д.О. К проблемам региональных геологических исследований и геолого- съемочных работ в Казахстане (из опыта проведения ГДП-200 Акшатау-Коныратского рудного района). Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-59",
+        "Жаймина В.Я. Каменноугольная система Казахстана – прогресс в изучении за 10 лет, нерешенные проблемы и задачи. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-112",
         "Жаймина В.Я. (Институт геологических наук им. К.И. Сатпаева) Стратиграфический контроль уровней минерализации Mn на левобережье р. Каракенгир (Жезказганский район, Центр. Казахстан)// Материалы МНТК, 2024, с.",
         "Жаймина В.Я. (ТОО Институт геологических наук им. К. И. Сатпаева, Республика Казахстан, Алматы) Памятники геологической природы Актобинской области Республики Казахстан //Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "V. JA. Zhaimina «Bashkirian - Moscovian boundary in Zhungar - Balkhash region (Kazakhstan)» // International Scientific GeoConferenz SGEM 2020, 16-25August, Albena Co, Bulgaria. (Scopus IF 0,139)"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -1151,12 +1224,26 @@
     },
     "publications": {
       "ru": [
-        "Saida Nigmatova, Tatiana Pirogova, Ilnura Madiyarova, Alma Bekbotaeva, Arman Seydali, Bakhtyar Kozhakmet and Balzhan Kalibek. «Prospects of Creating a Geopark in the Ulytau Region of Kazakhstan: Geoheritage and Geotourism Potential»//MDPI(процентиль журнала 79). doi: 10.20944/preprints202410.1746.v1",
-        "Aditi Dave, Lenka Lisa, Giancarlo Scardia, Saida Nigmatova and Kathryn E.Fitzsimmons. The patchwork loess of Central Asia: Implications for interpreting aeolian dynamics and past climate circulation in piedmont regions.//Journal of Quaternary science (2023) 38(4) 526-543 c. ISSN 0267-8179. DOI: 10.1002/jqs.3493, SJR 0,987, Q1.",
-        "B.U. Baishashov, S.А. Nigmatova, A. Seydali, I. Madiyarova. Paleogeographical reconstruction of the late neogene in the north-eastern part of central Kazakhstan (the “Goose passage” site)»//«Engineering Journal of Satbayev University (EJSU)» 2024, с. 32-47, https://doi.org/10.51301/ejsu.2024.i5.05",
+        "А.В.Третьяков, С.А. Нигматова, У.В. Габитова. Основные закономерности локализации палеоген-неогеновых россыпей Калбы (Восточный Казахстан)» //Известия НАН РК, серия геологии и технических наук № 6, 2018. С. 221. (Англ). (Scopus).",
+        "Третьяков А. В., Нигматова С. А., Габитова У. Б. Преобразование древних россыпей в процессе развития рельефа//Национальная ассоциация ученых Ежемесячный научный журнал №47, Россия, Екатеринбург 2019, 1 часть, с. 15 РИНЦ",
+        "Нигматова С. А., Байшашов Б. У., Пирогова Т. Е., Жамангара А. К. Местонахождение эоценовой фауны шынжылы (северо-западное предгорье Жетысуского Алатау, Казахстан)//Национальная ассоциация ученых Ежемесячный научный журнал №47, Россия, Екатеринбург 2019, 1 часть, с. 9 РИНЦ",
+        "С.А. Нигматова, Б.У. Байшашов, Р.Б. Иманкулова Биостратиграфическое значение кайнозойских отложений Зайсанской впадины// Труды Сатпаевских чтений, 2019, с.84",
+        "Нигматова С.А., Байшашов, Жамангараева А.К., Баядилов К.О. Creation of the geopark &quot;Altyn-Emel&quot;in the territory of the Ili depression of south-east Kazakhstan// Simposium. ProGEO News 2020 р.1",
+        "Нигматова С.А., Байшашов Б.У., Жамангара А.К. Монография. Каньоны реки Шарын: геологическое строение уникального памятника природы Юго-Восточного Казахстана. Монография. Алматы: Институт геологических наук им. К.И. Сатпаева, 2020 – 94 с.",
+        "Б.У. Байшашов, С.А. Нигматова. Каталог опорных и типовых разрезов мезозоя и кайнозоя Юго-восточного и Восточного Казахстана. Монография. Алматы 2020",
+        "Третьяков А.В., Нигматова С.А., Габитова У.Б. Новые данные об условиях формирования золотоносных неогеновых отложений древних долин Калбы. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-78",
+        "С.А. Нигматова, Г.С. Джумабекова, Э.К. Алтынбекова, Б.М. Хасенова, Г.А Базарбаева. К изучению элементов культуры пазырыкцев Казахского Алтая по данным междисциплинарных исследований//Stratum plus №3. 2021, Процентиь 67.(Scopus).",
         "Нигматова С.А. (ТОО Институт геологических наук им. К. И. Сатпаева, Республика Казахстан, Алматы) Геонаследие Казахстана: история изучения и сохраненияуникальных геологических объектов//Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "S.A. Nigmatova, B.U. Bayshashov, A.K. Zhamangarа, S.G. Lucas 4 , K.O. Bayadilov, A. Kasymkhankyzy. The new data on biostratigraphy of the basic geological section of the continental Сenozoic deposits of Аktau mountains (South-East Kazakhstan, Ili basin)// Известия НАН РК, серия геологии и технических наук № 5, Алматы, 2018. с. 150-162. (Scopus)",
+        "Опубликованы тезисы доклада на международном 22-Симпозиуме Eвропейской группы харафитологов в Палермо, Италии: A. Zhamangara, J. Sanjuan, S. Nigmatova, B.Baishashov. Сharophytes of a key geological section of non-marine Cenozoic deposits in the Aktau Mountains (Southeast Kazakhstan)// 22nd Meeting of the Group of European Charophytologists (GEC) Palermo, Italy 17-21 September 2018",
+        "Saida Nigmatova, Tatiana Pirogova, Ilnura Madiyarova, Alma Bekbotaeva, Arman Seydali, Bakhtyar Kozhakmet and Balzhan Kalibek. «Prospects of Creating a Geopark in the Ulytau Region of Kazakhstan: Geoheritage and Geotourism Potential»//MDPI(процентиль журнала 79). doi: 10.20944/preprints202410.1746.v1",
+        "Nigmatova S., Zhamangarа A., Bayshashov B., Abubakirova N, Akmagambet S., Berdenov Zh. Canyons of the Charyn river (South-East Kazakhstan): Geological history and geotourism// Geojournal of Tourism and Geosites . 2021 - 34(1), Poland с. 102-111. DOI 10.30892/gtg.34114-625, SJR 0, 23, Q3, процентиль 64.(Scopus)",
+        "Aditi Dave, Lenka Lisa, Giancarlo Scardia, Saida Nigmatova and Kathryn E.Fitzsimmons. The patchwork loess of Central Asia: Implications for interpreting aeolian dynamics and past climate circulation in piedmont regions.//Journal of Quaternary science (2023) 38(4) 526-543 c. ISSN 0267-8179. DOI: 10.1002/jqs.3493, SJR 0,987, Q1.",
+        "B.U. Baishashov, S.А. Nigmatova, A. Seydali, I. Madiyarova. Paleogeographical reconstruction of the late neogene in the north-eastern part of central Kazakhstan (the “Goose passage” site)»//«Engineering Journal of Satbayev University (EJSU)» 2024, с. 32-47, https://doi.org/10.51301/ejsu.2024.i5.05"
+
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -1179,25 +1266,33 @@
         "INTAS «Процесс формирования кочевых племён в Семиречье в бронзовом и раннежелезном веках. Экология и археология»: Получены уникальные материалы по изменению климата и растительности, увязанные с хозяйственной деятельностью древних культур (требует заполнения ссылки на публикацию).",
         "Палинологическое изучение кернов нефтегазовых скважин (2005 г.): Выполнен комплексный биоспортиграфический анализ кернов совместно с коллективом палинологов института.",
         "Атлас опорных разрезов нейрозоя (2002 г.): Подготовлен фундаментальный труд, отражающий стратиграфические и климатические реконструкции по ключевым разрезам региона.",
-        "Геолого-палеонтологические и палеоклиматические исследования кайнозойских отложений Центрального Казахстана как основы для прогнозирования месторождений полезных ископаемых."
+        "Геолого-палеонтологические и палеоклиматические исследования кайнозойских отложений Центрального Казахстана как основы для прогнозирования месторождений полезных ископаемых.",
+        "Научное обоснование расширения сырьевой базы россыпного золота Восточного Казахстана и повышения эффективности ее освоения на основе изучения палеоландшафтных, палеоклиматических и неотектонических условий формирования неоген- палеогеновых золото-продуктивных отложений Западной Калбы и Южного Алтая",
+        "Комплексное изучение опорных стратиграфических разрезов кайнозоя Юго-Восточного Казахстана как основы разработки усовершенствованной стратиграфической шкалы осадочных отложений Центральной Азии"
       ],
       "en": [
         "INTAS 'The process of formation of nomadic tribes in Semirechye during the Bronze and Early Iron Ages. Ecology and archaeology': Unique materials were obtained on climate and vegetation changes linked to the economic activities of ancient cultures (link to publication needs to be provided).",
         "Palynological study of cores from oil and gas wells (2005): A comprehensive biospore-stratigraphic analysis of cores was carried out jointly with the institute's team of palynologists.",
         "Atlas of key sections of the Neurozoic (2002): A fundamental work was prepared, reflecting stratigraphic and climatic reconstructions of the region's key sections.",
-        "Geological-paleontological and paleoclimatic studies of Cenozoic deposits of Central Kazakhstan as a basis for forecasting mineral deposits."
+        "Geological-paleontological and paleoclimatic studies of Cenozoic deposits of Central Kazakhstan as a basis for forecasting mineral deposits.",
+        "Scientific justification for the expansion of the placer gold resource base of Eastern Kazakhstan and for improving its development efficiency based on the study of paleolandscape, paleoclimatic, and neotectonic conditions for the formation of Neogene-Paleogene gold-bearing deposits of Western Kalba and Southern Altai",
+        "Comprehensive study of key stratigraphic sections of the Cenozoic of Southeastern Kazakhstan as a basis for developing an improved stratigraphic scale of the sedimentary deposits of Central Asia"
       ],     
       "kz": [
         "INTAS «Жетісуда қола және ерте темір дәуірлерінде көшпелі тайпалардың қалыптасу процесі. Экология және археология»: Ежелгі мәдениеттердің шаруашылық қызметімен байланыстырылған климат пен өсімдіктер жамылғысының өзгерісі бойынша бірегей материалдар алынды (жарияланым сілтемесін толықтыру қажет).",
         "Мұнай-газ ұңғымаларының өзектерін палинологиялық зерттеу (2005 ж.): Институт палинологтар ұжымымен бірге өзектердің кешенді биоспортиграфиялық талдауы жүргізілді.",
         "Нейрозойдың тірек қималары атласы (2002 ж.): Аймақтың негізгі қималары бойынша стратиграфиялық және климаттық реконструкцияларды бейнелейтін іргелі еңбек дайындалды.",
-        "Орталық Қазақстанның кайнозойлық шөгінділерінің геологиялық-палеонтологиялық және палеоклиматтық зерттеулері пайдалы қазбалар кен орындарын болжаудың негізі ретінде."
+        "Орталық Қазақстанның кайнозойлық шөгінділерінің геологиялық-палеонтологиялық және палеоклиматтық зерттеулері пайдалы қазбалар кен орындарын болжаудың негізі ретінде.",
+        "Шығыс Қазақстанның рассыпалы алтын шикізат базасын кеңейтуді және Батыс Қалба мен Оңтүстік Алтайдың неоген-палеоген алтынды шөгінділерінің қалыптасу палеоландшафттық, палеоклиматтық және неотектоникалық жағдайларын зерттеу негізінде оны игеру тиімділігін арттыруды ғылыми негіздеу",
+        "Орталық Азияның шөгінді жыныстары үшін жетілдірілген стратиграфиялық шкаланы әзірлеудің негізі ретінде Оңтүстік-Шығыс Қазақстан кайнозойының тірек стратиграфиялық қималарын кешенді зерттеу"
       ],
       "zh": [
         "INTAS“七河地区青铜时代和早期铁器时代游牧部落形成过程：生态与考古”：获得了与古代文化经济活动相关的气候和植被变化的独特资料（需补充出版物链接）。",
         "油气井岩心的孢粉学研究（2005年）：与研究所孢粉学家团队共同完成了岩心的综合孢粉地层分析。",
         "神经代基础剖面图集（2002年）：编制了反映该地区主要剖面的地层和气候重建的基础性著作。",
-        "中哈萨克斯坦新生代地层的地质古生物学和古气候研究作为预测矿产资源的基础。"
+        "中哈萨克斯坦新生代地层的地质古生物学和古气候研究作为预测矿产资源的基础。",
+        "基于对西卡尔巴和南阿尔泰新近纪-古近纪含金矿层形成的古地貌、古气候和新构造条件的研究，为扩展东哈萨克斯坦砂金资源基础和提高其开发效率提供科学依据",
+        "作为制定中亚沉积地层改进地层标尺的基础，对东南哈萨克斯坦新生代主要地层剖面进行综合研究"
       ]
     },
     "teachings": {
@@ -1299,9 +1394,18 @@
     },
     "publications": {
       "ru": [
+        "Г.Ж. Жолтаев, Н.М.Жуков, Х.А.Беспаев. Теоретические основы прогнозирования и оценки минерально-сырьевой базы Республики Казахстан// Известия НАН РК, серия геологии и технических наук, № 2, с. 193 (Scopus) (ИГН им.К.И. Сатпаева, Сатпаев университет) - 2018 г",
+        "Жуков Н.М., Антоненко А.А., Машрапова М.А., Какимжанов Е.Х., Каратаева Г.М. Электронная минерагеническая карта Республики Казахстан// Материалы междунар научной конференции «Вклад выдающегося казахстанского ученого член- корреспондента АН КазССР, профессора П.Т. Тажибаевой в развитие геологической науки Казахстана».",
+        "Антоненко А. А., Жуков Н. М., Гойколова Т. В. Принципы регионального и локального прогноза месторождений цветных, редких и благородных металлов Казахстана//Геология и охрана недр №2 2020 г. с.53 (РИНЦ)",
+        "А.А. Антоненко, Н.М. Жуков, З.Н. Павлова, Т.В. Гойколова. Медно-золотое месторождение Варваринское, Казахстан. Влияние вмещающих пород на состав оруденения. //Геология рудных месторождений, том 62, №4, Россия, 2020. с. 349 (Scopus).",
+        "Степанец В.Г., Левин В.Л., Ли Е.С., Бекенова Г.К., Жуков Н.М., Хакимжанов М.С. Геология и минералогия карбонатитов линейно-трещинного типа рудопроявления Майке маятасского рудного района (Северный Улытау)// Известия Томского политехнического университета. Том 331, №9 (2020), с.199 Bulletin of the Tomsk Polytechnic University, Geo Assets Engineering, 2020, 331(9), стр. 199–214РИНЦ",
+        "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Развитие металлогенической науки в Казахстане. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-14",
+        "Жуков Н.М., Антоненко А.А., Гойколова Т.В. Научные основы прогнозирования и оценки месторождений полезных ископаемых Казахстана. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-87",
         "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Атлас закономерностей размещения твердых полезных ископаемых. Алматы 2024. Монография с. 250"
       ],
-      "en": ["Required field"],
+      "en": [
+        "Zholtaev G.Zh., Seitmuratova E.Yu., Zhukov N.М. Academician Kanysh Satpaev and the mineral resource base of Kazakhstan// News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Number 2, 2019, с. 225 SCOPUS (IF 0, 14)"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -1315,22 +1419,27 @@
       "ru": [
         "«Минерагеническая карта Казахстана масштаба 1:2500000», 2002 г.",
         "«Минерагеническая карта Казахстана масштаба 1:1000000», 2008 г.",
-        "«Минерагеническая карта мезозой-кайнозоя Казахстана масштаба 1:1000000», 2012 г."
+        "«Минерагеническая карта мезозой-кайнозоя Казахстана масштаба 1:1000000», 2012 г.",
+        "Научное обеспечение восполнения и расширения минерально-сырьевых ресурсов Республики Казахстан - (2018-2020 гг)"
       ],
       "en": [
         "\"Mineralogenic map of Kazakhstan at a scale of 1:2,500,000\", 2002.",
         "\"Mineralogenic map of Kazakhstan at a scale of 1:1,000,000\", 2008.",
-        "\"Mineralogenic map of Mesozoic-Cenozoic formations of Kazakhstan at a scale of 1:1,000,000\", 2012."
+        "\"Mineralogenic map of Mesozoic-Cenozoic formations of Kazakhstan at a scale of 1:1,000,000\", 2012.",
+        "Scientific support for the replenishment and expansion of mineral resources of the Republic of Kazakhstan (2018–2020)"
       ],
       "kz": [
         "«Қазақстанның 1:2500000 масштабтағы минерагендік картасы», 2002 ж.",
         "«Қазақстанның 1:1000000 масштабтағы минерагендік картасы», 2008 ж.",
-        "«Қазақстанның мезозой-кайнозой түзілімдерінің 1:1000000 масштабтағы минерагендік картасы», 2012 ж."
+        "«Қазақстанның мезозой-кайнозой түзілімдерінің 1:1000000 масштабтағы минерагендік картасы», 2012 ж.",
+        "Қазақстан Республикасының минералдық-шикізат ресурстарын толықтыру және кеңейтуді ғылыми қамтамасыз ету (2018–2020 жж.)"
       ],
       "zh": [
         "《哈萨克斯坦1:2,500,000比例矿产成因图》，2002年。",
         "《哈萨克斯坦1:1,000,000比例矿产成因图》，2008年。",
-        "《哈萨克斯坦中生代-新生代1:1,000,000比例矿产成因图》，2012年。"
+        "《哈萨克斯坦中生代-新生代1:1,000,000比例矿产成因图》，2012年。",
+        "2018–2020 年哈萨克斯坦共和国矿产资源补充与扩展的科学保障"
+
       ]
     },
     "teachings": {
@@ -1380,13 +1489,13 @@
       "zh": "矿物学实验室高级研究员"
     },
     "specTags": {
-      "ru": " Геология\nМинералогия\nНаноминералогия\nСтратиформные месторождения инфо",
+      "ru": " Геология\nМинералогия\nНаноминералогия\nСтратиформные месторождения",
       "en": "Geology\nMineralogy\nNanomineralogy\nStratiform deposits info",
       "kz": "Геология\nМинералогия\nНаномминералогия\nСтратиформды кен орындары ақпарат",      
       "zh": "地质学\n矿物学\n纳米矿物学\n层状矿床 信息"
     },
     "shortInfo": {
-      "ru": "Минералог-полевик с опытом с 1969 года; исследует руды жезказганского типа и природные наноформы углерода и кремнезёма, опубликовал 50+ научных работ. инфо",
+      "ru": "Минералог-полевик с опытом с 1969 года; исследует руды жезказганского типа и природные наноформы углерода и кремнезёма, опубликовал 50+ научных работ.",
       "en": "Field mineralogist with experience since 1969; studies Zhezkazgan-type ores and natural nanostructures of carbon and silica, published 50+ scientific papers. info",
       "kz": "1969 жылдан бастап тәжірибесі бар далалық минералог; Жезқазған типіндегі рудаларды және көміртек пен кремнеземнің табиғи нанопішіндерін зерттейді, 50-ден астам ғылыми жұмыс жариялаған. ақпарат",
       "zh": "自1969年以来有经验的野外矿物学家；研究杰兹卡兹甘型矿石和碳及二氧化硅的天然纳米结构，发表了50多篇科学论文。信息"
@@ -1417,9 +1526,12 @@
     },
     "publications": {
       "ru": [
-        "Silachov I.Yu., Glagolev V.A. Comparator neutron activation analysis of the solid volumetric rock samples for gold content//International Journal of Biology and Chemistry. 2022. 15. N1. 90. P. 90-101 (КОКСОН). https://doi.org/10.26577/ijbch.2022.v15.il.010."
+        "Глаголев В.А., Шабанова Т.А, Перспективы наноминералов в развитии минерально-сырьевых ресурсов//Труды МНТК Бежановские чтения, 2019"
       ],
-      "en": ["Required field"],
+      "en": [
+        "Silachov I.Yu., Glagolev V.A. Comparator neutron activation analysis of the solid volumetric rock samples for gold content//International Journal of Biology and Chemistry. 2022. 15. N1. 90. P. 90-101 (КОКСОН). https://doi.org/10.26577/ijbch.2022.v15.il.010."
+
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -1531,15 +1643,20 @@
     },
     "publications": {
       "ru": [
-        "Bekenova G.K., Peregudov V.V., Levin V.L., Kanatbaev Y.T., Muratkhanov D.B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining Metallurgical Plant (Aktau, Kazakhstan). Kompleksnoe Ispolzovanie Mineralnogo Syra = Complex Use of Mineral Resources. 2023; 328(1):76-87. https://doi.org/10.31643/2024/6445.09.",
+        "Степанец В.Г., Левин В.Л., Ли Е.С., Бекенова Г.К., Жуков Н.М., Хакимжанов М.С. Геология и минералогия карбонатитов линейно-трещинного типа рудопроявления Майке маятасского рудного района (Северный Улытау)// Известия Томского политехнического университета. Том 331, №9 (2020), с.199 Bulletin of the Tomsk Polytechnic University, Geo Assets Engineering, 2020, 331(9), стр. 199–214РИНЦ",
+        "Бекенова Г.К., Левин В.Л., Слюсарев А.П., Коккузова М.Н., Ли Е.С. Лаборатория минералогии к 80-летнему юбилею ИГН им. К.И. Сатпаева. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-33",
+        "Антонюк Р.М., Степанец В.Г., Дегтярев К.Е., Третьяков А.А., Бекенова Г.К., Левин В.Л., Ли Е.С. Первые результаты U–Th–Pb (SIMS)-геохронологического изучения циркона из серпентинизированных ультрамафитов тектурмасской офиолитовой зоны (Центральный Казахстан) //Доклады Российской академии наук. Науки о Земле. 2021. Т. 500. № 2. С.142-149. DOI: 10.31857/S2686739721100030 РИНЦ",
         "Бекенова Г.К., Перегудов В.В., Левин В.Л., Шаймураткызы К. Тонкодисперсное золото открытых кор выветривания и алмазосодержащих руд Кумдыкольского месторождения//Горный журнал Казахстана №8 (220) 2023, Алматы.",
-        "V.G. Stepanets, V.L. Levin, G.K. Bekenova, М.S. Khakimzhanov, K.S. Togizov*. Accessory copper ore minerals as a key issue in understanding the genesis of the Mayatas metacarbonatite ores (Ulytau, Central Kazakhstan) // News NAS RK. Series of geology and technical sciences № 2 (452), Almaty 2022y. P.172-191. ISSN 2224-5278. doi.org/10.32014/2022.2518-170X.168. (Процентиль 47);",
         "Бекенова Г.К., Перегудов В.В., Левин В.Л. Изучение и освоение микрои нанокомпонентов руд- кратчайший путь решения поблемы прироста запасов полезных ископаемых казахстана. // Геология и охрана недр. 3(92)2024, с. 45",
         "Перегудов В.В., Бекенова Г.К., Левин В.Л. Железосодержащие микросферы – маркеры глубинности и высоких температур образования алмазной, медно-золото- урановой минерализации. // Геология и охрана недр. 3(92)2024, с. 52",
         "Перегудов В.В. 1 , Бекенова Г.К. 2 , Левин В.Л. 2 , Шаймураткызы К. 3 , Муратханов Д.Б. 2 , Канатбаев Е.Т. 2 ( 1 ТОО «КРИЦ-НТК», 2 ТОО «Институт геологических наук им. К.И. Сатпаева», 3 ЧК «QAZAQDIAMONDS LTD») Способ извлечения тонкодисперсных фракций благородных и редкоземельных минералов (фаз).// Материалы МНТК, 2024, с.",
         "Ли Е.С., Степанец В.Г., Бекенова Г.К., Левин В.Л. Условия образования медной минерализации рудопроявления Майке. //Материалы МНТК, 2024, с."
       ],
-      "en": ["Required field"],
+      "en": [
+        "Levin, V.L.,  Stepanets, V.G. , Li, E.S.,  Bekenova, G.K. ,  Khakimzhanov, M.S. Discovery of rhenium sulfides in copper sulfide ores from the mayke ore occurence (ulytau, central kazakhstan) | Находка сульфидов рения в медноколчеданных рудах проявления майке (улытау, центральный Казахстан)// Zapiski Rossiiskogo Mineralogicheskogo Obshchestva , 2020, 149(5), стр. 82–98 (Scopus) Q34",
+        "Bekenova G.K., Peregudov V.V., Levin V.L., Kanatbaev Y.T., Muratkhanov D.B. Gold and rare earth elements in enrichment products from the technogenic wastes of the Caspian Mining Metallurgical Plant (Aktau, Kazakhstan). Kompleksnoe Ispolzovanie Mineralnogo Syra = Complex Use of Mineral Resources. 2023; 328(1):76-87. https://doi.org/10.31643/2024/6445.09.",
+        "V.G. Stepanets, V.L. Levin, G.K. Bekenova, М.S. Khakimzhanov, K.S. Togizov*. Accessory copper ore minerals as a key issue in understanding the genesis of the Mayatas metacarbonatite ores (Ulytau, Central Kazakhstan) // News NAS RK. Series of geology and technical sciences № 2 (452), Almaty 2022y. P.172-191. ISSN 2224-5278. doi.org/10.32014/2022.2518-170X.168. (Процентиль 47);"
+      ],
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
@@ -1651,6 +1768,11 @@
     },
     "publications": {
       "ru": [
+        "Сейтмуратова Э.Ю., Горяева В.С., Аршамов Я.К., Сайдашева Ф.Ф., Баратов Р.Т., Даутбеков Д.О., Сейтжанов Ш.А. Выявление перспективных направлений поисков месторождений полезных в палеозоидах Казахстана на основе металлогенограмм// Интеграция науки и практики как механизм эффективного развития геологической отрасли Республики Узбекистан. Мат-лы Междунар. научн.-техн. конференции 2018 г. Ташкент. 2018. С. 97-100",
+        "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Даутбеков Д.О., Баратов Р.Т., Сейтжанов Ш.А. Современное состояние изученности геологии и рудоносности палеозоид Казахстана и новые пути поисковых работ // Инновации – ключевой фактор развития ГМК. Мат-лы Круглого стола. 15 ноября 2018 г. Алматы. 2018. С. 47-57. (КазНИТУ им.К.И. Сатпаева)",
+        "Сейтмуратова Э.Ю., Горяева В.С., Аршамов Я.К., Баратов Р.Т. и др. О результатах проведения прикладных научно-исследовательских работ по переоценке золотоносности Жонгаро-Балхашской складчатой системы// Известия НАН РК, серия геологии и технических наук, № 1 (433) 2019 (Scopus IF 0,14)",
+        "Сейтмуратова Э.Ю., Горяева В.С., Баратов Р.Т., Даутбеков Д.О., Бердина Л.Е. Металлогенограммы - кратчайший и объективный способ выявления новых перспективных направлений поисков месторождений полезных ископаемых//Труды МНТК Бежановские чтения, 2019, с",
+        "Сейтмуратова Э.Ю., Жаймина В.Я., Сайдашева Ф.Ф., Горяева В.С., Баратов Р.Т., Даутбеков Д.О. К проблемам региональных геологических исследований и геолого- съемочных работ в Казахстане (из опыта проведения ГДП-200 Акшатау-Коныратского рудного района). Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-59",
         "Сейтмуратова Э.Ю., Баратов Р.Т., Сайдашева Ф.Ф., Горяева В.С., Машрапова М.А., Аршамов Я.К. Закономерности проявления кольцевых структур Казахстана и их рудоносность // Геология и охрана недр. № 3(84). 2022 г. С. 50-64. (ISSN 2414-4282)РИНЦ",
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Современное состояние изученности вторичных кварцитов северного сегмента Жонгаро-Балхашской складчатой системы и их золотоносности (Центральный Казахстан) (The current state of research on Secondary Quartzites of the Northern Segment of the Jungar-Balkhash Folded System and Their Au Mineralization (Central Kazakhstan) (на англ. яз.) / Minerals (Basel, Switzerland) 2023, 13, 813. C. 2-32., Scopus, процентиль 73%.",
         "Сейтмуратова Э.Ю., Горяева В.С., Сайдашева Ф.Ф., Аршамов Я.К., Баратов Р.Т., Даутбеков Д.О., Шадиев Н.Ш., Машрапова М.А., Каримбеков Т. Характеристика вторичных кварцитов и их золотоносности вулкано-плутонической структуры Кызылтас (Центральный Казахстан) (Characteristics of secondary quartites and their gold-bearing in the Kyzyltas volcano-plutonic structure (Central Kazakhstan))/Геология и разведка недр (Алматы), 2023. № 2, С. 4-30.",
@@ -1783,8 +1905,15 @@
       "zh": [""]
     },
     "publications": {
-      "ru": [""],
-      "en": [""],
+      "ru": [
+        "Г.К. Ергалиев, Т.Е. Пирогова. Поздне-нижнекембрийские и средне-кембрийские осадочные разрезы маяжонской и атейской свит хребта Шынгыз (Восточный Казахстан)// Известия НАН РК. Серия геологии и технических наук № 6. Алматы 2018. С. 180. (IF 0,096), (Scopus) (Англ).",
+        "Г.К. Ергалиев, В.Г. Жемчужников, Т.Е. Пирогова. Кембрийский осадочный разрез Атасу-Моинтинского водораздела// Известия НАН РК. Серия геологии и технических наук, №5, Алматы 2019, с. (Scopus IF 0,14)",
+        "Нигматова С. А., Байшашов Б. У., Пирогова Т. Е., Жамангара А. К. Местонахождение эоценовой фауны шынжылы (северо-западное предгорье Жетысуского Алатау, Казахстан)//Национальная ассоциация ученых Ежемесячный научный журнал №47, Россия, Екатеринбург 2019, 1 часть, с. 9 РИНЦ",
+        "Ергалиев Г.К., Жемчужников В.Г., Пирогова Т.Е. Стратиграфия отложений кембрия восточной части Казахстана. Состояние изученности и перспективы совершенствования. Флагман геологической науки Казахстана – сборник статей ученых ИНГ им.К.И. Сатпаева, Алматы 2020.- С-22"
+      ],
+      "en": [
+        "Leonid E. Popov, · Olga I. Nikitina, · Tatiana E. Pirogova, · Gappar Kh. Ergaliev. Cambrian brachiopods from the area of the former Semipalatinsk nucleartesting site, Chingiz Ranges, Kazakhstan// RESEARCH PAPER Paläontologische Gesellschaft 2021 https://doi.org/10.1007/s12542-020-00540-9.(Scopus)"
+      ],
       "kz": [""],
       "zh": [""]
     },
@@ -1807,25 +1936,29 @@
         "«Стратиграфия, седиментология, палеоэкология и магматизм окраинных бассейнов палеозоя Казахстана (хр. Чингиз, Семипалатинский полигон)», 2002 г.",
         "«Палеонтолого-стратиграфические исследования опорных разрезов», 2005 г.",
         "«Атлас опорных разрезов фанерозоя Казахстана», 2008 г.",
-        "«Каталог стратотипов палеозоя Казахстана», 2010 г."
+        "«Каталог стратотипов палеозоя Казахстана», 2010 г.",
+        "Составление и издание Атласа опорных геологических разрезов и стратотипов фанерозоя Казахстана (2018 - 2020 гг)"
       ],
       "en": [
         "“Stratigraphy, sedimentology, paleoecology, and magmatism of the marginal basins of the Paleozoic of Kazakhstan (Chingiz Range, Semipalatinsk Test Site)”, 2002.",
         "“Paleontological and stratigraphic studies of key sections”, 2005.",
         "“Atlas of key sections of the Phanerozoic of Kazakhstan”, 2008.",
-        "“Catalog of stratotypes of the Paleozoic of Kazakhstan”, 2010."
+        "“Catalog of stratotypes of the Paleozoic of Kazakhstan”, 2010.",
+        "Compilation and publication of the Atlas of reference geological sections and stratotypes of the Phanerozoic of Kazakhstan (2018–2020)"
       ],      
       "kz": [
         "«Қазақстан палеозой шеткі бассейндерінің стратиграфиясы, седиментологиясы, палеоэкологиясы және магматизмі (Шыңғыс жотасы, Семей полигоны)», 2002 ж.",
         "«Опорлық қималарды палеонтологиялық-стратиграфиялық зерттеу», 2005 ж.",
         "«Қазақстан фанерозойының опорлық қималар атласы», 2008 ж.",
-        "«Қазақстан палеозойының стратотиптер каталогы», 2010 ж."
+        "«Қазақстан палеозойының стратотиптер каталогы», 2010 ж.",
+        "Қазақстан фанерозойының тірек геологиялық қималары мен стратотиптерінің Атласын құрастыру және басып шығару (2018–2020 жж.)"
       ],      
       "zh": [
         "“哈萨克斯坦古生代边缘盆地的地层学、沉积学、古生态学和岩浆作用（青格兹山脉，塞米巴拉金斯克试验场）”，2002年。",
         "“基准剖面的古生物地层学研究”，2005年。",
         "“哈萨克斯坦显生宙基准剖面图集”，2008年。",
-        "“哈萨克斯坦古生代地层类型剖面目录”，2010年。"
+        "“哈萨克斯坦古生代地层类型剖面目录”，2010年。",
+        "编制和出版《哈萨克斯坦显生宙参考地质剖面和标准剖面图集》（2018–2020年）"
       ]    
     },
     "teachings": {
@@ -1877,9 +2010,9 @@
         "Сегодня Жолтаев Геро́й Жолтаевич — признанный авторитет в геологическом сообществе, продолжает делиться своим опытом, вносить вклад в развитие отечественной науки и подготовку нового поколения геологов."
       ],
       "en": [
-        "Heroi Zholtayev is an outstanding scientist in the field of oil and gas geology, one of Kazakhstan's leading specialists who has devoted more than half a century to the development of the country's petroleum geology. His professional path is an example of selfless service to science, high skill, and pedagogical talent.",
+        "Geroi Zholtayev is an outstanding scientist in the field of oil and gas geology, one of Kazakhstan's leading specialists who has devoted more than half a century to the development of the country's petroleum geology. His professional path is an example of selfless service to science, high skill, and pedagogical talent.",
         "He graduated from the V.I. Lenin Kazakh Polytechnic Institute with a degree in 'Geology and exploration of oil and gas fields'. From 1963 to 1993, he rose from assistant to associate professor of the department of geology and exploration of oil and gas fields, and in 1979–1992 served as deputy dean and dean of the oil faculty of KazPTI. Since 1993, he has been a professor and head of the department of oil and gas geology. From 2000 to 2004, he served as vice-rector for research and international relations. From 2004 to 2016, he headed the department of oil and gas geology of KazNTU / KazNITU. In 2009–2010, he was the director of the Satpayev Institute of Geological Sciences. Since 2017, he has been the director of LLP 'Satpayev Institute of Geological Sciences'.",
-        "Heroi Zholtayev made a significant contribution to the study of oil and gas regions of Kazakhstan, the development of methods for forecasting and evaluating oil and gas resources. He actively participated in the creation of educational programs, textbooks, and teaching aids for training young specialists. He is the author of more than 300 scientific works, including 4 monographs, 15 methodological guidelines, and 5 textbooks, and co-author of textbooks on oil and gas geology of Kazakhstan, Algeria, and Cuba.",
+        "Geroi Zholtayev made a significant contribution to the study of oil and gas regions of Kazakhstan, the development of methods for forecasting and evaluating oil and gas resources. He actively participated in the creation of educational programs, textbooks, and teaching aids for training young specialists. He is the author of more than 300 scientific works, including 4 monographs, 15 methodological guidelines, and 5 textbooks, and co-author of textbooks on oil and gas geology of Kazakhstan, Algeria, and Cuba.",
         "His scientific interests cover the geology of oil and gas basins, oil and gas potential of Kazakhstan, geology of petroleum regions, structural geomorphology, and regional stratigraphy. He pays great attention to personnel training: his students hold leadership and research positions in scientific centers, universities, and production companies in Kazakhstan and abroad.",
         "Today, Heroi Zholtayev is a recognized authority in the geological community, continues to share his experience, and contributes to the development of domestic science and the training of a new generation of geologists."
       ],
@@ -1913,6 +2046,23 @@
         "«Нефтепромысловая геология и подсчет запасов», 2009",
         "«Геологические основы разработки нефтяных и газовых месторождений», 2009",
         "«Научное обоснование углеводородного потенциала Республики Казахстан», 2013",
+        "Г.Ж. Жолтаев, Н.М.Жуков, Х.А.Беспаев. Теоретические основы прогнозирования и оценки минерально-сырьевой базы Республики Казахстан// Известия НАН РК, серия геологии и технических наук, № 2, с. 193 (Scopus) (ИГН им.К.И. Сатпаева, Сатпаев университет) - 2018 г",
+        "Г.Ж. Жолтаев Теоретические основы оценки перспектив нефтегазоносности палеозойских осадочных бассейнов Казахстана// Известия НАН РК, серия геологии и технических наук, №2. Алматы, 2018, с.185-192 (Scopus) (ИГН им.К.И. Сатпаева, Сатпаев университет)",
+        "Г.Ж.Жолтаев, М.И. Налибаев. Геодинамическая модель и перспективы нефтегазоносности северо-Торгайского бассейна// Известия НАН РК, серия геологии и технических наук, № 3, с. 290. (Scopus) - 2018 г",
+        "Жолтаев Г.Ж., Исказиев К.О., Битеуова С.А. Региональное строение палеозойских отложений Мангышлака//Геология, география и глобальная энергия №1, Новочеркасск, 2019, с. 7 РИНЦ (IF 0,132)",
+        "Жолтаев Г.Ж., Кулумбетова Г.Е. Литологические типы и фильтрационно- емкостные свойства коллекторов основной продуктивной толщи КТ-II на восточном борту прикаспийского бассейна//Горный журнал Казахстана, Алматы, 2019, с. 21 КБЦ (IF 0,036)",
+        "И.В. Орешкин, Г.Ж. Жолтаев, Г.Е. Кулумбетова, А.И. Орешкин. Характеристика карбонатных и терригенных подсолевых отложений востока Прикаспийской впадины и формирование в них ловушек углеводородов// НТЖ Геология нефти и газа №4, Москва 2019, с. 5 РИНЦ (IF 0,647)",
+        "Г.Ж. Жолтаев, А. Ж. Ахметжанов, Р.Б. Абуев, Г.А. Ахметжанова, Б.Б. Ораз. Терригенно-карбонатные коллекторы юго-востока Прикаспийской впадины// НТЖ Геология нефти и газа №4, Москва 2019, с. 41 РИНЦ (IF 0,647)",
+        "Жолтаев Г.Ж, Г.Е. Кулумбетова. Характеристика карбонатных и терригенных подсолевых отложений востока Прикаспийской впадины//РНТЖ Недра поволжья и прикаспия, 2019, с. 65 РИНЦ",
+        "Хайрутдинов Р. Н., Илимбаева С. М., Жолтаев Г. Ж. Создание единой электронной базы данных скважинной сейсморазведки для нефтегазовых областей Казахстана//Научно-технический вестник &quot;Каротажник&quot; Выпуск 3, №297, Тверь 2019, с.139 РИНЦ (IF 0,24)",
+        "Г.Ж. Жолтаев, К.О. Исказиев, А. Абишев, Г.Е. Кулумбетова. Новое перспективное направление поисков нефтегазовых месторождений на востоке прикаспийской впадины//Геология нефти и газа №5, Москва, 2019, с. 27 РИНЦ (IF 0,647)",
+        "Б.Б. Ораз (КазНИТУ), Г.Ж. Жолтаев (Институт геологических наук), Г.А. Ахметжанова (КазНИТУ), Р.Б. Абуев (ТОО НИИ «Каспиймунайгаз»), А. Ж. Ахметжанов (КазНИТУ). Применение инверсии двухмерных полнократных сейсмических сумм для прогноза фильтрационно-емкостных свойств резервуара в надсолевых отложениях юго- востока Прикаспийской впадины//EAGE, 21-конференция Геомодель 2019, Геленджик, Россия.",
+        "Р.Б. Абуев, (Каспиймунайгаз) Г.Ж. Жолтаев (Институт геологических наук), Г.А. Ахметжанова (КазНИТУ), Б.Б. Ораз (КазНИТУ), А.Ж. Ахметжанов (КазНИТУ). Особенности строения триасовых отложений востока//EAGE, 21-конференция Геомодель 2019, Геленджик, Россия.",
+        "Жолтаев Г.Ж., Фазылов Е.М., Мусина Э.С. Прикаспийский осадочный бассейн - перспективный район на выявление крупных месторождений горючих сланцев //Труды МНТК Бежановские чтения, 2019",
+        "Жолтаев Г.Ж., Ахметжанов А. Ж., Ораз Б.Б., Ахметжанова Г.А. Геодинамический мониторинг техногенных деформационных процессов на нефтегазовых месторождениях Казахстана// Труды МНТК Бежановские чтения, 2019, с.",
+        "Жолтаев Г.Ж., Фазылов Е.М. Основоположница литологической школы Казахстана// Материалы междунар научной конференции «Вклад выдающегося казахстанского ученого член-корреспондента АН КазССР, профессора П.Т. Тажибаевой в развитие геологической науки Казахстана».",
+        "Жолтаев Г. Ж., Мусина Э. С., Фазылов Е. М. Оценка перспектив Текесско- Каркаринского осадочного бассейна на выявление промышленных залежей горючихсланцев//Геология и охрана недр №2 2020 г., с. 4 (РИНЦ)",
+        "Г. Ж. Жолтаев, Р. Б. Абуев, Г. А. Ахметжанова, Б.Б. Ораз. Фильтрационно- емкостные свойства и петрофизические параметры терригенно-карбонатных коллекторов юго-востока Прикаспийской впадины//Каротажник №3, 2020, с. 39-49 РИНЦ (IF 0,24)",
         "Жолтаев Г.Ж. Геодинамическая модель сырдарьинской впадины и оценка перспектив нефтегазоносности палеозойских отложений. // Материалы конференции «Актуальные проблемы нефтегазовой геологии и освоения углеводородного потенциала недр и пути их решения» Акромходжаевские чтения. Ташкент 2023 г., с.154",
         "Жолтаев Г.Ж. К.И. Сатпаев - основатель науки о Земле в Казахстане. // Геология и охрана недр. 1(90)2024, с. 8",
         "Жолтаев Г.Ж., Жуков Н.М., Антоненко А.А. Атлас закономерностей размещения твердых полезных ископаемых. Алматы 2024. Монография с. 250"
@@ -1925,6 +2075,10 @@
       "\"Oilfield Geology and Reserves Estimation\", 2009",
       "\"Geological Foundations for the Development of Oil and Gas Fields\", 2009",
       "\"Scientific Justification of the Hydrocarbon Potential of the Republic of Kazakhstan\", 2013",
+      "G.Zh. Zholtaev, K.O.Iskaziev, B.K.Abayıldanov. Paleosoic deposits as option for reserves replacement &amp; expansion of raw material base for petroleum industry in Mangyshlak//Известия НАН РК, серия геологии и технических наук, Алматы, 2018 г. №5. с. 163 (Scopus)",
+      "Zholtaev G.Zh., Seitmuratova E.Yu., Zhukov N.М. Academician Kanysh Satpaev and the mineral resource base of Kazakhstan// News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Number 2, 2019, с. 225 SCOPUS (IF 0, 14)",
+      "Zholtaev G.Zh., Mussina E.S., Fazylov E.М., Aliakbar. M. Prospects for discovering new unconventional hydrocarbon deposits in the caspian sedimentary basin (shale oil and gas)// Proceedings International Multidisciplinary Scientific GeoConference SGEM 2019, Болгария, Албена, 28 июня - 7 июля 2019, с. 465 (Scopus IF 0,139)",
+      "Togizov K.S., Zholtayev G., Isaeva L.D. The role of three-dimensional models of deposit and thermodynamic conditions of its formation at selecting and evaluating resources of perspective sites//News of the National Academy of sciences of the Repablic of Kasakhstan. Series of Geology and Technical Sciences. Number 4, 2019, p. 169 Scopus (IF 0, 14)",
       "Zholtaev G.Zh. Geodynamic Model of the Syrdarya Depression and Assessment of Oil and Gas Prospects of Paleozoic Deposits. // Conference Materials \"Current Issues of Oil and Gas Geology and Development of Hydrocarbon Potential of Subsoil and Ways of Their Solution\" Akromkhodzhaev Readings. Tashkent 2023, p. 154",
       "Zholtaev G.Zh. K.I. Satpayev - Founder of Earth Science in Kazakhstan. // Geology and Subsoil Protection. 1(90)2024, p. 8",
       "Zholtaev G.Zh., Zhukov N.M., Antonenko A.A. Atlas of the Regularities of Solid Mineral Deposits Distribution. Almaty 2024. Monograph p. 250"

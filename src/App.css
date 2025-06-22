@@ -77,6 +77,15 @@
 
 .scientist-card {
   width: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.scientist-card:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .management-spec-tags {
@@ -216,8 +225,39 @@
   padding: .1em .3em;
 }
 
+.button-33 {
+  background-color: #abebf6;
+  border-radius: 100px;
+  box-shadow: rgba(48, 149, 212, 0.2) 0 -25px 18px -14px inset,rgba(44, 99, 187, 0.15) 0 1px 2px,rgba(44, 151, 187, 0.15) 0 2px 4px,rgba(44, 127, 187, 0.15) 0 4px 8px,rgba(44, 137, 187, 0.15) 0 8px 16px,rgba(44, 144, 187, 0.15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(18, 182, 252, 0.35) 0 -25px 18px -14px inset,rgba(44, 146, 187, 0.25) 0 1px 2px,rgba(44, 137, 187, 0.25) 0 2px 4px,rgba(44, 99, 187, 0.25) 0 4px 8px,rgba(44, 127, 187, 0.25) 0 8px 16px,rgba(44, 130, 187, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
 @media (max-width: 1024px) {
 
+  .button-33 {
+    width: 150px;
+  }
+
+  .button-33 a {
+    font-size: 12px;
+  }
 
   .button-92 a {
   font-size: 40px;
@@ -270,7 +310,8 @@
 
   .scientist-image {
     width: 100%;
-    height: 250px;
+    object-fit: cover;
+    height: 230px;
   }
 
   .carousel-img {

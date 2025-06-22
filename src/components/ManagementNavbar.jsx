@@ -25,8 +25,8 @@ export default function ManagementNavbar({ lang }) {
               <h3>
                 {t('Краткая история', 'Short history', 'Қысқаша тарих', '简史')}
               </h3>
-              {managementData.review.shortBio[lang].map((line, idx) => (
-                  <p style={{fontFamily: 'Montserrat'}} key={idx}>{line}</p> 
+              {managementData.review.shortBio[lang].map((str, idx) => (
+                  <p style={{fontFamily: 'Montserrat'}} key={idx}>{str}</p> 
               ))}
             </div>
             <div

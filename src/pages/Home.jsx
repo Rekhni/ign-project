@@ -49,8 +49,7 @@ export default function Home({ lang }) {
               className=" mx-auto d-flex justify-content-center z-2 w-100 w-lg-50 mt-3"
             >
               <button
-                className="text-dark p-3"
-                style={{ fontSize: 'clamp(14px, 4vw, 20px)', backgroundColor: 'rgb(255, 255, 255)', padding: "10px 20px", borderRadius: "20px" }}
+                className="button-33" role="button"
               >
                 <a href="#form" className='text-dark text-decoration-none'>
                     {t(
@@ -117,7 +116,7 @@ export default function Home({ lang }) {
         </div>
         <div className="justify-content-center w-100 text-dark" style={{ padding: '30px 0', backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
           <div className="d-flex justify-content-center flex-wrap p-4 gap-3 gap-lg-5">
-              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></button>
+              <button class="button-92 shadow-lg rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></button>
               <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="#">GeoSpark</NavLink></button>
               <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/museum">{t(
               "Музей",

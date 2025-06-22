@@ -17,7 +17,7 @@ export default function ScientistsGallery({ lang }) {
                 {scientistsData.map((scientist) => (
                     <div className="scientist-card card position-relative text-white shadow border-white" style={{boxShadow: '0 4px 10px rgba(85, 85, 217, 0.71)', backgroundColor: 'rgb(0, 53, 118)'}} key={scientist.id}>
                             <NavLink to={`/scientists-gallery/${scientist.id}`} className="text-decoration-none text-white">
-                                <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} className="card-img-top scientist-image" alt="news-img" height="300" />
+                                <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} className="card-img-top scientist-image" alt="news-img" height="280" />
                                 <div className="card-body">
                                     <p className="card-text">
                                         {scientist.name[lang]}

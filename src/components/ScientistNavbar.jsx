@@ -17,14 +17,14 @@ export default function ScientistNavbar({ lang }) {
      >
         <Tab eventKey="overview" title={`${t('Обзор', 'Overview', 'Шолу', '概览')}`}>
           <div 
-            className="scientist-content mt-3 mx-auto p-3"
+            className="scientist-content mt-3 mx-auto"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
-              maxHeight: '300px',
+              maxHeight: '350px',
               overflowY: 'auto',
-              paddingRight: '10px'
+              padding: '20px 60px'
             }}
           >
             {scientist.review[lang].map((line, idx) => (
@@ -60,7 +60,7 @@ export default function ScientistNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
-              maxHeight: '300px',
+              maxHeight: '350px',
               overflowY: 'auto',
               paddingRight: '10px'
             }}
@@ -98,7 +98,7 @@ export default function ScientistNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
-              maxHeight: '300px',
+              maxHeight: '350px',
               overflowY: 'auto',
               paddingRight: '10px'
             }}

@@ -13,9 +13,9 @@ export default function ManagementNavbar({ lang }) {
         style={{color: 'black'}}
      >
         <Tab eventKey="overview" title={`${t('Обзор', 'Overview', 'Шолу', '概览')}`}>
-          <div className="d-flex flex-column mt-3 w-75 mx-auto" style={{ gap: '30px' }} >
+          <div className="d-flex flex-column mt-3 mx-auto" style={{ gap: '30px' }} >
             <div
-              className='p-3'
+              className='management-tab-content mx-auto'  
               style={{
                 border: "2px solid rgb(22, 158, 255)",
                 borderRadius: "20px",
@@ -30,7 +30,7 @@ export default function ManagementNavbar({ lang }) {
               ))}
             </div>
             <div
-              className='p-3'
+              className='management-tab-content mx-auto'
               style={{
                 border: "2px solid rgb(22, 158, 255)",
                 borderRadius: "20px",
@@ -51,7 +51,7 @@ export default function ManagementNavbar({ lang }) {
         </Tab>
         <Tab eventKey="publications" title={`${t('Публикации', 'Publications', 'Жарияланымдар', '出版物')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="management-tab-content mt-3 mx-auto"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -67,7 +67,7 @@ export default function ManagementNavbar({ lang }) {
         </Tab>
         <Tab eventKey="projects" title={`${t('Проекты', 'Projects', 'Жобалар', '项目')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="management-tab-content mt-3 mx-auto"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -84,7 +84,7 @@ export default function ManagementNavbar({ lang }) {
         </Tab>
         <Tab eventKey="teaching" title={`${t('Преподавание', 'Teachings', 'Оқыту', '教学')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="management-tab-content mt-3 mx-auto"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -100,7 +100,7 @@ export default function ManagementNavbar({ lang }) {
         </Tab>
         <Tab eventKey="awards" title={`${t('Награды', 'Awards', 'Марапаттар', '奖项')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="management-tab-content mt-3 mx-auto "
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
@@ -116,7 +116,7 @@ export default function ManagementNavbar({ lang }) {
         </Tab>
         <Tab eventKey="media"  title={`${t('Медиа', 'Media', 'Медиа', '媒体')}`}>
           <div 
-            className="mt-3 w-75 mx-auto p-3"
+            className="management-tab-content mt-3 mx-auto"
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",

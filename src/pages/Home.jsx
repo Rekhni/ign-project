@@ -15,16 +15,15 @@ export default function Home({ lang }) {
           className="hero-image"
           style={{
             backgroundColor: 'rgb(1, 44, 97)',
-            height: "200px",
             paddingTop: '25px'
           }}
         >
-          <div className='d-flex justify-content-evenly center align-items-center px-3' style={{ fontFamily: 'Montserrat' }}>
+          <div className='main-header d-flex justify-content-evenly center align-items-center' style={{ fontFamily: 'Montserrat' }}>
             <img
               src={logo}
               alt=""
               className="z-2 m-0 hero-image-logo"
-              height="150"
+              height="200"
               style={{ color: 'white', paddingRight: '30px' }}
             />
             <div
@@ -118,20 +117,14 @@ export default function Home({ lang }) {
         </div>
         <div className="justify-content-center w-100 text-dark" style={{ padding: '30px 0', backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
           <div className="d-flex justify-content-center flex-wrap p-4 gap-3 gap-lg-5">
-            <div className=" shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
-              <h3 className="three-main-btns mb-0"><NavLink className='text-decoration-none text-dark' to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></h3>
-            </div>
-            <div className="shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
-              <h3 className="mb-0"><NavLink className='text-decoration-none text-dark' to="#">GeoSpark</NavLink></h3>
-            </div>
-            <div className="shadow p-3 rounded text-center bg-white hover-shadow" style={{ minWidth: '150px', transition: '0.3s' }}>
-              <h3 className="mb-0"><NavLink className='text-decoration-none text-dark' to="/museum">{t(
+              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></button>
+              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="#">GeoSpark</NavLink></button>
+              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/museum">{t(
               "Музей",
               "Museum",
               "Мұражай",
               '博物馆'
-            )}</NavLink></h3>
-            </div>
+            )}</NavLink></button>
           </div>
         </div>
         {/* <div className="d-flex flex-column justify-content-center w-100 text-dark bg-white" style={{fontFamily: 'Montserrat', paddingTop: '30px'}}>

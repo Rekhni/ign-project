@@ -240,7 +240,12 @@
           "多所哈萨克斯坦及海外大学名誉教授"
         ]
       },
-      "image": "/scientists/zholtayev.webp"
+      "media": [
+          "/scientists/zholtaev1.webp",
+          "/scientists/zholtaev2.webp",
+          "/scientists/zholtaev3.webp"
+      ],
+      "image": "/scientists/zholtaev2.webp"
     },
   {
     "id": 2,
@@ -442,12 +447,10 @@
         "政府委员会荣誉徽章（2015年）"
       ]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/ozdoev1.webp",
+      "/scientists/ozdoev2.webp" 
+    ],
     "image": "/scientists/ozdoev.webp"
   },
   {
@@ -715,12 +718,10 @@
             "“劳动老兵”奖章"
           ]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/seitmuratova1.webp",
+      "/scientists/seitmuratova2.webp"
+    ],
     "image": "/scientists/seitmuratova.webp"
   },
   {
@@ -932,20 +933,18 @@
         "受邀主旨演讲（会议）：待填写"
       ]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
-    "image": "/scientists/antonenko.webp"
+    "media": [
+      "/scientists/antonenko1.webp",
+      "/scientists/antonenko2.webp"
+    ],
+    "image": "/scientists/antonenko1.webp"
   },
   {
     "id": 5,
     "name": {
       "ru": "Г. К. Бекенова",
       "en": "G. K. Bekenova",
-      "kz": "Г. К. Бекенова",
+      "kz": "Г. К. Бекенова", 
       "zh": "G. K. 贝肯诺娃"
     },
     "title": {
@@ -1120,12 +1119,10 @@
         "其他奖项和理事会成员信息：待填写。"
       ]    
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/bekenova1.webp",
+      "/scientists/bekenova2.webp"
+    ],
     "image": "/scientists/bekenova.webp"
   },
   {
@@ -1320,12 +1317,11 @@
         "在I.U.G.S. 赞助下的卡拉套国际考察（2017年）"
       ]   
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/zhaimina1.webp",
+      "/scientists/zhaimina2.webp",
+      "/scientists/zhaimina3.webp"
+    ],
     "image": "/scientists/zhaimina.webp"
   },
   {
@@ -1571,13 +1567,11 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
-    "image": "/scientists/nigmatova.webp"
+    "media": [
+      "/scientists/nigmatova.webp",
+      "/scientists/nigmatova1.webp"
+    ],
+    "image": "/scientists/nigmatova2.webp"
   },
   {
     "id": 8,
@@ -1732,12 +1726,11 @@
         "因“哈萨克斯坦矿产成因及矿产资源远景评价”工作获得哈萨克斯坦共和国国家奖（2009年，6人团队成员之一）"
       ]    
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/zhukov1.webp",
+      "/scientists/zhukov2.webp",
+      "/scientists/zhukov3.webp"
+    ],
     "image": "/scientists/zhukov.webp"
   },
   {
@@ -1848,12 +1841,9 @@
         "国家和行业奖项、理事会和编委会成员信息——待补充"
       ]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/glagolev1.webp"
+    ],
     "image": "/scientists/glagolev.webp"
   },
   {
@@ -2016,13 +2006,12 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
-    "image": "/scientists/levin.webp"
+    "media": [
+      "/scientists/levin1.webp",
+      "/scientists/levin2.webp",
+      "/scientists/levin3.webp"
+    ],
+    "image": "/scientists/levin2.webp"
   },
   {
     "id": 11,
@@ -2164,12 +2153,9 @@
         "会员资格、主旨报告：待填写"
       ]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
+    "media": [
+      "/scientists/goryaeva1.webp"
+    ],
     "image": "/scientists/goryaeva.webp"
   },
   {
@@ -2324,7 +2310,13 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "image": "/scientists/pirogova.webp"
+    "media": [
+      "/scientists/pirogova1.webp",
+      "/scientists/pirogova2.webp",
+      "/scientists/pirogova3.webp",
+      "/scientists/pirogova4.webp"
+    ],
+    "image": "/scientists/pirogova1.webp"
   },
   {
     "id": 13,
@@ -2474,13 +2466,11 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
-    "image": "/scientists/nikitina.webp"
+    "media": [
+      "/scientists/nikitina1.webp",
+      "/scientists/nikitina2.webp"
+    ],
+    "image": "/scientists/nikitina2.webp"
   },
   {
     "id": 14,
@@ -2618,12 +2608,12 @@
       "kz": ["Міндетті түрде толтыру қажет"],
       "zh": ["必填项"]
     },
-    "media": {
-      "ru": "Требует заполнения",
-      "en": "Required field",
-      "kz": "Міндетті түрде толтыру қажет",
-      "zh": "必填项"
-    },
-    "image": "/scientists/nikitina.webp"
+    "media": [
+      "/scientists/umarbekova1.webp",
+      "/scientists/umarbekova2.webp",
+      "/scientists/umarbekova3.webp",
+      "/scientists/umarbekova4.webp"
+    ],
+    "image": "/scientists/umarbekova1.webp"
   }
 ]

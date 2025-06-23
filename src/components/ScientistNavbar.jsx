@@ -112,14 +112,49 @@ export default function ScientistNavbar({ lang }) {
         </Tab>
         <Tab eventKey="media"  title={`${t('Медиа', 'Media', 'Медиа', '媒体')}`}>
           <div 
-            className="scientist-content mt-3 mx-auto p-3"
+            className="mt-3 p-3"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
-              borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
-            }}
+              borderRadius: "20px" 
+               }}
           >
-            <p>Требует заполнения</p>
+            <div id="carouselExampleIndicators" class="carousel slide mx-auto" style={{ maxWidth: '600px' }} data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
+              <div class="carousel-inner">
+                {scientist.media.map((img, idx) => (
+                  <div className={`carousel-item ${idx === 0 ? 'active' : ''}`} key={idx}>
+                    <img 
+                      src={`${import.meta.env.BASE_URL}${img.slice(1)}`}  
+                      className="d-block w-100"
+                      style={{ objectFit: 'contain', maxHeight: '400px' }}
+                      alt={`${scientist.name['en']}-${idx}`} 
+                    />
+                  </div>
+                ))}
+              </div>
+              <button 
+                class="carousel-control-prev" 
+                type="button" 
+                data-bs-target="#carouselExampleIndicators" 
+                style={{ width: '5%', left: '100px' }} 
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button 
+                class="carousel-control-next" 
+                type="button" 
+                data-bs-target="#carouselExampleIndicators" 
+                data-bs-slide="next"
+                style={{ width: '5%', right: '100px' }}
+                >
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
           </div>
         </Tab>
       </Tabs>

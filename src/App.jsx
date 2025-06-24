@@ -3,13 +3,13 @@ import { useEffect, useState } from 'react';
 import { lazy, Suspense } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import './App.css'
 import ScrollToTop from './components/ScrollToTop';
 const Home = lazy(() => import("./pages/Home")) 
 const Museum = lazy(() => import('./pages/Museum'));
 const Navbar = lazy(() => import('./components/Navbar'));
 const News = lazy(() => import('./pages/News'));
-const History = lazy(() => import('./pages/History'));
 const Management = lazy(() => import('./pages/Management'));
 const InstituteStructure = lazy(() => import('./pages/InstituteStructure'));
 const ScientificAchievements = lazy(() => import('./pages/ScientificAchievements'));
@@ -41,7 +41,6 @@ function App() {
           <Route path="/ign-project/" element={<Home lang={language}/>} />
           <Route path="/museum" element={<Museum lang={language}/>}/>
           <Route path='/news' element={<News lang={language}/>}/>
-          <Route path='/history' element={<History lang={language}/>}/>
           <Route path='/management' element={<Management lang={language}/>}/>
           <Route path='/institute-structure' element={<InstituteStructure lang={language}/>}/>
           <Route path='/scientific-achievements' element={<ScientificAchievements lang={language}/>}/>

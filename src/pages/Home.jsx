@@ -134,7 +134,7 @@ export default function Home({ lang }) {
               style={{ display: "block" }}
             >
               <div
-                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                className=" rounded d-flex bg-white justify-content-center align-items-center position-relative z-1"
                 style={{
                   borderRadius: "20px 20px 0 0",
                   overflow: "hidden",
@@ -142,38 +142,12 @@ export default function Home({ lang }) {
                   width: "100%", // optional: set width if needed
                 }}
               >
-                {/* Background image + dark overlay */}
-                <div
-                  style={{
-                    position: "absolute",
-                    top: 0,
-                    left: 0,
-                    width: "100%",
-                    height: "100%",
-                    backgroundImage: `url(${LabImg})`,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    zIndex: 1,
-                  }}
-                >
-                  <div
-                    style={{
-                      position: "absolute",
-                      top: 0,
-                      left: 0,
-                      width: "100%",
-                      height: "100%",
-                      backgroundColor: "rgba(0, 0, 0, 0.4)",
-                    }}
-                  ></div>
-                </div>
-
                 {/* Centered text */}
                 <div
-                  className="text-white"
                   style={{
                     zIndex: 2,
                     position: "relative",
+                    color: "rgb(0, 53, 118)"
                   }}
                 >
                   {t("Услуги", "Services", "Қызметтер", "服务")}
@@ -187,46 +161,21 @@ export default function Home({ lang }) {
               style={{ display: "block" }}
             >
               <div
-                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                className=" rounded d-flex bg-white justify-content-center align-items-center position-relative z-1"
                 style={{
                   borderRadius: "20px 20px 0 0",
                   overflow: "hidden",
                   height: "100%", // optional: set height if needed
-                  width: "100%", // optional: set width if needed
+                  width: "100%",
+                  color: "rgb(0, 53, 118)"
                 }}
               >
-                {/* Background image + dark overlay */}
-                <div
-                  style={{
-                    position: "absolute",
-                    top: 0,
-                    left: 0,
-                    width: "100%",
-                    height: "100%",
-                    backgroundImage: `url(${LabImg})`,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    zIndex: 1,
-                  }}
-                >
-                  <div
-                    style={{
-                      position: "absolute",
-                      top: 0,
-                      left: 0,
-                      width: "100%",
-                      height: "100%",
-                      backgroundColor: "rgba(0, 0, 0, 0.4)",
-                    }}
-                  ></div>
-                </div>
-
                 {/* Centered text */}
                 <div
-                  className="text-white"
                   style={{
                     zIndex: 2,
                     position: "relative",
+                    color: "rgb(0, 53, 118)"
                   }}
                 >
                   GeoSpark
@@ -239,7 +188,7 @@ export default function Home({ lang }) {
               style={{ display: "block" }}
             >
               <div
-                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                className=" rounded d-flex bg-white justify-content-center align-items-center position-relative z-1"
                 style={{
                   borderRadius: "20px 20px 0 0",
                   overflow: "hidden",
@@ -247,38 +196,12 @@ export default function Home({ lang }) {
                   width: "100%", // optional: set width if needed
                 }}
               >
-                {/* Background image + dark overlay */}
-                <div
-                  style={{
-                    position: "absolute",
-                    top: 0,
-                    left: 0,
-                    width: "100%",
-                    height: "100%",
-                    backgroundImage: `url(${LabImg})`,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    zIndex: 1,
-                  }}
-                >
-                  <div
-                    style={{
-                      position: "absolute",
-                      top: 0,
-                      left: 0,
-                      width: "100%",
-                      height: "100%",
-                      backgroundColor: "rgba(0, 0, 0, 0.4)",
-                    }}
-                  ></div>
-                </div>
-
                 {/* Centered text */}
                 <div
-                  className="text-white"
                   style={{
                     zIndex: 2,
                     position: "relative",
+                    color: "rgb(0, 53, 118)"
                   }}
                 >
                   {t("Музей", "Museum", "Мұражай", "博物馆")}

@@ -53,9 +53,6 @@ export default function Navbar({ lang, onToggleLanguage }) {
               </NavLink>
                 <ul className="dropdown-menu gap-3" aria-labelledby="aboutDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     <li><NavLink className="dropdown-item text-white" to="/about-us" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
-                    {t('O нас', 'About us', 'Біз туралы', '关于我们')}
-                    </NavLink></li>
-                   <li><NavLink className="dropdown-item text-white" to="/history" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                     {t('История', 'History', 'Тарих', '历史')}
                     </NavLink></li>
                     <li><NavLink className="dropdown-item text-white" to="/management" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>

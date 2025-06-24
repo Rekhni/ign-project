@@ -451,7 +451,7 @@
       "/scientists/ozdoev1.webp",
       "/scientists/ozdoev2.webp" 
     ],
-    "image": "/scientists/ozdoev.webp"
+    "image": "/scientists/ozdoev1.png"
   },
   {
     "id": 3,
@@ -1126,7 +1126,7 @@
       "/scientists/bekenova1.webp",
       "/scientists/bekenova2.webp"
     ],
-    "image": "/scientists/bekenova.webp"
+    "image": "/scientists/bekenova2.webp"
   },
   {
     "id": 6,
@@ -1734,7 +1734,7 @@
       "/scientists/zhukov2.webp",
       "/scientists/zhukov3.webp"
     ],
-    "image": "/scientists/zhukov.webp"
+    "image": "/scientists/zhukov3.webp"
   },
   {
     "id": 9,
@@ -1847,7 +1847,7 @@
     "media": [
       "/scientists/glagolev1.webp"
     ],
-    "image": "/scientists/glagolev.webp"
+    "image": "/scientists/glagolev2.png"
   },
   {
     "id": 10,
@@ -2473,7 +2473,7 @@
       "/scientists/nikitina1.webp",
       "/scientists/nikitina2.webp"
     ],
-    "image": "/scientists/nikitina2.webp"
+    "image": "/scientists/nikitina1.webp"
   },
   {
     "id": 14,

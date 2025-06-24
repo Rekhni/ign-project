@@ -19,30 +19,42 @@ export default function ManagementNavbar({ lang }) {
               style={{
                 border: "2px solid rgb(22, 158, 255)",
                 borderRadius: "20px",
+                maxHeight: '350px',
+                overflowY: 'auto',
                 boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3>
-                {t('Краткая история', 'Short history', 'Қысқаша тарих', '简史')}
+                <strong>
+                  {t('Краткая история', 'Short history', 'Қысқаша тарих', '简史')}
+                </strong>
               </h3>
-              {managementData.review.shortBio[lang].map((str, idx) => (
-                  <p style={{fontFamily: 'Montserrat'}} key={idx}>{str}</p> 
-              ))}
+              {managementData.review.shortBio[lang].map((line, idx) => (
+                line.includes(':') 
+                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx}><strong>{line}</strong></p> 
+                  : <p style={{ fontFamily: 'Montserrat' }} key={idx}>{line}</p>
+              ))}   
             </div>
             <div
               className='management-tab-content mx-auto'
               style={{
                 border: "2px solid rgb(22, 158, 255)",
                 borderRadius: "20px",
+                maxHeight: '350px',
+                overflowY: 'auto',
                 boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3>
+                <strong>
                 {t('Полная история', 'Full history', 'Толық тарих', '全部历史')}
+              </strong>
               </h3>
               {managementData.review.bigBio[lang].map((line, idx) => (
-                  <p style={{fontFamily: 'Montserrat'}}ey={idx}>{line}</p> 
-              ))}       
+                line.includes(':') 
+                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx}><strong>{line}</strong></p> 
+                  : <p style={{ fontFamily: 'Montserrat' }} key={idx}>{line}</p>
+              ))}    
                 {managementData.moreInfo[lang].map((item, idx) => (
                 <p key={idx}>{item}</p>
               ))}
@@ -55,6 +67,8 @@ export default function ManagementNavbar({ lang }) {
             style={{
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
+              maxHeight: '350px',
+              overflowY: 'auto',
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
@@ -74,7 +88,6 @@ export default function ManagementNavbar({ lang }) {
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
-            <h3>{t('Активные проекты', 'Active Projects', 'Белсенді жобалар', '正在进行的项目')}</h3>
             <ul>
               {managementData.projects[lang].map((proj, idx) => (
                   <li key={idx}>{proj}</li>

@@ -3,10 +3,11 @@ import aboutUsImg from '../assets/about-us.webp';
 import AboutUsNavbar from '../components/AboutUsNavbar';
 
 export default function AboutUs({ lang }) {
+    const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
         <div className='text-dark bg-white p-3 h-100' style={{ fontFamily: 'Montserrat' }}>
             <div
-                className='d-flex w-100 w-lg-75 mx-auto text-white fw-bold align-items-center position-relative'
+                className='d-flex w-100 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
                     backgroundImage: `url(${aboutUsImg})`,
                     backgroundSize: "cover",
@@ -31,8 +32,13 @@ export default function AboutUs({ lang }) {
                 />
 
                 <div style={{ zIndex: 2 }}>
-                    <h3 className='about-us-quote w-100 text-center'>"Геологическая наука развивается в Казахстане на основе творческого содружества с практикой, на базе практики и для практики"</h3>
-                    <br/>
+                    <h3 className='history-quote'>
+                        {t(
+                            "“Геологическая наука развивается в Казахстане на основе творческого содружества с практикой, на базе практики и для практики”",
+                            "“Geological science is developing in Kazakhstan based on creative cooperation with practice, on the basis of practice, and for practice.”",
+                            "«Геологиялық ғылым Қазақстанда тәжірибемен шығармашылық ынтымақтастыққа, тәжірибе негізінде және тәжірибе үшін дамып келеді.»",
+                            "“哈萨克斯坦的地质科学在与实践的创造性合作基础上，在实践的基础上，为实践而发展。”"
+                        )}</h3>
                 </div>
             </div>
             <div className='w-100 mx-auto'>

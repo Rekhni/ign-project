@@ -58,6 +58,9 @@ export default function Navbar({ lang, onToggleLanguage }) {
                     <li><NavLink className="dropdown-item text-white" to="/management" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Руководство', 'Management', 'Басшылық', '管理层')}
                       </NavLink></li>
+                    <li><NavLink className="dropdown-item text-white" to="#" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                      {t('Наблюдательный совет', 'Supervisory Board', 'Бақылау кеңесі', '监事会')}
+                      </NavLink></li>
                     <li><NavLink className="dropdown-item text-white" to="/institute-structure" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
                       {t('Структура Института', 'Institute Structure', 'Институт құрылымы', '研究所结构')}
                       </NavLink></li>

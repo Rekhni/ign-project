@@ -39,9 +39,8 @@ export default function LabDetail({ lang }) {
                 <div style={{ marginLeft: '40px', zIndex: 2 }}>
                     <h1 className='w-100'>{lab.name[lang]}</h1>
                     <br/>
-                    <p style={{fontSize: '20px'}}>{lab.slogan[lang]}</p>
+                    <p className='lab-slogan'>{lab.slogan[lang]}</p>
                     <br/>
-                    {/* <p>Заведующий - {lab.team[lang][0]}</p> */}
                 </div>
             </div>
             <div className='w-100 mx-auto'>

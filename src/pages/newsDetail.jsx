@@ -15,7 +15,7 @@ export default function NewsDetail({ lang }) {
     <div className="py-5 text-dark bg-white" style={{ fontFamily: 'Montserrat', lineHeight: '1.7'}}>
       {/* Title + Date */}
       <div className="text-center mb-4">
-        <h1 className="fw-bold" style={{ fontSize: '2.5rem' }}>
+        <h1 className="news-title fw-bold">
           {newsItem.title[lang]}
         </h1>
         <p className="text-dark">{newsItem.date}</p>

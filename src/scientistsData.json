@@ -451,7 +451,7 @@
       "/scientists/ozdoev1.webp",
       "/scientists/ozdoev2.webp" 
     ],
-    "image": "/scientists/ozdoev1.png"
+    "image": "/scientists/ozdoev1.webp"
   },
   {
     "id": 3,
@@ -1847,7 +1847,7 @@
     "media": [
       "/scientists/glagolev1.webp"
     ],
-    "image": "/scientists/glagolev2.png"
+    "image": "/scientists/glagolev1.webp"
   },
   {
     "id": 10,
@@ -2972,5 +2972,132 @@
       "/scientists/togizov3.webp"
     ],
     "image": "/scientists/togizov3.webp"
+  },
+  {
+    "id": 16,
+    "name": {
+      "ru": "Б. Б. Тогаева",
+      "en": "B. B. Togaeva",
+      "kz": "Б. Б. Тогаева",
+      "zh": "B. B. 托加耶娃"
+    },
+    "title": {
+      "ru": "магистр химических наук",
+      "en": "Master of Chemical Sciences",
+      "kz": "Химия ғылымдарының магистрі",
+      "zh": "化学科学硕士"
+    },
+    "specTags": {
+      "ru": "Аналитическая химия\nФазовый анализ\nГеохимия\nРедкоземельные металлы",
+      "en": "Analytical Chemistry\nPhase Analysis\nGeochemistry\nRare Earth Metals",
+      "kz": "Аналитикалық химия\nФазалық талдау\nГеохимия\nСирек жер металдары",
+      "zh": "分析化学\n相分析\n地球化学\n稀土金属"
+    },
+    "shortInfo": {
+      "ru": "Заведующая лабораторией физико-химических методов исследования (ФХМИ).\nСпециалист с многолетним опытом в аналитической химии и геохимии руд.",
+      "en": "Head of the Laboratory of Physico-Chemical Research Methods (PCRM).\nA specialist with many years of experience in analytical chemistry and ore geochemistry.",
+      "kz": "Физика-химиялық зерттеу әдістері зертханасының меңгерушісі (ФХЗӘ).\nКендердің аналитикалық химиясы мен геохимиясында көп жылдық тәжірибесі бар маман.",
+      "zh": "物理化学研究方法实验室（ФХМИ）主任。\n在矿石分析化学和地球化学领域拥有多年经验的专家。"
+    },
+    "review": {
+      "ru": [
+        "Бакыт Боранкуловна Тогаева — опытный аналитик и геохимик, специализирующийся на фазовом анализе руд и концентратов, изучении редкоземельных элементов и аналитических методах в геохимии. Выпускница химического факультета КазГУ им. аль-Фараби (1993 год), имеет 32-летний опыт в области аналитических исследований.",
+        "Профессиональная карьера началась в Институте почвоведения НАН РК, где прошла путь от инженера до научного сотрудника. В дальнейшем работала в ведущих казахстанских компаниях, включая АО «Алматы Кус», «Сеймар», «Алматыгидрогеология», «КазЭкоанализ», СП «КАТКО» АО НК «Казатомпром».",
+        "С 2008 по 2012 годы была научным сотрудником лаборатории физико-химических методов исследования ИГН им. К.И. Сатпаева, активно участвовала в методических разработках и запуске современного аналитического оборудования, включая атомно-эмиссионный спектрометр ICP «Intreped II» ThermoFisher Scientific.",
+        "В 2012–2021 гг. руководила отделом системного анализа и прогнозирования Национального центра технологического прогнозирования Комитета индустриального развития и промышленной безопасности МИИР РК, занималась исследованиями и анализом развития горнопромышленного комплекса Казахстана.",
+        "С 2021 года заведует лабораторией «Физико-химические методы исследования» Института геологических наук им. К.И. Сатпаева.",
+        "Бакыт Боранкуловна подчёркивает важность человеческого фактора и методической точности в аналитических исследованиях, стремится передавать накопленные знания молодым специалистам."
+      ],
+      "en": [
+        "Bakyt Borankulovna Togaeva is an experienced analyst and geochemist specializing in phase analysis of ores and concentrates, the study of rare earth elements, and analytical methods in geochemistry. A graduate of the Faculty of Chemistry of Al-Farabi KazNU (1993), she has 32 years of experience in analytical research.",
+        "Her professional career began at the Institute of Soil Science of the NAS RK, where she rose from engineer to research associate. She later worked in leading Kazakhstani companies, including JSC 'Almaty Kus', 'Seimar', 'Almatygidrogeology', 'KazEkoanaliz', and JV 'KATKO' JSC NC 'Kazatomprom'.",
+        "From 2008 to 2012, she was a research associate in the Laboratory of Physico-Chemical Research Methods at the Satpayev Institute of Geological Sciences, actively participating in methodological developments and the launch of modern analytical equipment, including the ICP atomic emission spectrometer 'Intreped II' ThermoFisher Scientific.",
+        "From 2012 to 2021, she headed the Department of Systems Analysis and Forecasting at the National Center for Technology Foresight of the Committee for Industrial Development and Industrial Safety of the MIIR RK, where she conducted research and analysis of the development of Kazakhstan's mining industry.",
+        "Since 2021, she has headed the Laboratory of Physico-Chemical Research Methods at the Satpayev Institute of Geological Sciences.",
+        "Bakyt Borankulovna emphasizes the importance of the human factor and methodological precision in analytical research and strives to pass on her accumulated knowledge to young specialists."
+      ],
+      "kz": [
+        "Бақыт Боранқұлқызы Тогаева — кендер мен концентраттардың фазалық талдауы, сирек жер элементтерін зерттеу және геохимиядағы аналитикалық әдістер бойынша маманданған тәжірибелі аналитик және геохимик. Әл-Фараби атындағы ҚазҰУ химия факультетінің түлегі (1993 жыл), аналитикалық зерттеулерде 32 жылдық тәжірибесі бар.",
+        "Кәсіби мансабы ҚР ҰҒА Топырақтану институтында басталып, инженерден ғылыми қызметкер дәрежесіне дейін көтерілді. Кейін «Алматы Кус» АҚ, «Сеймар», «Алматыгидрогеология», «КазЭкоанализ», «ҚАТКО» БК және «Қазатомпром» ҰК АҚ сияқты жетекші қазақстандық компанияларда жұмыс істеді.",
+        "2008–2012 жылдары К.И. Сәтбаев атындағы Геологиялық ғылымдар институтының физика-химиялық зерттеу әдістері зертханасында ғылыми қызметкер болып, әдістемелік әзірлемелер мен заманауи аналитикалық жабдықтарды іске қосуға белсенді қатысты, соның ішінде ThermoFisher Scientific шығарған «Intreped II» ICP атомды-эмиссиялық спектрометрін енгізді.",
+        "2012–2021 жылдары ҚР ИИДМ Өнеркәсіптік даму және өнеркәсіптік қауіпсіздік комитетінің Ұлттық технологиялық болжау орталығында жүйелік талдау және болжау бөлімін басқарды, Қазақстанның тау-кен өнеркәсібінің дамуын зерттеп, талдаумен айналысты.",
+        "2021 жылдан бері К.И. Сәтбаев атындағы Геологиялық ғылымдар институтының «Физика-химиялық зерттеу әдістері» зертханасының меңгерушісі.",
+        "Бақыт Боранқұлқызы аналитикалық зерттеулерде адами фактор мен әдістемелік дәлдіктің маңыздылығын атап өтіп, жинаған білімін жас мамандарға беруге ұмтылады."
+      ],
+      "zh": [
+        "巴克特·博兰库洛夫娜·托加耶娃是一位经验丰富的分析师和地球化学家，专门从事矿石和精矿的相分析、稀土元素研究及地球化学分析方法。1993年毕业于阿尔法拉比哈萨克国立大学化学系，拥有32年分析研究经验。",
+        "她的职业生涯始于哈萨克斯坦国家科学院土壤学研究所，从工程师一路成长为科研人员。后来曾在包括阿拉木图库斯股份公司、“赛玛尔”、“阿拉木图水文地质”、“哈兹生态分析”、“KATKO”合资企业、“哈萨克原子能公司”等哈萨克斯坦领先企业工作。",
+        "2008年至2012年，她在萨特帕耶夫地质科学研究所物理化学研究方法实验室担任科研人员，积极参与方法开发和现代分析设备的投用，包括ThermoFisher Scientific公司生产的“Intreped II” ICP原子发射光谱仪。",
+        "2012年至2021年，她担任哈萨克斯坦工业和基础设施发展部工业发展与工业安全委员会国家技术预测中心系统分析与预测部主任，开展哈萨克斯坦矿业发展研究和分析工作。",
+        "自2021年以来，她担任萨特帕耶夫地质科学研究所“物理化学研究方法”实验室主任。",
+        "巴克特·博兰库洛夫娜强调在分析研究中人的因素和方法准确性的重要性，并致力于将积累的知识传授给年轻专家。"
+      ]
+    },
+    "quotes": {
+      "ru": [
+        "«Кадры – это основа лаборатории, без них даже самое современное оборудование не даст нужного результата.»"
+      ],
+      "en": [
+        "\"Personnel are the foundation of the laboratory; without them, even the most modern equipment will not deliver the desired result.\""
+      ],
+      "kz": [
+        "\"Кадрлар – зертхананың негізі, оларсыз ең заманауи жабдықтың өзі қажетті нәтиже бермейді.\""
+      ],
+      "zh": [
+        "“人才是实验室的基础，没有他们，即使是最现代化的设备也无法取得理想的结果。”"
+      ]
+    },
+    "publications": {
+      "ru": ["Требует заполнения"],
+      "en": ["Required field"],
+      "kz": ["Міндетті түрде толтыру қажет"],
+      "zh": ["必填项"]
+    },
+    "activeProjects": {
+      "ru": [
+        "«Микро- и наноминеральные компоненты руд, как ресурс восполнения запасов полезных ископаемых Казахстана для развития технологий их освоения», проект КГ МИИР РК (2021 – настоящее время)."
+      ],
+      "en": [
+        "\"Micro- and nanomineral components of ores as a resource for replenishing Kazakhstan's mineral reserves for the development of technologies for their extraction\", project of the CG MIID RK (2021 – present)."
+      ],
+      "kz": [
+        "\"Қазақстанның пайдалы қазбалар қорын толықтыруға және оларды игеру технологияларын дамытуға арналған кендердің микро- және нано-минералдық компоненттері\", ҚР ИИДМ КГ жобасы (2021 – қазіргі уақытқа дейін)."
+      ],
+      "zh": [
+        "“矿石的微纳矿物成分作为补充哈萨克斯坦矿产资源、发展其开采技术的资源”，哈萨克斯坦工业和基础设施发展部地质委员会项目（2021年至今）。"
+      ]
+    },
+    "finishedProjects": {
+      "ru": [
+        "«Физико-химические основы попутного извлечения концентратов редкоземельных металлов (РЗМ) и улавливания фтора из фосфатного сырья Чилисайского месторождения», грант КН МОН РК (2012–2021)."
+      ],
+      "en": [
+        "\"Physico-chemical fundamentals of associated extraction of rare earth metal (REM) concentrates and fluorine capture from phosphate raw materials of the Chilisai deposit\", grant of the SC MES RK (2012–2021)."
+      ],
+      "kz": [
+        "\"Чилисай кен орнының фосфатты шикізатынан сирек жер металдарының (СЖМ) концентраттарын қосарлы өндіру және фторды ұстаудың физика-химиялық негіздері\", ҚР БҒМ ҒК гранты (2012–2021)."
+      ],
+      "zh": [
+        "“智利赛矿床磷酸盐原料中稀土金属（REM）精矿伴生提取和氟捕集的物理化学基础”，哈萨克斯坦教育和科学部科学委员会资助项目（2012–2021年）。"
+      ]
+    },
+    "teachings": {
+      "ru": ["Требует заполнения"],
+      "en": ["Required field"],
+      "kz": ["Міндетті түрде толтыру қажет"],
+      "zh": ["必填项"]
+    },
+    "achievements": {
+      "ru": ["Требует заполнения"],
+      "en": ["Required field"],
+      "kz": ["Міндетті түрде толтыру қажет"],
+      "zh": ["必填项"]
+    },
+    "media": [
+      "/scientists/togaeva1.png",
+      "/scientists/togaeva1.png",
+      "/scientists/togaeva1.png"
+    ],
+    "image": "/scientists/togaeva3.png"
   }
 ]

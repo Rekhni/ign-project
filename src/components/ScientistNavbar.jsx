@@ -6,6 +6,7 @@ import { useParams } from 'react-router-dom';
 export default function ScientistNavbar({ lang }) {
     const { id } = useParams();
     const scientist = scientistsData.find((item) => item.id.toString() === id);
+    const quotes = scientist.quotes[lang].slice(1);
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
   return (
     <Container className="my-4">
@@ -31,7 +32,7 @@ export default function ScientistNavbar({ lang }) {
                 <p key={idx}>{line}</p> 
             ))}
             <div className='scientist-quotes'>
-                {scientist.quotes[lang][0] !== "" && scientist.quotes[lang].map((item, idx) => (
+                {quotes[0] !== "" && quotes.map((item, idx) => (
                     <p className='scientist-quote text-white rounded shadow w-75' style={{ fontSize: '15px', padding: '20px', backgroundColor: 'rgb(129, 181, 246)'}} key={idx}>{item}</p>
                 ))}
             </div>

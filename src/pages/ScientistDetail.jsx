@@ -23,7 +23,11 @@ export default function ScientistDetail({ lang }) {
                   <p className="text-dark rounded scientist-spec-tags" style={{backgroundColor: 'rgb(148, 216, 248)', padding: '5px 8px', fontSize: '12px', marginRight: '15px'}} key={idx} >{tag}</p>
                 ))}
               </div>
-              <p>{scientist.shortInfo[lang]}</p>
+              {scientist.shortInfo[lang].split('\n').map((line, idx) => (
+                <p key={idx}>{line}</p>
+              ))}
+
+              {scientist.quotes[lang].length > 0 ? <p>{scientist.quotes[lang][0]}</p> : null}
             </div>  
         </div>
         <ScientistNavbar lang={lang}/>

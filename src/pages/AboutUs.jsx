@@ -1,20 +1,14 @@
-import labsData from '../labsData.json';
-import { useParams } from 'react-router-dom';
 import Contacts from '../components/Contacts';
-import LabImg from '../assets/bgLabImg.webp';
-import LabNavbar from '../components/LabNavbar';
+import aboutUsImg from '../assets/about-us.webp';
+import AboutUsNavbar from '../components/AboutUsNavbar';
 
-
-export default function LabDetail({ lang }) {
-    const { id } = useParams();
-    const lab = labsData[id];
-
+export default function AboutUs({ lang }) {
     return (
         <div className='text-dark bg-white p-3 h-100' style={{ fontFamily: 'Montserrat' }}>
             <div
                 className='d-flex w-100 w-lg-75 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
-                    backgroundImage: `url(${LabImg})`,
+                    backgroundImage: `url(${aboutUsImg})`,
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     height: '500px',
@@ -30,22 +24,19 @@ export default function LabDetail({ lang }) {
                         left: 0,
                         width: '100%',
                         height: '100%',
-                        backgroundColor: 'rgba(0,0,0,0.4)', // Adjust opacity here
+                        backgroundColor: 'rgba(0, 0, 0, 0.57)', // Adjust opacity here
                         borderRadius: '20px 20px 0 0',
                         zIndex: 1
                     }}
                 />
 
-                <div style={{ marginLeft: '40px', zIndex: 2 }}>
-                    <h1 className='w-100'>{lab.name[lang]}</h1>
+                <div style={{ zIndex: 2 }}>
+                    <h3 className='w-100 text-center'>"Геологическая наука развивается в Казахстане на основе творческого содружества с практикой, на базе практики и для практики"</h3>
                     <br/>
-                    <p style={{fontSize: '20px'}}>{lab.slogan[lang]}</p>
-                    <br/>
-                    {/* <p>Заведующий - {lab.team[lang][0]}</p> */}
                 </div>
             </div>
             <div className='w-100 mx-auto'>
-                <LabNavbar lang={lang}/>
+                <AboutUsNavbar lang={lang}/>
             </div>
             <hr className='text-dark my-0 mx-auto' style={{ height: '1px' }}/>
             <section id="contacts">

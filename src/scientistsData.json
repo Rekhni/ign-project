@@ -20,10 +20,10 @@
         "zh": "石油和天然气田地质与勘探\n石油与天然气地质\n哈萨克斯坦石油天然气潜力\n油气区地质"
       },
       "shortInfo": {
-        "ru": "Жолтаев Геро́й Жолтаевич — видный учёный в области геологии нефти и газа. Имеет значительный вклад в разработку учебных программ и методических пособий по геологии нефтегазовых месторождений Казахстана и зарубежных стран.",
-        "en": "Zholtaev Geroy Zholtayevich is a prominent scientist in the field of petroleum geology. He has made a significant contribution to the development of educational programs and methodological manuals on the geology of oil and gas fields of Kazakhstan and foreign countries.",
-        "kz": "Жолтаев Герой Жолтайұлы — мұнай мен газ геологиясы саласындағы көрнекті ғалым. Қазақстан мен шетелдердің мұнай-газ кен орындарының геологиясы бойынша оқу бағдарламалары мен әдістемелік құралдарын әзірлеуге үлкен үлес қосты.",
-        "zh": "乔尔塔耶夫·赫罗伊·乔尔塔耶维奇是石油地质领域的杰出科学家。他在哈萨克斯坦及外国油气田地质学教育课程和方法手册的开发方面作出了重要贡献。"
+        "ru": "Жолтаев Геро́й Жолтаевич — видный учёный в области геологии нефти и газа.\nИмеет значительный вклад в разработку учебных программ и методических пособий по геологии нефтегазовых месторождений Казахстана и зарубежных стран.",
+        "en": "Zholtaev Geroy Zholtayevich is a prominent scientist in the field of petroleum geology.\nHe has made a significant contribution to the development of educational programs and methodological manuals on the geology of oil and gas fields of Kazakhstan and foreign countries.",
+        "kz": "Жолтаев Герой Жолтайұлы — мұнай мен газ геологиясы саласындағы көрнекті ғалым.\nҚазақстан мен шетелдердің мұнай-газ кен орындарының геологиясы бойынша оқу бағдарламалары мен әдістемелік құралдарын әзірлеуге үлкен үлес қосты.",
+        "zh": "乔尔塔耶夫·赫罗伊·乔尔塔耶维奇是石油地质领域的杰出科学家。\n他在哈萨克斯坦及外国油气田地质学教育课程和方法手册的开发方面作出了重要贡献。"
       },
       "review": {
         "ru": [
@@ -268,10 +268,10 @@
       "zh": "石油地质学\n构造学\n地貌学\n地球化学\n沉积盆地"
     },
     "shortInfo": {
-      "ru": "Заведующий лабораторией геологии нефти и газа. Обосновал теорию обращённого рельефа, открыв новый класс геоскульптур, разработал эффективные критерии поиска месторождений нефти и газа.",
-      "en": "Head of the Oil and Gas Geology Laboratory. Substantiated the theory of inverted relief, discovered a new class of geosculptures, and developed effective criteria for oil and gas field exploration.",
-      "kz": "Мұнай және газ геологиясы зертханасының меңгерушісі. Кері бедер теориясын негіздеп, геомүсіндердің жаңа класын ашты, мұнай мен газ кен орындарын іздеудің тиімді критерийлерін жасады.",
-      "zh": "石油和天然气地质实验室主任。提出了反向地形理论，发现了一类新的地质雕塑，制定了寻找石油和天然气田的有效标准。"
+      "ru": "Заведующий лабораторией геологии нефти и газа. \nОбосновал теорию обращённого рельефа, открыв новый класс геоскульптур, разработал эффективные критерии поиска месторождений нефти и газа.",
+      "en": "Head of the Oil and Gas Geology Laboratory. \nSubstantiated the theory of inverted relief, discovered a new class of geosculptures, and developed effective criteria for oil and gas field exploration.",
+      "kz": "Мұнай және газ геологиясы зертханасының меңгерушісі. \nКері бедер теориясын негіздеп, геомүсіндердің жаңа класын ашты, мұнай мен газ кен орындарын іздеудің тиімді критерийлерін жасады.",
+      "zh": "石油和天然气地质实验室主任。\n提出了反向地形理论，发现了一类新的地质雕塑，制定了寻找石油和天然气田的有效标准。"
     },
     "review": {
       "ru": [
@@ -474,10 +474,10 @@
       "zh": "火成岩地质学\n区域地质学\n区域成矿学\n古火山学"
     },
     "shortInfo": {
-      "ru": "заведующая лабораторией геологических и рудных формаций исследователь палеозойского магматизма и металлогении Казахстана, автор 11 монографий, подготовила трёх кандидатов наук",
-      "en": "Head of the Laboratory of Geological and Ore Formations, researcher of Paleozoic magmatism and metallogeny of Kazakhstan, author of 11 monographs, has supervised three PhD candidates",
-      "kz": "Геологиялық және руда формациялары зертханасының меңгерушісі, Қазақстанның палеозой магматизмі мен металлогениясын зерттеуші, 11 монография авторы, үш ғылым кандидатын дайындады",
-      "zh": "地质与矿床建造实验室主任，哈萨克斯坦古生代岩浆作用和成矿学研究专家，11部专著作者，培养了3名理学副博士"
+      "ru": "Заведующая лабораторией геологических и рудных формаций.\nИсследователь палеозойского магматизма и металлогении Казахстана, автор 11 монографий, подготовила трёх кандидатов наук",
+      "en": "Head of the Laboratory of Geological and Ore Formations.\nResearcher of Paleozoic magmatism and metallogeny of Kazakhstan, author of 11 monographs, has supervised three PhD candidates",
+      "kz": "Геологиялық және руда формациялары зертханасының меңгерушісі.\nҚазақстанның палеозой магматизмі мен металлогениясын зерттеуші, 11 монография авторы, үш ғылым кандидатын дайындады",
+      "zh": "地质与矿床建造实验室主任，\n哈萨克斯坦古生代岩浆作用和成矿学研究专家，11部专著作者，培养了3名理学副博士"
     },
     "review": {
       "ru": [
@@ -720,9 +720,10 @@
     },
     "media": [
       "/scientists/seitmuratova1.webp",
-      "/scientists/seitmuratova2.webp"
+      "/scientists/seitmuratova2.webp",
+      "/scientists/seitmuratova.webp"
     ],
-    "image": "/scientists/seitmuratova.webp"
+    "image": "/scientists/seitmuratova1.webp"
   },
   {
     "id": 4,
@@ -745,10 +746,10 @@
       "zh": "区域成矿学\n有色金属\n黑色金属\n成矿图"    
     },
     "shortInfo": {
-      "ru": "заведующий лабораторией цветных и черных металлов, эксперт региональной металлогении, участник создания фундаментальных минерагенических карт, лидер школы «живой геологии».",
-      "en": "Head of the Laboratory of Non-ferrous and Ferrous Metals, expert in regional metallogeny, contributor to the creation of fundamental mineralogenic maps, leader of the 'living geology' school.",
-      "kz": "Түсті және қара металдар зертханасының меңгерушісі, өңірлік металлогения бойынша сарапшы, негізгі минерагендік карталарды жасауға қатысушы, «тірі геология» мектебінің жетекшісі.",
-      "zh": "有色和黑色金属实验室主任，区域成矿学专家，基础成矿图编制参与者，“活地质”学派的领军人物。"
+      "ru": "Заведующий лабораторией цветных и черных металлов.\nЭксперт региональной металлогении, участник создания фундаментальных минерагенических карт, лидер школы «живой геологии».",
+      "en": "Head of the Laboratory of Non-ferrous and Ferrous Metals.\nExpert in regional metallogeny, contributor to the creation of fundamental mineralogenic maps, leader of the 'living geology' school.",
+      "kz": "Түсті және қара металдар зертханасының меңгерушісі.\nӨңірлік металлогения бойынша сарапшы, негізгі минерагендік карталарды жасауға қатысушы, «тірі геология» мектебінің жетекшісі.",
+      "zh": "有色和黑色金属实验室主任.\n区域成矿学专家，基础成矿图编制参与者，“活地质”学派的领军人物。"
     },
     "review": {
       "ru": [
@@ -934,10 +935,12 @@
       ]
     },
     "media": [
+      "/scientists/antonenko.webp",
+      "/scientists/antonenko3.webp",
       "/scientists/antonenko1.webp",
       "/scientists/antonenko2.webp"
     ],
-    "image": "/scientists/antonenko1.webp"
+    "image": "/scientists/antonenko3.webp"
   },
   {
     "id": 5,
@@ -960,10 +963,10 @@
       "zh": "矿物学\n纳米矿物学\n晶体学\n含钒矿石"
     },
     "shortInfo": {
-      "ru": "заведующая лабораторией минералогии, открыла 18 уникальных минералов, каждый из которых стал важным кирпичиком знаний о Земле и основой для новых технологий.",
-      "en": "Head of the Mineralogy Laboratory, she discovered 18 unique minerals, each of which became an important building block of knowledge about the Earth and a foundation for new technologies.",
-      "kz": "Минералогия зертханасының меңгерушісі, ол Жер туралы білімге маңызды үлес қосқан және жаңа технологияларға негіз болған 18 бірегей минерал ашты.",
-      "zh": "矿物学实验室主任，她发现了18种独特的矿物，每一种都是地球知识的重要基石，也是新技术的基础。"
+      "ru": "Заведующая лабораторией минералогии. \nОткрыла 18 уникальных минералов, каждый из которых стал важным кирпичиком знаний о Земле и основой для новых технологий.",
+      "en": "Head of the Mineralogy Laboratory.\nShe discovered 18 unique minerals, each of which became an important building block of knowledge about the Earth and a foundation for new technologies.",
+      "kz": "Минералогия зертханасының меңгерушісі. \nОл Жер туралы білімге маңызды үлес қосқан және жаңа технологияларға негіз болған 18 бірегей минерал ашты.",
+      "zh": "矿物学实验室主任.\n她发现了18种独特的矿物，每一种都是地球知识的重要基石，也是新技术的基础。"
     },
     "review": {
       "ru": [
@@ -1146,10 +1149,10 @@
       "zh": "地层学\n古生物学\n生物地层学\n有孔虫\n石炭纪"
     },
     "shortInfo": {
-      "ru": "Руководитель лаборатории стратиграфии, опытный стратиграф и палеонтолог, специалист по биостратиграфии девона и карбона Казахстана, участница крупных международных проектов.",
-      "en": "Head of the Stratigraphy Laboratory, an experienced stratigrapher and paleontologist, a specialist in the biostratigraphy of the Devonian and Carboniferous of Kazakhstan, and a participant in major international projects.",
-      "kz": "Қазақстанның девон және карбон дәуірлерінің биостратиграфиясы бойынша маман, тәжірибелі стратиграф және палеонтолог, ірі халықаралық жобалардың қатысушысы. Стратиграфия зертханасының меңгерушісі.",
-      "zh": "经验丰富的地层学家和古生物学家，哈萨克斯坦泥盆纪和石炭纪生物地层学专家，大型国际项目的参与者。地层学实验室主任。"
+      "ru": "Руководитель лаборатории стратиграфии.\nОпытный стратиграф и палеонтолог, специалист по биостратиграфии девона и карбона Казахстана, участница крупных международных проектов.",
+      "en": "Head of the Stratigraphy Laboratory.\nAn experienced stratigrapher and paleontologist, a specialist in the biostratigraphy of the Devonian and Carboniferous of Kazakhstan, and a participant in major international projects.",
+      "kz": "Стратиграфия зертханасының меңгерушісі.\nҚазақстанның девон және карбон дәуірлерінің биостратиграфиясы бойынша маман, тәжірибелі стратиграф және палеонтолог, ірі халықаралық жобалардың қатысушысы.",
+      "zh": "地层学实验室主任。\n经验丰富的地层学家和古生物学家，哈萨克斯坦泥盆纪和石炭纪生物地层学专家，大型国际项目的参与者"
     },
     "review": {
       "ru": [
@@ -1322,7 +1325,7 @@
       "/scientists/zhaimina2.webp",
       "/scientists/zhaimina3.webp"
     ],
-    "image": "/scientists/zhaimina.webp"
+    "image": "/scientists/zhaimina2.webp"
   },
   {
     "id": 7,
@@ -1345,10 +1348,10 @@
       "zh": "孢粉学\n古植物学\n生物地层学\n地质考古学"
     },
     "shortInfo": {
-      "ru": "заведующая лабораторией мезозоя и кайнозоя, продолжательница известной династии палинологов. Исследователь древних флор, климата и археологических памятников Казахстана.",
-      "en": "Head of the Mesozoic and Cenozoic Laboratory, successor of a renowned family of palynologists. Researcher of ancient floras, climate, and archaeological sites of Kazakhstan.",
-      "kz": "Мезозой және кайнозой лабораториясының меңгерушісі, белгілі палинологтар әулетінің ізбасары. Қазақстанның ежелгі флорасын, климатын және археологиялық ескерткіштерін зерттеуші.",
-      "zh": "中生代和新生代实验室主任，著名孢粉学家家族的继承人。研究哈萨克斯坦古代植物群、气候和考古遗址的学者。"
+      "ru": "Заведующая лабораторией мезозоя и кайнозоя.\nПродолжательница известной династии палинологов. Исследователь древних флор, климата и археологических памятников Казахстана.",
+      "en": "Head of the Mesozoic and Cenozoic Laboratory.\nSuccessor of a renowned family of palynologists. Researcher of ancient floras, climate, and archaeological sites of Kazakhstan.",
+      "kz": "Мезозой және кайнозой лабораториясының меңгерушісі.\nБелгілі палинологтар әулетінің ізбасары. Қазақстанның ежелгі флорасын, климатын және археологиялық ескерткіштерін зерттеуші.",
+      "zh": "中生代和新生代实验室主任.\n著名孢粉学家家族的继承人。研究哈萨克斯坦古代植物群、气候和考古遗址的学者。"
     },
     "review": {
       "ru": [
@@ -1594,10 +1597,10 @@
       "zh": "有色金属\n黑色金属\n交代作用\n成矿图"
     },
     "shortInfo": {
-      "ru": "Ведущий научный сотрудник лаборатории цветных и черных металлов. Разработчик теории инфильтрационного метасоматизма и региональных минерагенических карт Казахстана.",
-      "en": "Leading researcher at the Laboratory of Non-Ferrous and Ferrous Metals. Developer of the theory of infiltration metasomatism and regional mineragenic maps of Kazakhstan.",
-      "kz": "Түсті және қара металдар зертханасының жетекші ғылыми қызметкері. Инфильтрациялық метасоматоз теориясы мен Қазақстанның аймақтық минерагендік карталарының әзірлеушісі.",
-      "zh": "有色和黑色金属实验室首席研究员。渗入交代作用理论和哈萨克斯坦区域成矿图的开发者。"
+      "ru": "Ведущий научный сотрудник лаборатории цветных и черных металлов.\nРазработчик теории инфильтрационного метасоматизма и региональных минерагенических карт Казахстана.",
+      "en": "Leading researcher at the Laboratory of Non-Ferrous and Ferrous Metals.\nDeveloper of the theory of infiltration metasomatism and regional mineragenic maps of Kazakhstan.",
+      "kz": "Түсті және қара металдар зертханасының жетекші ғылыми қызметкері.\nИнфильтрациялық метасоматоз теориясы мен Қазақстанның аймақтық минерагендік карталарының әзірлеушісі.",
+      "zh": "有色和黑色金属实验室首席研究员。\n渗入交代作用理论和哈萨克斯坦区域成矿图的开发者。"
     },
     "review": {
       "ru": [
@@ -1754,10 +1757,10 @@
       "zh": "地质学\n矿物学\n纳米矿物学\n层状矿床 信息"
     },
     "shortInfo": {
-      "ru": "Минералог-полевик с опытом с 1969 года; исследует руды жезказганского типа и природные наноформы углерода и кремнезёма, опубликовал 50+ научных работ.",
-      "en": "Field mineralogist with experience since 1969; studies Zhezkazgan-type ores and natural nanostructures of carbon and silica, published 50+ scientific papers. info",
-      "kz": "1969 жылдан бастап тәжірибесі бар далалық минералог; Жезқазған типіндегі рудаларды және көміртек пен кремнеземнің табиғи нанопішіндерін зерттейді, 50-ден астам ғылыми жұмыс жариялаған. ақпарат",
-      "zh": "自1969年以来有经验的野外矿物学家；研究杰兹卡兹甘型矿石和碳及二氧化硅的天然纳米结构，发表了50多篇科学论文。信息"
+      "ru": "Минералог-полевик с опытом с 1969 года.\nИсследует руды жезказганского типа и природные наноформы углерода и кремнезёма, опубликовал 50+ научных работ.",
+      "en": "Field mineralogist with experience since 1969\nStudies Zhezkazgan-type ores and natural nanostructures of carbon and silica, published 50+ scientific papers. info",
+      "kz": "1969 жылдан бастап тәжірибесі бар далалық минералог.\nЖезқазған типіндегі рудаларды және көміртек пен кремнеземнің табиғи нанопішіндерін зерттейді, 50-ден астам ғылыми жұмыс жариялаған. ақпарат",
+      "zh": "自1969年以来有经验的野外矿物学家.\n研究杰兹卡兹甘型矿石和碳及二氧化硅的天然纳米结构，发表了50多篇科学论文。信息"
     },
     "review": {
       "ru": [
@@ -1867,10 +1870,10 @@
       "zh": "矿物学\n晶体学\n新矿物\nX射线光谱显微分析"
     },
     "shortInfo": {
-      "ru": "Минералог с 54-летним стажем: открыл и описал три новых минерала, опубликовал 100+ работ и получил 5 патентов, расширяя мировые базы данных по минералогии.",
-      "en": "Mineralogist with 54 years of experience: discovered and described three new minerals, published over 100 works, and obtained 5 patents, contributing to the expansion of global mineralogy databases.",
-      "kz": "54 жылдық тәжірибесі бар минералог: үш жаңа минералды ашып, сипаттады, 100-ден астам еңбек жариялады және минералогия бойынша әлемдік деректер базасын кеңейтіп, 5 патент алды.",
-      "zh": "拥有54年经验的矿物学家：发现并描述了三种新矿物，发表了100多篇作品，并获得了5项专利，扩展了全球矿物学数据库。"
+      "ru": "Минералог с 54-летним стажем.\nОткрыл и описал три новых минерала, опубликовал 100+ работ и получил 5 патентов, расширяя мировые базы данных по минералогии.",
+      "en": "Mineralogist with 54 years of experience.\nDiscovered and described three new minerals, published over 100 works, and obtained 5 patents, contributing to the expansion of global mineralogy databases.",
+      "kz": "54 жылдық тәжірибесі бар минералог.\nҮш жаңа минералды ашып, сипаттады, 100-ден астам еңбек жариялады және минералогия бойынша әлемдік деректер базасын кеңейтіп, 5 патент алды.",
+      "zh": "拥有54年经验的矿物学家.\n发现并描述了三种新矿物，发表了100多篇作品，并获得了5项专利，扩展了全球矿物学数据库。"
     },
     "review": {
       "ru": [
@@ -2034,10 +2037,10 @@
       "zh": "地质学\n成矿作用\n矿石建造\n地质建模"
     },
     "shortInfo": {
-      "ru": "Геолог-металлогенист, с 1959 года изучает ключевые рудные районы Казахстана; автор около 100 научных работ и соавтор 4 монографий, награждена знаком «Отличник разведки недр».",
-      "en": "Geologist-metallogenist, since 1959 has been studying key ore regions of Kazakhstan; author of about 100 scientific papers and co-author of 4 monographs, awarded the badge 'Excellence in Subsoil Exploration'.",
-      "kz": "Геолог-металлогенист, 1959 жылдан бастап Қазақстанның негізгі рудалық аудандарын зерттеп келеді; шамамен 100 ғылыми еңбектің авторы және 4 монографияның тең авторы, «Жер қойнауын барлаудың үздігі» белгісімен марапатталған.",
-      "zh": "地质学-成矿作用学专家，自1959年以来研究哈萨克斯坦主要矿石区；发表约100篇科学论文，参与撰写4部专著，曾获“地下资源勘探优秀奖”徽章。"
+      "ru": "Геолог-металлогенист.\nC 1959 года изучает ключевые рудные районы Казахстана; автор около 100 научных работ и соавтор 4 монографий, награждена знаком «Отличник разведки недр».",
+      "en": "Geologist-metallogenist\nSince 1959 has been studying key ore regions of Kazakhstan; author of about 100 scientific papers and co-author of 4 monographs, awarded the badge 'Excellence in Subsoil Exploration'.",
+      "kz": "Геолог-металлогенист.\n1959 жылдан бастап Қазақстанның негізгі рудалық аудандарын зерттеп келеді; шамамен 100 ғылыми еңбектің авторы және 4 монографияның тең авторы, «Жер қойнауын барлаудың үздігі» белгісімен марапатталған.",
+      "zh": "地质学-成矿作用学专家.\n自1959年以来研究哈萨克斯坦主要矿石区；发表约100篇科学论文，参与撰写4部专著，曾获“地下资源勘探优秀奖”徽章。"
     },
     "review": {
       "ru": [
@@ -2179,10 +2182,10 @@
       "zh": "地层学\n古生物学\n寒武纪\n三叶虫"
     },
     "shortInfo": {
-      "ru": "Научный сотрудник, специалист по стратиграфии и палеонтологии кембрийских отложений Казахстана.",
-      "en": "Researcher, specialist in the stratigraphy and paleontology of Cambrian deposits of Kazakhstan.",
-      "kz": "Қазақстанның кембрий шөгінділерінің стратиграфиясы мен палеонтологиясы бойынша маман, ғылыми қызметкер.",
-      "zh": "科研人员，哈萨克斯坦寒武纪地层和古生物学专家。"
+      "ru": "Научный сотрудник\nCпециалист по стратиграфии и палеонтологии кембрийских отложений Казахстана.",
+      "en": "Researcher\nSpecialist in the stratigraphy and paleontology of Cambrian deposits of Kazakhstan.",
+      "kz": "ғылыми қызметкер\nҚазақстанның кембрий шөгінділерінің стратиграфиясы мен палеонтологиясы бойынша маман, ",
+      "zh": "科研人员\n哈萨克斯坦寒武纪地层和古生物学专家。"
     },
     "review": {
       "ru": [
@@ -2339,10 +2342,10 @@
       "zh": "地层学\n古生物学\n区域地质学\n沉积学\n古生态学 信息"
     },
     "shortInfo": {
-      "ru": "Соавтор стратиграфических схем палеозоя Казахстана (1986); 43 полевых сезона, > 50 публикаций и 24 научных отчёта.",
-      "en": "Co-author of the Paleozoic stratigraphic schemes of Kazakhstan (1986); 43 field seasons, over 50 publications and 24 scientific reports.",
-      "kz": "Қазақстан палеозойының стратиграфиялық схемаларының бірлескен авторы (1986); 43 далалық маусым, 50-ден астам жарияланым және 24 ғылыми есеп.",
-      "zh": "哈萨克斯坦古生代地层学方案合著者（1986）；43 个野外工作季，50 多篇出版物和 24 份科研报告。"
+      "ru": "Соавтор стратиграфических схем палеозоя Казахстана (1986).\n43 полевых сезона, > 50 публикаций и 24 научных отчёта.",
+      "en": "Co-author of the Paleozoic stratigraphic schemes of Kazakhstan (1986).\n43 field seasons, over 50 publications and 24 scientific reports.",
+      "kz": "Қазақстан палеозойының стратиграфиялық схемаларының бірлескен авторы (1986).\n43 далалық маусым, 50-ден астам жарияланым және 24 ғылыми есеп.",
+      "zh": "哈萨克斯坦古生代地层学方案合著者（1986）.\n43 个野外工作季，50 多篇出版物和 24 份科研报告。"
     },
     "review": {
       "ru": [
@@ -2493,10 +2496,10 @@
       "zh": "贵金属\n金矿床\n矿物学与地球化学分析\n地理信息技术"
     },
     "shortInfo": {
-      "ru": "Заведующая лабораторией благородных металлов, автор более 40 научных работ, специалист по золоторудным процессам и геологоразведке, руководитель проектов по Архарлы и золотоносным районам РК",
-      "en": "Head of the Precious Metals Laboratory, author of more than 40 scientific papers, specialist in gold ore processes and geological exploration, project leader for Arkharly and gold-bearing regions of Kazakhstan",
-      "kz": "Құнды металдар зертханасының меңгерушісі, 40-тан астам ғылыми еңбектің авторы, алтын кентасты процестер мен геологиялық барлау саласының маманы, Архарлы және Қазақстанның алтынды аудандары бойынша жобалардың жетекшісі",
-      "zh": "贵金属实验室主任，40余篇科研论文作者，金矿工艺和地质勘探专家，阿尔哈尔雷及哈萨克斯坦金矿区项目负责人"
+      "ru": "Заведующая лабораторией благородных металлов.\nАвтор более 40 научных работ, специалист по золоторудным процессам и геологоразведке, руководитель проектов по Архарлы и золотоносным районам РК",
+      "en": "Head of the Precious Metals Laboratory.\nAuthor of more than 40 scientific papers, specialist in gold ore processes and geological exploration, project leader for Arkharly and gold-bearing regions of Kazakhstan",
+      "kz": "Құнды металдар зертханасының меңгерушісі.\n40-тан астам ғылыми еңбектің авторы, алтын кентасты процестер мен геологиялық барлау саласының маманы, Архарлы және Қазақстанның алтынды аудандары бойынша жобалардың жетекшісі",
+      "zh": "贵金属实验室主任.\n40余篇科研论文作者，金矿工艺和地质勘探专家，阿尔哈尔雷及哈萨克斯坦金矿区项目负责人"
     },
     "review": {
       "ru": [
@@ -2547,10 +2550,79 @@
       ]
     },
     "publications": {
-      "ru": ["Требует заполнения"],
-      "en": ["Required field"],
-      "kz": ["Міндетті түрде толтыру қажет"],
-      "zh": ["必填项"]
+      "ru": [
+        "З.Т.Умарбекова, К.Р.Плехова, К.Ш. Дюсембаева. Галогениды серебра в гипергенной зоне золото-серебряного месторождения Архарлы (Южный Жонгар)// Серия геологии и технических наук №2 (428) Алматы, НАН РК март-апрель 2018, с. 141-148 (Scopus). (ИГН им. К.И. Сатпаева, Университет им. Сатпаева)",
+        "З.Т.Умарбекова, К.Ш. Дюсембаева. Золоторудная минерализация бакырчикского типа в черносланцевых толщах и закономерности её формирования // Международная научная конференция Mineral Deposits Studies Group AGM 2017-18 Sallis Benney Lecture Theatre, Grand Parade, University of Brighton, 3-5 января 2018, Лондон, Англия, с.83 (Институт геологических наук им. К.И. Сатпаева, Университет Сатпаева)",
+        "М. Жунусов, З. Умарбекова. Минералогические и морфологические исследования золотоносных минералов арсенопирита и пирита месторождений Бакырчик и Большевик (Восточный Казахстан)// Geosymposium молодых исследователей SILESTA Польша, Университет Силезии, 12-14 сентября 2018, с. 153-165 (Институт геологических наук им. К.И. Сатпаева, Университет Сатпаева)",
+        "З.Т.Умарбекова, К.Ш. Дюсембаева. Золоторудная минерализация бакырчикского типа в черносланцевых толщах и закономерности её формирования // Международная научная конференция Mineral Deposits Studies Group AGM, 3-5 января 2019, Лондон, Англия, с.83",
+        "З.Т. Умарбекова, Ж.Ж. Жолтаев, Б.Б. Амралинова, И.Е. Матаибаева. Галогениды серебра в гипергенной зоне золоторудного месторождения Архарлы как индикаторы их формирования в условиях сухого и жаркого климата (Жонгарский Алатау, Казахстан)// International Journal of Engineering Research and Technology. ISSN 0974-3154, Том 13, №1 (2020), с. 181-190 http://www.irphouse.com процентиль журнала — 13%. (Scopus)",
+        "Умарбекова З.Т., Жунусов М.А. Определение поисковых элементов золота в углеродисто-осадочных породах методом растворения царской водкой // «Геология и охрана недр» №2 2020 г. с. 63 (РИНЦ)",
+        "Б. Дьячков, М. Мизерная, А. Жунусов, А. Мирошникова, С. Айтбаева, З. Умарбекова, А. Биссатова. Особенности формирования и критерии прогноза золото-сульфидных месторождений (Восточный Казахстан) // International Journal of Advanced Trends in Computer Science and Engineering. Том 9, №5, сентябрь-октябрь 2020, с. 8758-8762 (Scopus)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева, С.М. Оздоев, Р.Р. Гадеев. Модель поисков золоторудной минерализации месторождения Бакыршик // Известия НАН РК. Серия геологии и технических наук, Том 4, №448 (2021), с. 99-107, ISSN 2224-5278 https://doi.org/10.32014/2021.2518-170X.87 Q4, процентиль 26% (Scopus)",
+        "Ш.Д. Минискул, З.Т. Умарбекова, А.А. Антоненко, М.А. Машрапова. Динамика рудообразующих процессов на примере золоторудных месторождений Казахстана // Материалы 23-й Международной многопрофильной научной геоконференции SGEM 2023. Том 3, выпуск 1, с. 19-24 DOI10.5593/sgem2023/1.1/s01.03",
+        "З.Т. Умарбекова, Р.Р. Гадеев, К.У. Булегенов, Р.А. Аманбаев. Кварц-адуляровый золотосеребряный (Архарлинский) тип в вулканических толщах// ВЕСТНИК КазНИТУ №1 (125). Алматы/ Университет Сатпаева, 2018 г. С.7-12 (ИГН им.К.И. Сатпаева, Сатпаев университет)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева, К.Б. Каскатаева Черносланцевые толщи–перспективный тип месторождений золота//Карагандинский государственный технический университет, Труды Университета, №2, Караганда, 2018. С.48-51",
+        "З.Т. Умарбекова. Этапы формирования и перспективы Архарлинского рудного узла//ВЕСТНИК КазНИТУ, № 5 сентябрь 2018. Алматы. С.9-16 (КазНИТУ им. К.И. Сатпаева)",
+        "Junussov M. A., Umarbekova Z.T. Петрографическое изучение полисульфидного минералов и углеродистых материалов Бакырчыкского золоторудного черносланцевого месторождения// Труды Сатпаевских чтений, 2019, с.129",
+        "Умарбекова З.Т., Дюсембаева К.Ш. Бакыршик и взгляды на формирование месторождений в черносланцевых толщах// Материалы междунар научной конференции «Вклад выдающегося казахстанского ученого член-корреспондента АН КазССР, профессора П.Т. Тажибаевой в развитие геологической науки Казахстана».",
+        "Умарбекова З.Т., Мінісқұл Ш.Д., Тугайбаева Д.Б., Шамсутдин Д.А., Уралбаев Е.А. Эволюционная направленность золоторудного процесса на месторождениях Казахстана/ Геология и охрана недр. 2022. № 1 (82). С. 15-22. ISBN 2414-4248. г. Алматы «КазГЕО»",
+        "Умарбекова З.Т., Аманбаев Р.А., Минискул Ш.Д. Изучение золото-серебряных месторождений Казахстана.// Материалы МНТК, 2024, с."
+
+      ],
+      "en": [
+        "Z.T.Umarbekova, K.R.Plekhova, Dyussembayeva K.Sh. The halides of silver in the hypergene zone gold-silver deposit Arkharly (South Zhongar)//series of geology and technical №2 (428) Almaty, nas March-April, 2018 С. 141-148 (Scopus). (ИГН им. К.И. Сатпаева, Сатпаев университет)",
+        "Z.T. Umarbekova, K.Sh. Dyussembayeva. Bakyrchik type gold mineralization in black shale strata and regularities of its formation //International Scientific Conference Mineral Deposits Studies Group AGM 2017-18 Sallis Benney Lecture Theatre, Grand Parade, University of Brighton, 3-5 January 2018, London, England С.83 (The Institute of Geological Sciences n.-a. K.I. Satpayev, Satpaev Univtsity)",
+        "Medet Junussov, Zamzagul Umarbekova. Mineralogical and morphological studies of gold-bearing arsenopyrite and pyrite minerals of Bakyrchik and Bolshevik gold black shale deposits (Eastern Kazakhstan)//Geosymposium of young researchers SILESTA Польша, University of Silesia, 12-14 сентября 2018. С. 153-165 (The Institute of Geological Sciences n.-a. K.I. Satpayev, Satpaev Univtsity)",
+        "Z.T. Umarbekova, K.Sh. Dyussembayeva. Bakyrchik type gold mineralization in black shale strata and regularities of its formation// International Scientific Conference Mineral Deposits Studies Group AGM, 3-5 January 2019, London, England, С.83",
+        "Zamzagul T. Umarbekova, Geroy Zh. Zholtayev, Bakytzhan B. Amralinova and Indira E. Mataibaeva. Silver Halides in the Hypergene Zone of the Arkharly Gold Deposit as Indicators of their Formation in Dry and Hot Climate (Dzungar Alatau, Kazakhstan)// International Journal of Engineering Research and Technology. ISSN 0974-3154, Volume 13, Number 1 (2020), pp. 181-190 http://www.irphouse.com процентиль журнала – 13%. (Scopus)",
+        "Umarbekova Z.T., Junussov M.A. Determining pathfnder elements for gold in carbonaceoussedimentary rocks by aqua regia digestion method//«Геология и охрана недр» №2 2020 г. с. 63 (РИНЦ)",
+        "Boris Dyachkov, Marina Mizernaya, Akylbek Zhunusov, Anastassiya Miroshnikova, Saltanat Aitbayeva, Zamzagul Umarbekova, Ainel Bissatova. «Formation Features and Prediction Criteria for Gold-Sulphide deposits (East Kazakhstan) // International Journal of Advanced Trends in Computer Science and Engineering. Volume 9, No.5, September - October 2020. с. 8758-8762 (Scopus).",
+        "Z. T. Umarbekova, K.Sh. Dyusembayeva, Ozdoev S.M., Gadeev R.R. Тhe Bakyrshik deposit’s gold mineralisation prospecting model// News of the National Academy of sciences ofthe Repablic of Kasakhstan. Series of Geology and Technical Sciences, Volume 4, Number 448 (2021) P. 99-107, ISSN2224-5278 https://doi.org/10.32014/2021.2518-170X.87 Q4, процентиль 26. .(Scopus)",
+        "Мінісқұл Ш.Д., Umarbekova Z.T., Antonenko A.A., Mashrapova M.A., Dynamics of ore-forming processes in case of Kazakhstan’s gold ore deposits/ Proceedings of 23 nd International Multidisciplinary Scientific GeoConference SGEM 2023. Volume 3, issue 1. P.19-24 DOI10.5593/sgem2023/1.1/s01.03",
+        "Z.T. Umarbekova, R.R. Gadeev, K.U. Bulegenov, R.A. Amanbayev. Quartz-adularia gold-silver (Arkharly) type in volcanic sequences // Bulletin of KazNTU No.1 (125). Almaty / Satpayev University, 2018. pp. 7–12 (Institute of Geological Sciences named after K.I. Satpayev, Satpayev University)",
+        "Z.T. Umarbekova, K.Sh. Dyusembayeva, K.B. Kaskataeva. Black shale sequences – a promising type of gold deposits // Karaganda State Technical University, University Proceedings, No.2, Karaganda, 2018. pp. 48–51",
+        "Z.T. Umarbekova. Stages of formation and prospects of the Arkharly ore node // Bulletin of KazNTU, No.5, September 2018. Almaty. pp. 9–16 (KazNTU named after K.I. Satpayev)",
+        "M.A. Junussov, Z.T. Umarbekova. Petrographic study of polysulfide minerals and carbonaceous materials of the Bakyrchik gold-bearing black shale deposit // Proceedings of Satpayev Readings, 2019, p. 129",
+        "Z.T. Umarbekova, K.Sh. Dyusembayeva. Bakyrshik and views on the formation of deposits in black shale sequences // Proceedings of the international scientific conference 'Contribution of the outstanding Kazakh scientist, corresponding member of the Academy of Sciences of the Kazakh SSR, Professor P.T. Tazhibayeva to the development of geological science of Kazakhstan'",
+        "Z.T. Umarbekova, Sh.D. Minisqul, D.B. Tugaybayeva, D.A. Shamsutdin, E.A. Uralbayev. Evolutionary direction of the gold ore process at Kazakhstan deposits // Geology and Subsoil Protection. 2022. No.1 (82). pp. 15–22. ISBN 2414-4248. Almaty 'KazGEO'",
+        "Z.T. Umarbekova, R.A. Amanbayev, Sh.D. Minisqul. Study of gold-silver deposits of Kazakhstan // Proceedings of the International Scientific and Technical Conference, 2024, p."
+      ],
+      "kz": [
+        "З.Т. Умарбекова, К.Р. Плехова, К.Ш. Дюсембаева. Архарлы (Оңтүстік Жоңғар) алтын-күміс кен орнының гипергендік белдеуіндегі күміс галогенидтері // Геология және техникалық ғылымдар сериясы №2 (428), Алматы, ҚР ҰҒА, наурыз-сәуір 2018. 141–148 б. (Scopus). (Қ.И. Сәтбаев атындағы ГҒИ, Сәтбаев университеті)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева. Қараслансты қабаттардағы бакыршық типті алтын минерализациясы және оның қалыптасу заңдылықтары // Mineral Deposits Studies Group AGM 2017–18 халықаралық ғылыми конференциясы, Сэллис Бенни дәрісханасы, Брайтон университеті, 2018 ж. 3–5 қаңтар, Лондон, Англия. 83 б. (Қ.И. Сәтбаев атындағы ГҒИ, Сәтбаев университеті)",
+        "Медет Жүнісов, Замзагүл Умарбекова. Бакыршық және Большевик алтынды қараслансты кен орындарындағы алтын бар арсенопирит пен пирит минералдарының минералогиялық және морфологиялық зерттеулері // SILESTA жас зерттеушілер геосимпозиумы, Польша, Силезия университеті, 2018 ж. 12–14 қыркүйек. 153–165 б. (Қ.И. Сәтбаев атындағы ГҒИ, Сәтбаев университеті)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева. Қараслансты қабаттардағы бакыршық типті алтын минерализациясы және оның қалыптасу заңдылықтары // Mineral Deposits Studies Group AGM халықаралық ғылыми конференциясы, 2019 ж. 3–5 қаңтар, Лондон, Англия. 83 б.",
+        "Замзагүл Т. Умарбекова, Герой Ж. Жолтаев, Бақытжан Б. Амралинова және Индира Е. Матаибаева. Архарлы алтын кен орнының гипергендік белдеуіндегі күміс галогенидтері құрғақ және ыстық климат жағдайында қалыптасудың көрсеткіштері ретінде (Жоңғар Алатауы, Қазақстан) // International Journal of Engineering Research and Technology. ISSN 0974-3154, Т.13, №1 (2020), 181–190 б. http://www.irphouse.com журналдың процентилі – 13%. (Scopus)",
+        "Умарбекова З.Т., Жүнісов М.А. Қараслансты шөгінді жыныстарда алтынның индикатор элементтерін 'патша арағы' арқылы анықтау әдісі // «Геология және жер қойнауын қорғау» №2, 2020 ж. 63 б. (РИНЦ)",
+        "Борис Дьячков, Марина Мизерная, Ақылбек Жүнісов, Анастасия Мирошникова, Салтанат Айтбаева, Замзагүл Умарбекова, Айнел Биссатова. Алтын-сульфидті кен орындарының қалыптасу ерекшеліктері және болжамдық критерийлері (Шығыс Қазақстан) // International Journal of Advanced Trends in Computer Science and Engineering. Т.9, №5, қыркүйек-қазан 2020. 8758–8762 б. (Scopus)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева, С.М. Оздоев, Р.Р. Гадеев. Бакыршық кен орнының алтын минерализациясын болжау үлгісі // ҚР ҰҒА Хабаршысы. Геология және техникалық ғылымдар сериясы, №4 (448), 2021. 99–107 б. ISSN 2224-5278 https://doi.org/10.32014/2021.2518-170X.87 Q4, процентиль – 26%. (Scopus)",
+        "Ш.Д. Мінісқұл, З.Т. Умарбекова, А.А. Антоненко, М.А. Машрапова. Қазақстанның алтын кен орындарындағы руда түзуші процестердің динамикасы // 23-ші Халықаралық көпсалалы геоконференцияның еңбектері SGEM 2023. 3-том, 1-нөмір. 19–24 б. DOI10.5593/sgem2023/1.1/s01.03",
+        "З.Т. Умарбекова, Р.Р. Гадеев, Қ.У. Бүлегенов, Р.А. Аманбаев. Вулкандық қатпарлардағы кварц-адуляр алтын-күміс (Архарлы) типі // ҚазҰТУ хабаршысы №1 (125). Алматы / Сәтбаев университеті, 2018 ж. 7–12 б. (Қ.И. Сәтбаев атындағы Геологиялық ғылымдар институты, Сәтбаев университеті)",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева, К.Б. Каскатаева. Қараслансты қатпарлар – алтын кен орындарының перспективалы типі // Қарағанды мемлекеттік техникалық университеті, Университет еңбектері, №2, Қарағанды, 2018 ж. 48–51 б.",
+        "З.Т. Умарбекова. Архарлы рудалы торабының қалыптасу кезеңдері мен перспективалары // ҚазҰТУ хабаршысы, №5, қыркүйек 2018 ж. Алматы. 9–16 б. (Қ.И. Сәтбаев атындағы ҚазҰТУ)",
+        "М.А. Жунусов, З.Т. Умарбекова. Бакыршық алтынды қараслансты кен орнының полисульфидті минералдары мен көміртекті материалдарын петрографиялық зерттеу // Сәтбаев оқулары еңбектері, 2019 ж. 129 б.",
+        "З.Т. Умарбекова, К.Ш. Дюсембаева. Бакыршық және қараслансты қатпарлардағы кен орындарының қалыптасуы туралы көзқарастар // Халықаралық ғылыми конференция материалдары «Қазақ ССР ҒА корреспондент-мүшесі, профессор П.Т. Тажибаеваның Қазақстан геологиялық ғылымын дамытуға қосқан үлесі»",
+        "З.Т. Умарбекова, Ш.Д. Мініскұл, Д.Б. Тұғайбаева, Д.А. Шамсутдин, Е.А. Уралбаев. Қазақстандағы алтын кен орындарындағы рудалы процестің эволюциялық бағыттылығы // Геология және жер қойнауын қорғау. 2022 ж. №1 (82). 15–22 б. ISBN 2414-4248. Алматы «КазГЕО»",
+        "З.Т. Умарбекова, Р.А. Аманбаев, Ш.Д. Мініскұл. Қазақстанның алтын-күміс кен орындарын зерттеу // Халықаралық ғылыми-техникалық конференция материалдары, 2024 ж. б."
+      ],
+      "zh": [
+        "Z.T. 乌马尔别科娃, K.R. 普列霍娃, K.Sh. 迪尤森巴耶娃. 阿尔哈尔里金银矿床上生带中的银卤化物（南准噶尔）// 地质与技术科学系列 №2 (428), 阿拉木图, 哈萨克斯坦国家科学院, 2018年3–4月. 第141–148页. (Scopus). (K.I.萨特帕耶夫地质科学研究所, 萨特帕耶夫大学)",
+        "Z.T. 乌马尔别科娃, K.Sh. 迪尤森巴耶娃. 黑色页岩层中的巴克尔奇克型金矿化及其形成规律 // 国际科学会议《矿床研究组年会》2017–18，布莱顿大学，英国伦敦，2018年1月3–5日. 第83页. (K.I.萨特帕耶夫地质科学研究所, 萨特帕耶夫大学)",
+        "梅德特·朱努索夫, 赞姆扎古尔·乌马尔别科娃. 东哈萨克斯坦巴克尔奇克和布尔什维克金黑色页岩矿床中含金砷黄铁矿和黄铁矿的矿物学与形貌研究 // SILESTA青年研究者地学研讨会, 波兰西里西亚大学, 2018年9月12–14日. 第153–165页. (K.I.萨特帕耶夫地质科学研究所, 萨特帕耶夫大学)",
+        "Z.T. 乌马尔别科娃, K.Sh. 迪尤森巴耶娃. 黑色页岩层中的巴克尔奇克型金矿化及其形成规律 // 国际科学会议《矿床研究组年会》，英国伦敦，2019年1月3–5日. 第83页.",
+        "Z.T. 乌马尔别科娃, G.Zh. 佐尔塔耶夫, B.B. 阿姆拉利诺娃, I.E. 马塔伊巴耶娃. 阿尔哈尔里金矿上生带中的银卤化物作为干燥炎热气候形成的指示物（准噶尔阿拉套，哈萨克斯坦）// International Journal of Engineering Research and Technology. 第13卷，第1期 (2020), 第181–190页. http://www.irphouse.com, 期刊百分位 – 13%. (Scopus)",
+        "Z.T. 乌马尔别科娃, M.A. 朱努索夫. 使用王水消解法确定含碳沉积岩中金的示踪元素 // 《地质与矿产资源保护》2020年第2期，第63页. (RINC)",
+        "B. 迪亚奇科夫, M. 米泽尔娜娅, A. 朱努索夫, A. 米罗什尼科娃, S. 艾特巴耶娃, Z. 乌马尔别科娃, A. 比萨托娃. 金-硫化物矿床的形成特征与预测标准（东哈萨克斯坦） // International Journal of Advanced Trends in Computer Science and Engineering. 第9卷，第5期，2020年9–10月，第8758–8762页. (Scopus)",
+        "Z.T. 乌马尔别科娃, K.Sh. 迪尤森巴耶娃, S.M. 奥兹多耶夫, R.R. 加季耶夫. 巴克尔奇克金矿矿化预测模型 // 哈萨克斯坦国家科学院通报. 地质与技术科学系列, 2021年第4期 (第448号). 第99–107页. https://doi.org/10.32014/2021.2518-170X.87 Q4, 百分位26%. (Scopus)",
+        "Sh.D. 米尼斯库尔, Z.T. 乌马尔别科娃, A.A. 安托年科, M.A. 马什拉波娃. 哈萨克斯坦金矿床成矿过程的动力学 // 第23届国际多学科地学会议 SGEM 2023会议论文集. 第3卷，第1期，第19–24页. DOI10.5593/sgem2023/1.1/s01.03",
+        "Z.T. 乌马尔别科娃, R.R. 加季耶夫, K.U. 布列根诺夫, R.A. 阿曼巴耶夫. 火山岩层中的石英-正长石金银（阿尔哈尔里）型 // 哈萨克国立技术大学学报 №1 (125). 阿拉木图 / 萨特帕耶夫大学, 2018年. 第7–12页. (K.I.萨特帕耶夫地质科学研究所, 萨特帕耶夫大学)",
+        "Z.T. 乌马尔别科娃, K.Sh. 迪尤森巴耶娃, K.B. 卡斯卡塔耶娃. 黑色页岩层——前景广阔的金矿床类型 // 卡拉干达国立技术大学, 大学论文集, №2, 卡拉干达, 2018年. 第48–51页",
+        "Z.T. 乌马尔别科娃. 阿尔哈尔里矿集的形成阶段与前景 // 哈萨克国立技术大学学报, №5, 2018年9月. 阿拉木图. 第9–16页. (K.I.萨特帕耶夫哈萨克国立技术大学)",
+        "M.A. 朱努索夫, Z.T. 乌马尔别科娃. 巴克尔奇克金黑色页岩矿床多硫化物矿物和含碳物质的岩石学研究 // 萨特帕耶夫读书会论文集, 2019年, 第129页",
+        "Z.T. 乌马尔别科娃, K.Sh. 迪尤森巴耶娃. 巴克尔奇克及黑色页岩层矿床形成观点 // 国际科学会议论文集《杰出哈萨克科学家，哈萨克苏维埃社会主义共和国科学院通讯院士、教授P.T. 塔日巴耶娃对哈萨克地质科学发展的贡献》",
+        "Z.T. 乌马尔别科娃, Sh.D. 米尼斯库尔, D.B. 图盖巴耶娃, D.A. 沙姆苏丁, E.A. 乌拉尔巴耶夫. 哈萨克斯坦金矿床成矿过程的演化方向 // 地质与矿产资源保护. 2022年. №1 (82). 第15–22页. ISBN 2414-4248. 阿拉木图『KazGEO』",
+        "Z.T. 乌马尔别科娃, R.A. 阿曼巴耶夫, Sh.D. 米尼斯库尔. 哈萨克斯坦金银矿床研究 // 国际科学技术会议论文集, 2024年, 第 页"
+      ]
     },
     "activeProjects": {
       "ru": [
@@ -2615,5 +2687,290 @@
       "/scientists/umarbekova4.webp"
     ],
     "image": "/scientists/umarbekova1.webp"
+  },
+  {
+    "id": 15,
+    "name": {
+      "ru": "К. С. Тогизов",
+      "en": "K. S. Togizov",
+      "kz": "Қ. С. Тоғызов",
+      "zh": "K. S. 托吉佐夫"
+    },
+    "title": {
+      "ru": "доктор PhD",
+      "en": "PhD Doctor",
+      "kz": "PhD доктор",
+      "zh": "博士（PhD）"
+    },
+    "specTags": {
+      "ru": "Редкие металлы\nРедкоземельные элементы\nГеофизические методы разведки\nМинералогический анализ",
+      "en": "Rare metals\nRare earth elements\nGeophysical exploration methods\nMineralogical analysis",
+      "kz": "Сирек металдар\nСирек жер элементтері\nБарлау геофизикалық әдістері\nМинералогиялық талдау",
+      "zh": "稀有金属\n稀土元素\n地球物理勘探方法\n矿物学分析"
+    },
+    "shortInfo": {
+      "ru": "Заведующий лабораторией редких и редкоземельных металлов.\nСпециалист в области редких земель и их извлечения из урановых растворов, автор исследований по Сырымбетскому рудному полю, преподаватель и ассоциированный профессор.",
+      "en": "Head of the Laboratory of Rare and Rare Earth Metals.\nSpecialist in rare earth elements and their extraction from uranium solutions, author of studies on the Syrimbet ore field, lecturer and associate professor.",
+      "kz": "Сирек және сирек жер металдары зертханасының меңгерушісі.\nУран ерітінділерінен сирек жер элементтерін алу саласының маманы, Сырымбет кен орны бойынша зерттеулердің авторы, оқытушы және қауымдастырылған профессор.",
+      "zh": "稀有及稀土金属实验室主任.\n稀土元素及其从铀溶液中提取领域的专家，锡林别特矿田研究作者，讲师及副教授。"
+    },
+    "review": {
+      "ru": [
+        "2007 - 2011 Казахский Национальный Технический Университет имени К.И.Сатпаева. 050706 «Геология и разведка МПИ», бакалавр.",
+        "2011 - 2013 Казахский Национальный Технический Университет имени К.И.Сатпаева. 6М074700 «Геофизические методы поисков и разведки МПИ», магистр техники и технологии.",
+        "2014 - 2017 Казахский Национальный Исследовательский Технический Университет имени К.И.Сатпаева. 6D070600 «Геология и разведка МПИ», Ph.D.",
+        "Профессиональный путь:",
+        " С 2012 года работает в Институте геологических наук им. К.И. Сатпаева,",
+        " 2018 — руководитель отдела металлогении.",
+        " С 2019 — заведующий лабораторией редких и редкоземельных металлов.",
+        "Преподавательская деятельность:",
+        " С 2020 года преподает на кафедре геофизики в Satbayev University.",
+        " В 2023 году получил звание ассоциированного профессора.",
+        "Научные интересы включают редкие и редкоземельные металлы, методы их извлечения, особенно из урановых растворов, минералогический и спектральный анализы проб, разработку и применение современных геологоразведочных методов."
+      ],
+      "en": [
+        "2007 - 2011 Kazakh National Technical University named after K.I. Satpayev. 050706 'Geology and exploration of mineral deposits', bachelor's degree.",
+        "2011 - 2013 Kazakh National Technical University named after K.I. Satpayev. 6M074700 'Geophysical methods of prospecting and exploration of mineral deposits', master of engineering and technology.",
+        "2014 - 2017 Kazakh National Research Technical University named after K.I. Satpayev. 6D070600 'Geology and exploration of mineral deposits', Ph.D.",
+        "Professional path:",
+        " Since 2012, has been working at the Satpayev Institute of Geological Sciences.",
+        " 2018 — Head of the Metallogeny Department.",
+        " Since 2019 — Head of the Laboratory of Rare and Rare Earth Metals.",
+        "Teaching activities:",
+        " Since 2020, teaches at the Department of Geophysics at Satbayev University.",
+        " In 2023, awarded the title of associate professor.",
+        "Scientific interests include rare and rare earth metals, methods of their extraction, especially from uranium solutions, mineralogical and spectral analysis of samples, development and application of modern geological exploration methods."
+      ],
+      "kz": [
+        "2007 - 2011 К.И. Сәтбаев атындағы Қазақ Ұлттық Техникалық Университеті. 050706 «Пайдалы қазбалар кен орындарының геологиясы және барлауы», бакалавр.",
+        "2011 - 2013 К.И. Сәтбаев атындағы Қазақ Ұлттық Техникалық Университеті. 6M074700 «Пайдалы қазбаларды іздеу және барлаудың геофизикалық әдістері», техника және технология магистрі.",
+        "2014 - 2017 К.И. Сәтбаев атындағы Қазақ Ұлттық Зерттеу Техникалық Университеті. 6D070600 «Пайдалы қазбалар кен орындарының геологиясы және барлауы», PhD.",
+        "Кәсіби жолы:",
+        " 2012 жылдан бастап К.И. Сәтбаев атындағы Геологиялық ғылымдар институтында жұмыс істейді.",
+        " 2018 — металлогения бөлімінің басшысы.",
+        " 2019 жылдан бастап — сирек және сирек жер металдары зертханасының меңгерушісі.",
+        "Оқытушылық қызметі:",
+        " 2020 жылдан бастап Satbayev University-де геофизика кафедрасында сабақ береді.",
+        " 2023 жылы қауымдастырылған профессор атағын алды.",
+        "Ғылыми қызығушылықтары сирек және сирек жер металдарын, олардың, әсіресе уран ерітінділерінен алыну әдістерін, сынамалардың минералогиялық және спектралдық талдауын, заманауи геологиялық барлау әдістерін әзірлеу мен қолдануды қамтиды."
+      ],
+      "zh": [
+        "2007 - 2011 卡内什·萨特帕耶夫哈萨克国立技术大学。050706“矿产资源地质与勘探”专业，本科学位。",
+        "2011 - 2013 卡内什·萨特帕耶夫哈萨克国立技术大学。6M074700“矿产资源勘查的地球物理方法”，工学与技术硕士。",
+        "2014 - 2017 卡内什·萨特帕耶夫哈萨克国立研究技术大学。6D070600“矿产资源地质与勘探”，博士学位。",
+        "职业经历:",
+        " 自2012年起在卡内什·萨特帕耶夫地质科学研究所工作。",
+        " 2018年 — 金属成矿学系主任。",
+        " 自2019年 — 稀有及稀土金属实验室主任。",
+        "教学活动:",
+        " 自2020年起在萨特帕耶夫大学地球物理系任教。",
+        " 2023年获副教授称号。",
+        "科研兴趣包括稀有及稀土金属、特别是从铀溶液中提取的方法、样品的矿物学和光谱分析、现代地质勘探方法的开发和应用。"
+      ]
+    },
+    "quotes": {
+      "ru": [
+        "«Важность реальных каменных материалов с месторождений для повышения точности исследований».",
+        "«Потребность в современном оборудовании для конкурентоспособности лаборатории»",
+        "«Редкие земли в Казахстане: скрытый потенциал и коммерческие перспективы»"
+      ],
+      "en": [
+        "The importance of real rock materials from deposits to improve research accuracy.",
+        "The need for modern equipment for the laboratory's competitiveness.",
+        "Rare earths in Kazakhstan: hidden potential and commercial prospects."
+      ],
+      "kz": [
+        "Зерттеу дәлдігін арттыру үшін кен орындарынан алынған нақты тау жыныстары материалдарының маңызы.",
+        "Зертхананың бәсекеге қабілеттілігін арттыру үшін заманауи жабдықтың қажеттілігі.",
+        "Қазақстандағы сирек жер элементтері: жасырын әлеует және коммерциялық мүмкіндіктер."
+      ],
+      "zh": [
+        "来自矿床的真实岩石材料对于提高研究精度的重要性。",
+        "实验室竞争力所需的现代设备。",
+        "哈萨克斯坦稀土：隐藏的潜力与商业前景。"
+      ]
+    },
+    "publications": {
+      "ru": [
+        "Тогизов К.С., Жолтаев Г., Исаева Л.Д. Роль трехмерных моделей месторождения и термодинамических условия ее формирования при выборе и оценке ресурсов перспективных участков // Известия Национальной академии наук Республики Казахстан, Серия геолого-технических наук. .№5 (437). Алматы 2019. С. 169-176. ISSN: 22245278. DOI: 10.32014 / 2019.2518-170X.139.",
+        "Л.Д. Исаева, д-р С.К. Асубаева, М. Кембаев, К. Тогизов. Формирование геоинформационной системы и создание цифровой модели редкометалльного месторождения Сырымбет (Северный Казахстан) // 19-я международная многопрофильная научная геоконференция SGEM 2019, Албена (Болгария). С.609-616. ISBN 978-619-7408-76-8. ISSN 1314-2704. DOI: 10.5593 / sgem2019 / 1.1.",
+        "Л.Д. Исаева, С.К. Асубаева, К.С. Тогизов, М.К. Кембаев. 3D модели редкометалльного месторождения Сырымбет (Северный Казахстан) и информативность их 2D срезов по разведочным профилям // Материалы международной научной конференции, посвященной 100-летию со дня рождения П.Т. Тажибаевой «Проблемы геологии и расширение минерально-сырьевой базы стран Евразии», Алматы 2019г. С.184-189. ISBN 978-601-332-461-6.",
+        "М.Ш. Омирсериков, Л.Д. Исаева, С.К. Асубаева, К.С. Тогизов, М.К. Кембаев. Петрофизическая модель Сырымбетского рудного поля // Вестник КБТУ, № 4 (47), Алматы 2018г. С.101-109. ISSN 1998-6688.",
+        "Л.Д. Исаева, С.К. Асубаева, К.С. Тогизов, М.К. Кембаев. Петрофизическая модель месторождения Шок-Карагай и формирование картографических слоев для выделения рудоконтролирующих факторов редкоземельной минерализации // Материалы круглого стола на тему: «Инновации – ключевой фактор развития ГМК», Алматы 2018г. С.42-47. ISBN 978-601-332-195-0.",
+        "Омирсериков М.С., Дучмаль-Черникевич А., Исаева Л.Д., Асубаева С.К., Тогизов К.С. Прогнозирование ресурсов месторождений редких металлов на основе анализа рудорегулирующих факторов // Известия Национальной академии наук Республики Казахстан, Серия геолого-технических наук. № 3 (423). Алматы 2017. С.35-43. ISSN 2224-5278.",
+        "Акшолаков Е.Б., Шарапатов А., Тогизов К.С., Аршамов Ю.К. Житикаринский рудный район: Полезные ископаемые и руды редких земель и перспективы их изучения методами каротажа // Известия Национальной академии наук Республики Казахстан, Серия геолого-технических наук. № 1 (421). Алматы 2017. С.79-86 ISSN: 2224-5278 E-ISSN: 2518-170X.",
+        "К.С. Тогизов. Рудоконтролирующие факторы редкоземельного месторождения Шок-Карагай (Северный Казахстан) // Вестник КБТУ, № 4 (43), Алматы 2017г. С.47- 51. ISSN 1998-6688.",
+        "Проф. Мурат Омирсериков, д-р Куляш Дюсембаева, д-р Людмила Исаева, докторант Куаныш Тогизов, д-р Акмарал Байсалова. Редкоземельные элементы в коре выветривания Шок-Карагайского месторождения (Северный Казахстан) // 15- я международная междисциплинарная научная геоконференция SGEM 2015, Албена (Болгария). С.419-425. ISBN 978-619-7105-31-5. ISSN 1314-2704. DOI: 10.5593 / sgem2015B11.",
+        "Алтынай Рагданова, Индира Матаибаева, Ольга Фролова, Бакытгуль Агалиьева, Алла Долгополова, Куаныш Тогизов (2025). Структурно-формационные зоны с порфировым медным оруденением — перспективная минерально-сырьевая база меди Восточного Казахстана. Добыча полезных ископаемых, 19(1), 107–120. https://doi.org/10.33271/mining19.01.107",
+        "Сиразев А., Истекова С., Толыбаева Д., Тогизов К., Темирханова Р. (2025). Методология и результаты детальной 3D сейсморазведки Жезказганского рудного района. Прикладные науки, 15(2), 567. https://doi.org/10.3390/app15020567",
+        "Тогизов К., Кенжетaев З., Темирханова Р., Музаппарова А., Омиргали А., Алтайбаев Б. (2024). Влияние физико-химических свойств руд на эффективность подземного скважинного выщелачивания урановых месторождений Казахстана. Минералы, 14(4), 381. https://doi.org/10.3390/min14040381",
+        "Истекова С., Макаров А., Толыбаева Д., Сиразев А., Тогизов К. (2024). Определение границ обрушения перекрывающих пород над выработанными участками шахты Жомарт по сейсмическим данным. Геонауки, 14(11), 310. https://doi.org/10.3390/geosciences14110310",
+        "Мухаметгазы Н., Гуссенов И. Ш., Тогизов К., Санатбеков М.Е., Смабаева Р., Канагат Й., Кудайбергенов С.Е. (2024). Реологическое исследование рецептур буровых растворов на основе подсоленной воды с использованием нового амфотерного терполимера. Инжиниринговая наука. https://doi.org/10.30919/es1262",
+        "Досымбекова Ж.Б., Исаева Л.З., Тогизов К.С., Муратханов Д.Б., Максутов О.Н. (2024). Особенности включения редкоземельных элементов в рудные минералы месторождений редких металлов Казахстана. Серия геологии и технических наук, 6(467), 99–113. https://doi.org/10.32014/2024.2518-170x.463",
+        "Истекова С., Айдарбеков З., Тогизов К., Саурыков З., Сиразев А., Толыбаева Д., Темирханова Р. (2024). Литофизические характеристики продуктивных толщ медистых песчаников Жезказганского рудного района Центрального Казахстана. Добыча полезных ископаемых, 18(3), 9–17. https://doi.org/10.33271/mining18.03.009",
+        "Тилеберди Н., Аль-Дуджайли А.Н., Машрапова М., Тогизов К., Санатбеков М., Ергали А. (2024). Оптимизация нефтеотдачи при низком давлении закачки азота: экспериментальное исследование. ES Материалы и производство. https://doi.org/10.30919/esmm1189",
+        "Ратов Б.Т., Хоменко В.Л., Куттыбаев А.Е., Тогизов К.С., Утепов З.Г. (2024). Инновационная буровая коронка для повышения эффективности буровых работ на урановых месторождениях Казахстана. Серия геологии и технических наук, 4(465), 224–236. https://doi.org/10.32014/2024.2518-170x.437",
+        "Исаева Л.З., Аблессенова З.Н., Тогизов К.С.*, Ассубаева С.К., Петрова Л.В. (2024). Гидротермально измененные породы Акмая-Катпарской рудной зоны и их отражение в геофизических полях. Серия геологии и технических наук, 1(463), 128–142. https://doi.org/10.32014/2024.2518-170X.370",
+        "Болатбекулы С., Умирова Г., Закария М., Темирханова Р., Тогизов К. (2024). Формирование поисковых критериев медно-порфировых месторождений на основе построения эталонных моделей. Науковый вестник Национального горного университета, (2), 19–24. https://doi.org/10.33271/nvngu/2024-2/019",
+        "Тогизов К., Исаева Л., Муратханов Д., Курмангажина М., Свенд М., Дучмал-Черникиевич А. (2023). Редкоземельные элементы Шок-Карагайского рудного поля (Сырымбетский рудный район, Северный Казахстан) и визуализация месторождений с использованием ГИС. Минералы, 13(11), 1458. https://doi.org/10.3390/min13111458",
+        "Нияз А.Т., Тогизов К.С., Истекова С.А. (2023). Динамическая интерпретация сейсмических данных при изучении латеральной изменчивости нефтегазоносных терригенных коллекторов. Серия геологии и технических наук, 6(462), 145–156. https://doi.org/10.32014/2023.2518-170x.355",
+        "Аблессенова З., Исаева Л., Тогизов К., Ассубаева С., Курмангажина М. (2023). Геофизические индикаторы редкометальной рудоносности Акмая-Катпарской рудной зоны (Центральный Казахстан). Науковый вестник Национального горного университета, (5), 34–40. https://doi.org/10.33271/nvngu/2023-5/034",
+        "Кенжетaев Ж., Тогизов К., Жапабаев К., Исаева Л., Кисеева С. (2023). Комплексный метод интенсификации скважинной добычи урана в рудах с низкими фильтрационными свойствами. Труды университета, 3. https://doi.org/10.52209/1609-1825_2023_3_172",
+        "Кенжетaев Ж., Тогизов К., Жапабаев К., Жангирханова А., Музаппарова А. (2023). Выбор рациональных параметров ремонтно-восстановительных работ на скважинах добычи урана. Труды университета, 4. https://doi.org/10.52209/1609-1825_2023_4_109",
+        "Алиакбар М., Истекова С., Тогизов К., Темирханова Р. (2023). Геологическое строение и нефтегазоносность Приорвинской группы южных месторождений Каспийской впадины по данным геофизики. Науковый вестник Национального горного университета, № 3, 11–19. doi.org/10.33271/nvngu/2023-3/011",
+        "Кенжетaев Ж.С., Тогизов К.С., Омиргали А.К., Абен Е.Х., Жаликызы Р. (2023). Интенсификация добычи урана с использованием ингибиторов. Известия НАН РК. Серия геологии и технических наук, № 3 (459), 108–118. doi.org/10.32014/2023.2518-170X.303",
+        "Исаева Л.З., Слабы Э., Ассубаева С.К., Кембаев М.К., Тогизов К.С. (2023). Трехмерная модель Акбулакского месторождения редких земель (Северный Казахстан). Известия НАН РК. Серия геологии и технических наук, № 2 (458), 96–107. doi.org/10.32014/2023.2518-170X.284",
+        "Баян Ракишев, Жигер Кенжетaев, Мухаметкалы Матаев, Куаныш Тогизов (2022). Повышение эффективности скважинной добычи урана с использованием кислорода как окислителя. Минералы, 12(8), 1005. doi.org/10.3390/min12081005",
+        "Жигер Кенжетaев, Куаныш Тогизов, Молдир Абдраимова, Маржан Нурбекова (2022). Выбор рациональных параметров восстановления фильтрационных свойств руд при скважинной добыче урана. Добыча полезных ископаемых, 16(3), 1–10. doi.org/10.33271/mining16.03.001"
+      ],
+      "en": [
+        "Togizov K.S., Zholtaev G., Isayeva L.D. The role of three-dimensional deposit models and thermodynamic conditions of its formation in the selection and resource assessment of promising areas // Proceedings of the National Academy of Sciences of the Republic of Kazakhstan, Series of Geological and Technical Sciences, No. 5 (437). Almaty, 2019. P. 169-176. ISSN: 22245278. DOI: 10.32014/2019.2518-170X.139.",
+        "L.D. Isayeva, Dr. S.K. Assubaeva, M. Kembaev, K. Togizov. Formation of a geographic information system and creation of a digital model of the Syrymbet rare metal deposit (Northern Kazakhstan) // 19th International Multidisciplinary Scientific GeoConference SGEM 2019, Albena (Bulgaria). P. 609-616. ISBN 978-619-7408-76-8. ISSN 1314-2704. DOI: 10.5593/sgem2019/1.1.",
+        "L.D. Isayeva, S.K. Assubaeva, K.S. Togizov, M.K. Kembaev. 3D models of the Syrymbet rare metal deposit (Northern Kazakhstan) and informativeness of their 2D sections along exploration profiles // Proceedings of the International Scientific Conference dedicated to the 100th anniversary of P.T. Tazhibaeva “Problems of Geology and Expansion of the Mineral Resource Base of Eurasian Countries”, Almaty 2019. P. 184-189. ISBN 978-601-332-461-6.",
+        "M.Sh. Omirserikov, L.D. Isayeva, S.K. Assubaeva, K.S. Togizov, M.K. Kembaev. Petrophysical model of the Syrymbet ore field // Bulletin of KBTU, No. 4 (47), Almaty 2018. P. 101-109. ISSN 1998-6688.",
+        "L.D. Isayeva, S.K. Assubaeva, K.S. Togizov, M.K. Kembaev. Petrophysical model of the Shok-Karagay deposit and formation of cartographic layers for identifying ore-controlling factors of rare earth mineralization // Proceedings of the round table on “Innovation - the key factor of MMC development”, Almaty 2018. P. 42-47. ISBN 978-601-332-195-0.",
+        "Omirserikov M.Sh., Duchmal-Czernikiewicz A., Isayeva L.D., Assubaeva S.K., Togizov K.S. Forecasting resources of rare metal deposits based on analysis of ore-controlling factors // Proceedings of the National Academy of Sciences of the Republic of Kazakhstan, Series of Geological and Technical Sciences, No. 3 (423). Almaty, 2017. P. 35-43. ISSN 2224-5278.",
+        "Aksholakov E.B., Sharapatov A., Togizov K.S., Arshamov Y.K. Zhitikarinsky ore district: Minerals and rare earth ores and prospects for their study by logging methods // Proceedings of the National Academy of Sciences of the Republic of Kazakhstan, Series of Geological and Technical Sciences, No. 1 (421). Almaty, 2017. P. 79-86. ISSN: 2224-5278 E-ISSN: 2518-170X.",
+        "K.S. Togizov. Ore-controlling factors of the Shok-Karagay rare earth deposit (Northern Kazakhstan) // Bulletin of KBTU, No. 4 (43), Almaty, 2017. P. 47-51. ISSN 1998-6688.",
+        "Prof. Murat Omirserikov, Dr. Kulyash Dyusembayeva, Dr. Lyudmila Isayeva, PhD student Kuanysh Togizov, Dr. Akmaral Baysalova. Rare earth elements in the weathering crust of the Shok-Karagay deposit (Northern Kazakhstan) // 15th International Multidisciplinary Scientific GeoConference SGEM 2015, Albena (Bulgaria). P. 419-425. ISBN 978-619-7105-31-5. ISSN 1314-2704. DOI: 10.5593/sgem2015B11.",
+        "Altynay Ragdanova, Indira Mataibayeva, Olga Frolova, Bakytgul Agaliyeva, Alla Dolgopolova, Kuanysh Togizov (2025) Structural-formational zones with porphyry copper mineralization – A promising mineral resource base for copper in Eastern Kazakhstan. Mining of Mineral Deposits, 19(1), 107- 120. https://doi.org/10.33271/mining19.01.107",
+        "Sirazhev A., Istekova S., Tolybaeva D., Togizov K., Temirkhanova R. (2025). Methodology and results of detailed 3D seismic exploration in the Zhezkazgan Ore District. Applied Sciences, 15(2), 567. https://doi.org/10.3390/app15020567",
+        "Togizov K., Kenzhetaev Z., Temirkhanova R., Muzapparova A., Omirgali A., & Altaibayev B. (2024). The influence of the physicochemical characteristics of ores on the efficiency of underground well leaching of uranium deposits in Kazakhstan. Minerals, 14(4), 381. https://doi.org/10.3390/min14040381",
+        "Istekova S., Makarov A., Tolybaeva D., Sirazhev A., Togizov K. (2024). Determining the boundaries of overlying strata collapse above mined-out panels of Zhomart mine using seismic data. Geosciences, 14(11), 310. https://doi.org/10.3390/geosciences14110310",
+        "Mukhametgazy N., Gussenov I. Sh., Togizov K., Sanatbekov M.E., Smabaeva R., Kanagat Y., Kudaibergenov S.E. (2024). Rheological study of salted water-based drilling fluid formulations developed using a novel amphoteric Terpolymer. Engineered Science. https://doi.org/10.30919/es1262",
+        "Dossymbekova Zh.B., Issayeva L.Z., Togizov K.S., Muratkhanov D.B., Maksutov O.N. (2024) The specifics of rare earth inclusion in ore minerals of rare metal deposits of Kazakhstan. Series of geology and technical sciences, 6(467), 99- 113. https://doi.org/10.32014/2024.2518-170x.463",
+        "Istekova S., Aidarbekov Z., Togizov K., Saurykov Z., Sirazhev A., Tolybayeva D., Temirkhanova R. (2024). Lithophysical characteristics of productive strata of cupriferous sandstone within Zhezkazgan Ore District in the central Kazakhstan. Mining of Mineral Deposits, 18(3), 9–17. https://doi.org/10.33271/mining18.03.009",
+        "Tileuberdi, N., AL-Dujaili, A. N., Mashrapova, M., Togizov, K., Sanatbekov, M., Yergali, A. (2024). Optimizing oil recovery by low-pressure Nitrogen Injection: An experiment case study. ES Materials &amp; Manufacturing. https://doi.org/10.30919/esmm1189",
+        "Ratov B.T., Khomenko V.L., Kuttybayev A.E., Togizov K.S., Utepov, Z. G. (2024). Innovative drill bit to improve the efficiency of drilling operations at uranium deposits in Kazakhstan. SERIES OF GEOLOGY AND TECHNICAL SCIENCES, 4(465), 224– 236. https://doi.org/10.32014/2024.2518-170x.437",
+        "Isayeva L.Z., Ablessenova Z.N., Togizov K.S.*, Assubayeva S.K., Petrova L.V. (2024) Hydrothermally altered rocks of the Akmaya-Qatpar ore zone and their reflection in geophysical fields. Series of geology and technical sciences, 1(463), 128– 142. https://doi.org/10.32014/2024.2518-170X.370",
+        "Bolatbekuly, S., Umirova, G., Zakariya, M., Temirkhanova, R., & Togizov, K. (2024). Formation of prospecting criteria for copper-porphyry deposits based on the construction of reference models. Naukovyi Visnyk Natsionalnoho Hirnychoho Universytetu, (2), 19–24. https://doi.org/10.33271/nvngu/2024-2/019",
+        "Togizov K., Issayeva L., Muratkhanov D., Kurmangazhina M., Swęd M., & Duczmal- Czernikiewicz A. (2023). Rare earth elements in the Shok-Karagay ore fields (Syrymbet ore district, Northern Kazakhstan) and visualisation of the deposits using the Geography Information System. Minerals, 13(11), 1458. https://doi.org/10.3390/min13111458",
+        "Niyaz A.T., Togizov K.S., & Istekova S.A. (2023). Seismic data dynamic interpretation in the study of the lateral variability of petroleum bearing terrigenous reservoirs. Series of geology and technical sciences, 6(462), 145– 156. https://doi.org/10.32014/2023.2518-170x.355",
+        "Ablessenova Z., Issayeva L., Togizov K., Assubayeva S., & Kurmangazhina M. (2023). Geophysical indicators of rare-metal ore content of Akmai-Katpar ore zone (Central Kazakhstan). Naukovyi Visnyk Natsionalnoho Hirnychoho Universytetu, (5), 34– 40. https://doi.org/10.33271/nvngu/2023-5/034",
+        "Kenzhetaev Z., Togizov K., Zhapabayev K., Issayeva L., Kisseyeva S. (2023). Combined method of intensification of borehole uranium mining in ores with low filtration characteristics. TRUDY UNIVERSITETA, 3. https://doi.org/10.52209/1609- 1825_2023_3_172.",
+        "Kenzhetaev Z., Togizov K., Zhapabayev K., Zhangirkhanova A., Muzapparova A. (2023). Selection of rational parameters of repair and restoration work at the well of uranium ore extraction. TRUDY UNIVERSITETA, 4. https://doi.org/ 10.52209/1609- 1825_2023_4_109",
+        "M. Aliakbar, S. Istekova, K. Togizov, R. Temirkhanova (2023), Geological structure and oil-and-gas occurrence of Prorva group of the southern deposits of the Caspian depression in terms of geophysical information // Naukovyi Visnyk Natsionalnoho Hirnychoho Universytetu № 3, P. 11-19. doi.org/10.33271/nvngu/2023-3/011. - Zh.S. Kenzhetaev, K.S. Togizov, A.K. Omirgali, E.Kh. Aben, R.",
+        "Zhalikyzy. Intensification of inhibitor-assisted uranium isl process // News NAS RK. Series of geology and technical sciences № 3 (459), Almaty 2023y. P. 108–118. ISSN 2224-5278. doi.org/ 10.32014/2023.2518-170X.303",
+        "L.Z. Issayeva, E. Slaby, S.K. Assubayeva, M.K. Kembayev, K.S. Togizov. The three– dimensional model of the Akbulak rare earth deposit (Northern Kazakhstan) // News NAS RK. Series of geology and technical sciences № 2 (458), Almaty 2023y. P.96-107. ISSN 2224-5278. doi.org/10.32014/2023.2518-170X.284",
+        "Bayan Rakishev, Zhiger Kenzhetaev, Muhametkaly Mataev, Kuanysh Togizov. Improving the efficiency of downhole uranium production using oxygen as anvoxidizer // Minerals 2022, № 12(8), 1005, Basel (Switzerland) 2022y. P.1-12. ISSN 2075-163X. doi.org/10.3390/min12081005.",
+        "Zhiger Kenzhetaev, Kuanysh Togizov, Moldir Abdraimova, Marzhan Nurbekova. Selecting the rational parameters for restoring filtration characteristics of ores during borehole mining of uranium deposits // Mining of Mineral Deposits. Volume 16, Issue 3, Dnipro (Ukrainian) 2022y. P.1-10. ISSN 2415-3435. doi.org/10.33271/mining16.03.001."
+      ],
+      "kz": [
+        "Тоғызов Қ.С., Жолтаев Г., Исаева Л.Д. Үш өлшемді кен орны модельдері мен оның түзілуінің термодинамикалық жағдайлары перспективалы учаскелердің ресурстарын таңдау мен бағалаудағы рөлі // ҚР Ұлттық ғылым академиясының хабарлары, Геология-техникалық ғылымдар сериясы, №5 (437). Алматы, 2019. Б. 169-176. ISSN: 22245278. DOI: 10.32014/2019.2518-170X.139.",
+        "Л.Д. Исаева, т.ғ.д. С.К. Асубаева, М. Кембаев, Қ. Тоғызов. Геоақпараттық жүйені қалыптастыру және Сырымбет сирек метал кен орнының цифрлық моделін жасау (Солтүстік Қазақстан) // 19-шы халықаралық көпсалалы ғылыми геоконференция SGEM 2019, Албена (Болгария). Б. 609-616. ISBN 978-619-7408-76-8. ISSN 1314-2704. DOI: 10.5593/sgem2019/1.1.",
+        "Л.Д. Исаева, С.К. Асубаева, Қ.С. Тоғызов, М.К. Кембаев. Сырымбет сирек метал кен орнының 3D модельдері және барлау профильдері бойынша олардың 2D қималарының ақпараттылығы // П.Т. Тәжібаеваның 100 жылдығына арналған халықаралық ғылыми конференция материалдары «Геология мәселелері және Еуразия елдерінің минералдық-шикізат базасын кеңейту», Алматы 2019. Б. 184-189. ISBN 978-601-332-461-6.",
+        "М.Ш. Омірсеріков, Л.Д. Исаева, С.К. Асубаева, Қ.С. Тоғызов, М.К. Кембаев. Сырымбет кен алаңының петрофизикалық моделі // ҚБТУ хабаршысы, №4 (47), Алматы 2018. Б. 101-109. ISSN 1998-6688.",
+        "Л.Д. Исаева, С.К. Асубаева, Қ.С. Тоғызов, М.К. Кембаев. Шоқ-Қарағай кен орнының петрофизикалық моделі және сирек жер минерализациясын бақылаушы факторларды анықтауға арналған картографиялық қабаттарды қалыптастыру // «Инновациялар – ТМК дамуының негізгі факторы» тақырыбындағы дөңгелек үстел материалдары, Алматы 2018. Б. 42-47. ISBN 978-601-332-195-0.",
+        "Омірсеріков М.Ш., Дучмаль-Черникевич А., Исаева Л.Д., Асубаева С.К., Тоғызов Қ.С. Сирек метал кен орындарының ресурстарын руданы бақылаушы факторларды талдау негізінде болжау // ҚР ҰҒА хабарлары, Геология-техникалық ғылымдар сериясы, № 3 (423). Алматы, 2017. Б. 35-43. ISSN 2224-5278.",
+        "Е.Б. Ақшолақов, А. Шарапатов, Қ.С. Тоғызов, Ю.К. Аршамов. Жітіқара кен ауданы: Пайдалы қазбалар және сирек жер рудалары және оларды каротаж әдістерімен зерттеу перспективалары // ҚР ҰҒА хабарлары, Геология-техникалық ғылымдар сериясы, № 1 (421). Алматы, 2017. Б. 79-86. ISSN: 2224-5278 E-ISSN: 2518-170X.",
+        "Қ.С. Тоғызов. Шоқ-Қарағай сирек жер кен орнының руданы бақылаушы факторлары (Солтүстік Қазақстан) // ҚБТУ хабаршысы, № 4 (43), Алматы, 2017. Б. 47-51. ISSN 1998-6688.",
+        "Проф. Мұрат Омірсеріков, т.ғ.д. Қуляш Дюсембаева, т.ғ.д. Людмила Исаева, PhD докторант Қуаныш Тоғызов, т.ғ.д. Ақмарал Байсалова. Шоқ-Қарағай кен орнының (Солтүстік Қазақстан) үгілу қыртысындағы сирек жер элементтері // 15-ші халықаралық көпсалалы ғылыми геоконференция SGEM 2015, Албена (Болгария). Б. 419-425. ISBN 978-619-7105-31-5. ISSN 1314-2704. DOI: 10.5593/sgem2015B11."
+      ],
+      "zh": [
+        "托吉佐夫 K.S.，卓尔塔耶夫 G.，伊萨耶娃 L.D. 矿床三维模型及其形成的热力学条件在选定和评估前景区资源中的作用 // 哈萨克斯坦共和国国家科学院学报，地质技术科学系列，第5期（437）。阿拉木图，2019年，第169-176页。ISSN: 22245278。DOI: 10.32014/2019.2518-170X.139。",
+        "L.D. 伊萨耶娃，S.K. 阿苏巴耶娃博士，M. 肯巴耶夫，K. 托吉佐夫。地理信息系统的构建及希林贝特稀有金属矿床（哈萨克斯坦北部）数字模型的创建 // 第19届国际多学科科学地质会议 SGEM 2019，保加利亚阿尔贝纳，第609-616页。ISBN 978-619-7408-76-8。ISSN 1314-2704。DOI: 10.5593/sgem2019/1.1。",
+        "L.D. 伊萨耶娃，S.K. 阿苏巴耶娃，K.S. 托吉佐夫，M.K. 肯巴耶夫。希林贝特稀有金属矿床（哈萨克斯坦北部）3D模型及其勘探剖面2D切面的信息价值 // 纪念 P.T. 塔吉巴耶娃诞辰100周年国际科学会议文集《欧亚国家地质问题和矿产资源基础扩展》，阿拉木图，2019年，第184-189页。ISBN 978-601-332-461-6。",
+        "M.Sh. 奥米尔谢里科夫，L.D. 伊萨耶娃，S.K. 阿苏巴耶娃，K.S. 托吉佐夫，M.K. 肯巴耶夫。希林贝特矿区岩石物理模型 // KBTU 学报，第4期（47），阿拉木图，2018年，第101-109页。ISSN 1998-6688。",
+        "L.D. 伊萨耶娃，S.K. 阿苏巴耶娃，K.S. 托吉佐夫，M.K. 肯巴耶夫。肖克-卡拉盖矿床岩石物理模型及用于识别稀土矿化控矿因素的制图层的形成 // 主题为“创新——有色金属工业发展的关键因素”圆桌会议资料，阿拉木图，2018年，第42-47页。ISBN 978-601-332-195-0。",
+        "奥米尔谢里科夫 M.Sh.，杜奇马尔-切尔尼凯维奇 A.，伊萨耶娃 L.D.，阿苏巴耶娃 S.K.，托吉佐夫 K.S. 基于控矿因素分析的稀有金属矿床资源预测 // 哈萨克斯坦共和国国家科学院学报，地质技术科学系列，第3期（423）。阿拉木图，2017年，第35-43页。ISSN 2224-5278。",
+        "E.B. 阿克肖拉科夫，A. 沙拉帕托夫，K.S. 托吉佐夫，Y.K. 阿尔沙莫夫。日提卡拉矿区：稀土矿物及稀土矿石及其测井方法研究前景 // 哈萨克斯坦共和国国家科学院学报，地质技术科学系列，第1期（421）。阿拉木图，2017年，第79-86页。ISSN: 2224-5278 E-ISSN: 2518-170X。",
+        "K.S. 托吉佐夫。肖克-卡拉盖稀土矿床（哈萨克斯坦北部）控矿因素 // KBTU 学报，第4期（43），阿拉木图，2017年，第47-51页。ISSN 1998-6688。",
+        "穆拉特·奥米尔谢里科夫教授，Kulyash Dyusembayeva 博士，Lyudmila Isayeva 博士，Kuanysh Togizov 博士研究生，Akmaral Baysalova 博士。肖克-卡拉盖矿床（哈萨克斯坦北部）风化壳中的稀土元素 // 第15届国际多学科科学地质会议 SGEM 2015，保加利亚阿尔贝纳，第419-425页。ISBN 978-619-7105-31-5。ISSN 1314-2704。DOI: 10.5593/sgem2015B11。"
+      ]
+    },
+    "activeProjects": {
+      "ru": [
+        "Геодинамический и металлогенический анализ Южного Казахстана на возможность выявления редкометального и редкоземельного оруденения - (2024-2026гг)",
+        "ЖҒ «Разработка технологии обогащения оловосодержащих кор выветривания редкометалльного месторождения Сырымбет» (2024-2026). Научный консультант;",
+        "КМУ «Разработка эффективной технологии извлечения скандия из технологических растворов скважинной добычи» (2024-2026). Исполнитель;",
+        "ГФ «Разработка инновационной технологии интенсификации подземного выщелачивания урана с применением полимерных и вяжущих компонентов в условиях скважинной добычи урана» (2023-2025). Руководитель проекта;",
+        "ГФ «Моделирование напряженно-деформированного состояния горных массивов при разработке рудных месторождений на основе комплексных геомеханических и геофизических исследований» (2023-2025). Исполнитель;"
+      ],
+      "en": [
+        "Geodynamic and metallogenic analysis of Southern Kazakhstan for the potential discovery of rare metal and rare earth mineralization (2024–2026)",
+        "GF 'Development of beneficiation technology for tin-containing weathering crust of the Syrymbet rare metal deposit' (2024–2026). Scientific consultant;",
+        "KMS 'Development of an efficient technology for scandium extraction from process solutions of borehole mining' (2024–2026). Performer;",
+        "GF 'Development of innovative technology for intensification of underground uranium leaching using polymer and binding components under borehole mining conditions' (2023–2025). Project manager;",
+        "GF 'Modeling of stress-strain state of rock masses during ore deposit mining based on complex geomechanical and geophysical studies' (2023–2025). Performer;"
+      ],      
+      "kz": [
+        "Оңтүстік Қазақстандағы сирек металдар мен сирек жер элементтерінің кен орындарын анықтау мүмкіндігін зерттеуге арналған геодинамикалық және металлогендік талдау (2024–2026 жж.)",
+        "ЖҒ «Сырымбет сирек метал кен орнындағы қалайыны қамтитын үгілу қабатының байыту технологиясын әзірлеу» (2024–2026). Ғылыми кеңесші;",
+        "КМУ «Скважиналық өндіруден алынған технологиялық ерітінділерден скандийді тиімді алу технологиясын әзірлеу» (2024–2026). Орындаушы;",
+        "ГФ «Уранды скважиналық өндіру жағдайларында полимерлі және байлауыш компоненттерді пайдалана отырып уранның жерасты сілтіленуін интенсификациялаудың инновациялық технологиясын әзірлеу» (2023–2025). Жоба жетекшісі;",
+        "ГФ «Кешенді геомеханикалық және геофизикалық зерттеулер негізінде кен орындарын игеру кезінде тау жыныстары массивтерінің кернеулі-деформацияланған күйін модельдеу» (2023–2025). Орындаушы;"
+      ],     
+      "zh": [
+        "南哈萨克斯坦稀有金属和稀土矿化发现潜力的地球动力学和成矿分析（2024–2026年）",
+        "科研基金《开发西林别特稀有金属矿床含锡风化壳的选矿技术》（2024–2026年）。科学顾问；",
+        "KMS《开发从井下开采工艺溶液中高效提取钪的技术》（2024–2026年）。执行人；",
+        "科研基金《开发在井下开采条件下利用聚合物和粘结组分强化地下浸出铀的创新技术》（2023–2025年）。项目负责人；",
+        "科研基金《基于综合地质力学和地球物理研究的矿床开采过程中岩体应力-应变状态建模》（2023–2025年）。执行人；"
+      ]
+    },
+    "finishedProjects": {
+      "ru": [
+        "ПЦФ «Микро- и наноминеральные компоненты руд, как ресурс восполнения запасов полезных ископаемых Казахстана для развития технологий их освоения» (2021-2023). Ответственный исполнитель;",
+        "ХД Атлас закономерностей размещения месторождений полезных ископаемых (2021-2023гг.) Руководитель по направлению редкие и редкоземельные металлы;",
+        "ПСД «Составление проектно-сметной документации (ПСД) по объекту «Поисковые работы на редкоземельные металлы на участке Акбулак»» (2021 г.). Руководитель ПСД.",
+        "ПЦФ «Научное обеспечение восполнения и расширения минерально-сырьевых ресурсов Республики Казахстан» направление: редкие и редкоземельные металлы (2018-2020);",
+        "ГФ «Создание цифровой геоинформационной системы, термодинамической и 3D моделей эндогенных и экзогенных месторождений Сырымбетовского рудного узла и оценка их потенциальных ресурсов на редкие металлы и редкие земли» (2018-2020);",
+        "ГФ «Прогнозная оценка перспектив карстового типа оруденения в Казахстане на различные виды полезных ископаемых» (2018-2020)."
+      ],
+      "en": [
+        "PCF 'Micro- and nanomineral components of ores as a resource for replenishing Kazakhstan's mineral reserves for the development of technologies for their exploitation' (2021–2023). Responsible executor;",
+        "HD 'Atlas of patterns of mineral deposit distribution' (2021–2023). Head of the rare and rare earth metals direction;",
+        "PSD 'Preparation of design and estimate documentation (PSD) for the project “Exploration work for rare earth metals at the Akbulak site”' (2021). PSD Manager;",
+        "PCF 'Scientific support for the replenishment and expansion of the mineral resources of the Republic of Kazakhstan' direction: rare and rare earth metals (2018–2020);",
+        "GF 'Creation of a digital geographic information system, thermodynamic and 3D models of endogenous and exogenous deposits of the Syrymbet ore cluster and assessment of their potential resources for rare metals and rare earths' (2018–2020);",
+        "GF 'Forecast assessment of the prospects of karst-type mineralization in Kazakhstan for various types of mineral resources' (2018–2020)."
+      ],
+      "kz": [
+        "ПЦФ «Қазақстанның пайдалы қазбалар қорларын игеру технологияларын дамыту үшін рудалардың микро- және наноминералдық компоненттері қорларды толықтырудың көзі ретінде» (2021–2023). Жауапты орындаушы;",
+        "ХД «Пайдалы қазбалар кен орындарының орналасу заңдылықтарының атласы» (2021–2023). Сирек және сирек жер металдары бағыты бойынша жетекші;",
+        "ПСД «Акбулак учаскесінде сирек жер металдарына іздеу жұмыстарын жүргізу объектісі бойынша жобалау-сметалық құжаттаманы (ПСД) әзірлеу» (2021 ж.). ПСД жетекшісі;",
+        "ПЦФ «Қазақстан Республикасының минералдық-шикізат ресурстарын толықтыру және кеңейтуді ғылыми қамтамасыз ету» бағыты: сирек және сирек жер металдары (2018–2020);",
+        "ГФ «Сырымбет рудалық торабындағы эндогенді және экзогенді кен орындарының сандық геоақпараттық жүйесін, термодинамикалық және 3D модельдерін құру және олардың сирек металдар мен сирек жер элементтері бойынша әлеуетті ресурстарын бағалау» (2018–2020);",
+        "ГФ «Қазақстандағы әртүрлі пайдалы қазбалар бойынша карст типті минерализацияның болашағын болжау бағасы» (2018–2020)."
+      ],
+      "zh": [
+        "科研目标计划《作为开发技术资源的微纳矿物成分，用于补充哈萨克斯坦矿产储备》（2021–2023年）。责任执行人；",
+        "主目录项目《矿产地分布规律图集》（2021–2023年）。稀有和稀土金属方向负责人；",
+        "设计预算文件《在阿克布拉克区稀土金属勘探工作的设计和预算文件（PSD）编制》（2021年）。PSD负责人；",
+        "科研目标计划《保障和扩充哈萨克斯坦共和国矿产资源的科学支持》，方向：稀有和稀土金属（2018–2020年）；",
+        "科研基金《创建西林别特矿区内生和外生矿床的数字地理信息系统、热力学和三维模型，并评估其稀有金属和稀土潜在资源》（2018–2020年）；",
+        "科研基金《对哈萨克斯坦不同类型矿产资源的喀斯特型矿化前景的预测评估》（2018–2020年）。"
+      ]
+    },
+    "teachings": {
+      "ru": [
+        "Наставничество:", 
+        "работа со студентами и молодыми специалистами, участие в образовательном проекте «Геоспарк»."
+      ],
+      "en": [
+        "Mentorship:",
+        "working with students and young professionals, participation in the educational project 'Geospark'."
+      ],
+      "kz": [
+        "Менторлық:",
+        "студенттермен және жас мамандармен жұмыс, «Геоспарк» білім беру жобасына қатысу."
+      ],
+      "zh": [
+        "导师指导：",
+        "与学生和年轻专家合作，参与教育项目“Geospark”。"
+      ]
+    },
+    "achievements": {
+      "ru": ["Требует заполнения"],
+      "en": ["Required field"],
+      "kz": ["Міндетті түрде толтыру қажет"],
+      "zh": ["必填项"]
+    },
+    "media": [
+      "/scientists/togizov1.webp",
+      "/scientists/togizov2.webp",
+      "/scientists/togizov3.webp"
+    ],
+    "image": "/scientists/togizov3.webp"
   }
 ]

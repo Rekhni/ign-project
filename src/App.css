@@ -185,44 +185,22 @@
 
 
 /* CSS */
-.button-92 {
-  --c: #fff;
-  /* text color */
-  background: linear-gradient(90deg, #0000 33%, #fff5, #0000 67%) var(--_p,100%)/300% no-repeat,
-    #004dff;
-  /* background color */
-  color: #0000;
-  border: none;
-  transform: perspective(500px) rotateY(calc(20deg*var(--_i,-1)));
-  text-shadow: calc(var(--_i,-1)* 0.08em) -.01em 0   var(--c),
-    calc(var(--_i,-1)*-0.08em)  .01em 2px #0004;
-  outline-offset: .1em;
-  transition: 0.3s;
-}
 
-.button-92 a {
-  font-size: 50px;
-}
-
-.button-92:hover,
-.button-92:focus-visible {
-  --_p: 0%;
-  --_i: 1;
-}
-
-.button-92:active {
-  text-shadow: none;
-  color: var(--c);
-  box-shadow: inset 0 0 9e9q #0005;
-  transition: 0s;
-}
 
 .button-92 {
   font-weight: bold;
   font-size: 2rem;
   margin: 0;
   cursor: pointer;
-  padding: .1em .3em;
+  width: 400px;
+  height: 200px;
+  box-shadow: rgba(48, 149, 212, 0.2) 0 -25px 18px -14px inset,rgba(44, 99, 187, 0.15) 0 1px 2px,rgba(44, 151, 187, 0.15) 0 2px 4px,rgba(44, 127, 187, 0.15) 0 4px 8px,rgba(44, 137, 187, 0.15) 0 8px 16px,rgba(44, 144, 187, 0.15) 0 16px 32px;
+}
+
+.button-92:hover {
+    box-shadow: rgba(18, 182, 252, 0.35) 0 -25px 18px -14px inset,rgba(44, 146, 187, 0.25) 0 1px 2px,rgba(44, 137, 187, 0.25) 0 2px 4px,rgba(44, 99, 187, 0.25) 0 4px 8px,rgba(44, 127, 187, 0.25) 0 8px 16px,rgba(44, 130, 187, 0.25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+
 }
 
 .button-33 {
@@ -251,6 +229,12 @@
 
 @media (max-width: 1024px) {
 
+  .button-92 {
+    width: 200px;
+    height: 130px;
+    font-size: 30px;
+  }
+
   .button-33 {
     width: 150px;
   }
@@ -258,10 +242,6 @@
   .button-33 a {
     font-size: 12px;
   }
-
-  .button-92 a {
-  font-size: 40px;
-}
 
   .logo-text {
     display: none;
@@ -280,9 +260,11 @@
   width: 90%;
 }
 
-.button-92 a {
-  font-size: 20px;
-}
+.button-92 {
+    width: 100px;
+    height: 70px;
+    font-size: 10px;
+  }
 
   .services-item {
     width: 100%;

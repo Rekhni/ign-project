@@ -24,6 +24,7 @@ const LabDetail = lazy(() => import('./pages/LabDetail'));
 const ScientistsGallery = lazy(() => import('./pages/ScientistsGallery'));
 const Services = lazy(() => import('./pages/Services'));
 import { Spinner } from 'react-bootstrap';
+import AboutUs from './pages/AboutUs';
 
 function App() {
   const [language, setLanguage] = useState(() => localStorage.getItem('lang') || 'ru');
@@ -53,6 +54,7 @@ function App() {
           <Route path='/laboratories/:id' element={<LabDetail lang={language}/>}/>
           <Route path='/scientists-gallery/' element={<ScientistsGallery lang={language}/>}/>
           <Route path='/services' element={<Services lang={language}/>}/>
+          <Route path='/about-us' element={<AboutUs lang={language}/>}/>
         </Routes>
       </Suspense>
       <Footer lang={language}/>

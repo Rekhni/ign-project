@@ -6,6 +6,7 @@ import newsData from '../newsData.json';
 import { NavLink } from 'react-router-dom';
 import PartnersSlider from '../components/PartnersSlider.jsx';
 import partnersData from '../partnersData.json';
+import LabImg from '../assets/bgLabImg.webp'
 
 export default function Home({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
@@ -14,58 +15,57 @@ export default function Home({ lang }) {
         <div
           className="hero-image"
           style={{
-            backgroundColor: 'rgb(1, 44, 97)',
-            paddingTop: '25px'
+            backgroundColor: "rgb(1, 44, 97)",
+            paddingTop: "25px",
           }}
         >
-          <div className='main-header d-flex justify-content-evenly center align-items-center' style={{ fontFamily: 'Montserrat' }}>
+          <div
+            className="main-header d-flex justify-content-evenly center align-items-center"
+            style={{ fontFamily: "Montserrat" }}
+          >
             <img
               src={logo}
               alt=""
               className="z-2 m-0 hero-image-logo"
               height="200"
-              style={{ color: 'white', paddingRight: '30px' }}
+              style={{ color: "white", paddingRight: "30px" }}
             />
             <div
-              className='z-2 m-0 hero-image-logo-divider'
+              className="z-2 m-0 hero-image-logo-divider"
               style={{
-                width: '2px',
-                height: '100px',
-                backgroundColor: 'white', // or any color
-                margin: '0 auto'
+                width: "2px",
+                height: "100px",
+                backgroundColor: "white", // or any color
+                margin: "0 auto",
               }}
             ></div>
-            <p className='logo-text text-white w-75 z-2' style={{marginLeft: '15px', fontSize: 'clamp(14px, 4vw, 20px)', paddingLeft: '30px'}}>
+            <p
+              className="logo-text text-white w-75 z-2"
+              style={{
+                marginLeft: "15px",
+                fontSize: "clamp(14px, 4vw, 20px)",
+                paddingLeft: "30px",
+              }}
+            >
               {t(
-                'Институт геологических наук им. К. И. Сатпаева',
-                'Kanysh Satpayev Institute of geological sciences',
-                'Қ.И.Сәтбаев атындағы Геологиялық ғылымдар институты',
-                '萨特帕耶夫地质科学研究所'
+                "Институт геологических наук им. К. И. Сатпаева",
+                "Kanysh Satpayev Institute of geological sciences",
+                "Қ.И.Сәтбаев атындағы Геологиялық ғылымдар институты",
+                "萨特帕耶夫地质科学研究所"
               )}
             </p>
-                <div className="w-100">
-            </div>
-            <div
-              className=" mx-auto d-flex justify-content-center z-2 w-100 w-lg-50 mt-3"
-            >
-              <button
-                className="button-33" role="button"
-              >
-                <a href="#form" className='text-dark text-decoration-none'>
-                    {t(
-                      'Связаться с нами',
-                      'Contact Us',
-                      'Байланысу',
-                      '联系我们'
-                    )}
+            <div className="w-100"></div>
+            <div className=" mx-auto d-flex justify-content-center z-2 w-100 w-lg-50 mt-3">
+              <button className="button-33" role="button">
+                <a href="#form" className="text-dark text-decoration-none">
+                  {t("Связаться с нами", "Contact Us", "Байланысу", "联系我们")}
                 </a>
               </button>
             </div>
           </div>
-          <div>
-          </div>
+          <div></div>
         </div>
-        <div className='text-dark'>
+        <div className="text-dark">
           <div
             id="carouselExampleAutoplaying"
             className="carousel slide w-100 h-75"
@@ -73,10 +73,15 @@ export default function Home({ lang }) {
           >
             <div className="carousel-inner">
               {newsData.map((news, index) => (
-                <NavLink to={`/news/${news.id}`}> 
-                  <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
+                <NavLink to={`/news/${news.id}`}>
+                  <div
+                    className={`carousel-item ${index === 0 ? "active" : ""}`}
+                    key={index}
+                  >
                     <img
-                      src={`${import.meta.env.BASE_URL}${news.images[0].slice(1)}`}
+                      src={`${import.meta.env.BASE_URL}${news.images[0].slice(
+                        1
+                      )}`}
                       className="d-block w-100 carousel-img"
                       alt={`news-${index}`}
                       style={{ filter: "brightness(60%)" }}
@@ -114,16 +119,172 @@ export default function Home({ lang }) {
             </button>
           </div>
         </div>
-        <div className="justify-content-center w-100 text-dark" style={{ padding: '30px 0', backgroundColor: 'rgb(0, 53, 118)', fontFamily: 'Montserrat'}}>
+        <div
+          className="justify-content-center w-100 text-dark"
+          style={{
+            padding: "30px 0",
+            backgroundColor: "rgb(0, 53, 118)",
+            fontFamily: "Montserrat",
+          }}
+        >
           <div className="d-flex justify-content-center flex-wrap p-4 gap-3 gap-lg-5">
-              <button class="button-92 shadow-lg rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/services">{t('Услуги', 'Services', 'Қызметтер', '服务')}</NavLink></button>
-              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="#">GeoSpark</NavLink></button>
-              <button class="button-92 rounded bg-white" role="button"><NavLink className='text-decoration-none' style={{color: 'rgb(0, 53, 118)'}} to="/museum">{t(
-              "Музей",
-              "Museum",
-              "Мұражай",
-              '博物馆'
-            )}</NavLink></button>
+            <NavLink
+              to="/services"
+              className="button-92 text-decoration-none"
+              style={{ display: "block" }}
+            >
+              <div
+                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                style={{
+                  borderRadius: "20px 20px 0 0",
+                  overflow: "hidden",
+                  height: "100%", // optional: set height if needed
+                  width: "100%", // optional: set width if needed
+                }}
+              >
+                {/* Background image + dark overlay */}
+                <div
+                  style={{
+                    position: "absolute",
+                    top: 0,
+                    left: 0,
+                    width: "100%",
+                    height: "100%",
+                    backgroundImage: `url(${LabImg})`,
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                    zIndex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      height: "100%",
+                      backgroundColor: "rgba(0, 0, 0, 0.4)",
+                    }}
+                  ></div>
+                </div>
+
+                {/* Centered text */}
+                <div
+                  className="text-white"
+                  style={{
+                    zIndex: 2,
+                    position: "relative",
+                  }}
+                >
+                  {t("Услуги", "Services", "Қызметтер", "服务")}
+                </div>
+              </div>
+            </NavLink>
+
+            <NavLink
+              to="#"
+              className="button-92 text-decoration-none"
+              style={{ display: "block" }}
+            >
+              <div
+                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                style={{
+                  borderRadius: "20px 20px 0 0",
+                  overflow: "hidden",
+                  height: "100%", // optional: set height if needed
+                  width: "100%", // optional: set width if needed
+                }}
+              >
+                {/* Background image + dark overlay */}
+                <div
+                  style={{
+                    position: "absolute",
+                    top: 0,
+                    left: 0,
+                    width: "100%",
+                    height: "100%",
+                    backgroundImage: `url(${LabImg})`,
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                    zIndex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      height: "100%",
+                      backgroundColor: "rgba(0, 0, 0, 0.4)",
+                    }}
+                  ></div>
+                </div>
+
+                {/* Centered text */}
+                <div
+                  className="text-white"
+                  style={{
+                    zIndex: 2,
+                    position: "relative",
+                  }}
+                >
+                  GeoSpark
+                </div>
+              </div>
+            </NavLink>
+            <NavLink
+              to="/services"
+              className="button-92 text-decoration-none"
+              style={{ display: "block" }}
+            >
+              <div
+                className=" rounded d-flex justify-content-center align-items-center position-relative z-1"
+                style={{
+                  borderRadius: "20px 20px 0 0",
+                  overflow: "hidden",
+                  height: "100%", // optional: set height if needed
+                  width: "100%", // optional: set width if needed
+                }}
+              >
+                {/* Background image + dark overlay */}
+                <div
+                  style={{
+                    position: "absolute",
+                    top: 0,
+                    left: 0,
+                    width: "100%",
+                    height: "100%",
+                    backgroundImage: `url(${LabImg})`,
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                    zIndex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      height: "100%",
+                      backgroundColor: "rgba(0, 0, 0, 0.4)",
+                    }}
+                  ></div>
+                </div>
+
+                {/* Centered text */}
+                <div
+                  className="text-white"
+                  style={{
+                    zIndex: 2,
+                    position: "relative",
+                  }}
+                >
+                  {t("Музей", "Museum", "Мұражай", "博物馆")}
+                </div>
+              </div>
+            </NavLink>
           </div>
         </div>
         {/* <div className="d-flex flex-column justify-content-center w-100 text-dark bg-white" style={{fontFamily: 'Montserrat', paddingTop: '30px'}}>
@@ -155,61 +316,92 @@ export default function Home({ lang }) {
                 ></iframe>
             </div>
         </div> */}
-        <div style={{ margin: '40px 0' }}>
-          <PartnersSlider logos={partnersData}/>
+        <div style={{ margin: "40px 0" }}>
+          <PartnersSlider logos={partnersData} />
         </div>
-        <section id="form"
+        <section
+          id="form"
           style={{
-            position: 'relative',
+            position: "relative",
             backgroundImage: `url(${backgroundImg2})`,
-            backgroundSize: 'cover', // or 'contain' or specific px
-            backgroundRepeat: 'no-repeat',
-            backgroundPosition: 'center',
-            padding: '50px 0',
+            backgroundSize: "cover", // or 'contain' or specific px
+            backgroundRepeat: "no-repeat",
+            backgroundPosition: "center",
+            padding: "50px 0",
           }}
         >
-            <div
-              style={{
-                position: 'absolute',
-                top: 0,
-                left: 0,
-                right: 0,
-                bottom: 0,
-                backgroundColor: 'rgba(4, 53, 82, 0.66)', // dark green, 60% opacity
-                zIndex: 1,
-              }}
-            ></div>
-            <form 
-              action="https://formspree.io/f/xldnbery"
-              method="POST"
-              className="w-75 mx-auto bg-white p-4 rounded shadow" 
-              style={{ position: 'relative', zIndex: 2 }}
+          <div
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              backgroundColor: "rgba(4, 53, 82, 0.66)", // dark green, 60% opacity
+              zIndex: 1,
+            }}
+          ></div>
+          <form
+            action="https://formspree.io/f/xldnbery"
+            method="POST"
+            className="w-75 mx-auto bg-white p-4 rounded shadow"
+            style={{ position: "relative", zIndex: 2 }}
+          >
+            <h1>
+              {t(
+                "Свяжитесь с нами!",
+                "Contact us!",
+                "Бізбен байланысыңыз!",
+                "联系我们!"
+              )}
+            </h1>
+            <div className="mb-3">
+              <label htmlFor="inputName" className="form-label">
+                {t("Имя", "Name", "Атыңыз", '您的姓名"')}
+              </label>
+              <input
+                type="text"
+                className="form-control"
+                id="inputName"
+                name="name"
+                required
+              />
+            </div>
+            <div className="mb-3">
+              <label htmlFor="inputEmail" className="form-label">
+                {t("Почта", "Email", "Пошта", "您的电子邮件")}
+              </label>
+              <input
+                type="email"
+                className="form-control"
+                id="inputEmail"
+                name="email"
+                required
+              />
+            </div>
+            <div className="mb-3">
+              <label htmlFor="inputPhone" className="form-label">
+                {t("Телефон", "Phone", "Телефон", "电话")}
+              </label>
+              <input
+                type="tel"
+                className="form-control"
+                id="inputPhone"
+                name="phone"
+                placeholder="+7 777 123 4567"
+              />
+            </div>
+            <button
+              type="submit"
+              className="btn text-white"
+              style={{ backgroundColor: "rgb(37, 122, 161)" }}
             >
-              <h1>{t(
-                'Свяжитесь с нами!',
-                'Contact us!',
-                'Бізбен байланысыңыз!',
-                '联系我们!'
-              )}</h1>
-              <div className="mb-3">
-                <label htmlFor="inputName" className="form-label">{t('Имя','Name','Атыңыз', '您的姓名"')}</label>
-                <input type="text" className="form-control" id="inputName" name="name" required/>
-              </div>
-              <div className="mb-3">
-                <label htmlFor="inputEmail" className="form-label">{t('Почта','Email', 'Пошта', '您的电子邮件')}</label>
-                <input type="email" className="form-control" id="inputEmail" name="email" required/>
-              </div>
-              <div className="mb-3">
-                <label htmlFor="inputPhone" className="form-label">{t('Телефон','Phone', 'Телефон', '电话')}</label>
-                <input type="tel" className="form-control" id="inputPhone" name="phone" placeholder="+7 777 123 4567" />
-              </div>
-              <button type="submit" className="btn text-white" style={{backgroundColor: 'rgb(37, 122, 161)'}}>
-                  {t('Отправить','Submit', 'Жіберу', '提交')}
-                </button>
-            </form>
+              {t("Отправить", "Submit", "Жіберу", "提交")}
+            </button>
+          </form>
         </section>
         <section id="contacts">
-          <Contacts lang={lang}/>
+          <Contacts lang={lang} />
         </section>
       </div>
     );

@@ -242,6 +242,10 @@
 
 @media (max-width: 1024px) {
 
+.lab-scientist-img {
+  height: 250px;
+}
+
 .mission-items {
   font-size: 12px;
 }
@@ -271,6 +275,14 @@
 
 
 @media (max-width: 576px) {
+
+.lab-scientist-img {
+  display: none;
+}
+
+.lab-name {
+  font-size: 25px;
+}
 
 .history-quote {
   width: 90%;

@@ -1,5 +1,6 @@
 import { Tabs, Tab, Container } from 'react-bootstrap';
 import aboutUsData from '../aboutUsData.json';
+import HistoryTimeline from './HistoryTimeline';
 
 
 
@@ -70,7 +71,7 @@ export default function AboutUsNavbar({ lang }) {
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
         >
-            <p>Хронология</p>
+            <HistoryTimeline />
           </div>
         </Tab>
         <Tab

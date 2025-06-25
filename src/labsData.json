@@ -106,7 +106,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/zhaimina4.webp"
     },
     {
         "id": 2,
@@ -243,7 +244,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/seitmuratova1.webp"
     },
     {
         "id": 3,
@@ -364,7 +366,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/nigmatova2.webp"
     },
     {
         "id": 4,
@@ -505,7 +508,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/umarbekova1.webp"
     },
     {
         "id": 5,
@@ -614,7 +618,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/ozdoev1.webp"
     },
     {
         "id": 6,
@@ -767,7 +772,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/antonenko4.webp"
     },
     {
         "id": 7,
@@ -892,7 +898,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/togizov3.webp"
     },
     {
         "id": 8,
@@ -1025,7 +1032,8 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/bekenova3.webp"
     },
     {
         "id": 9,
@@ -1118,6 +1126,7 @@
             "en": ["Requires completion"],
             "kz": ["Толықтыруды талап етеді"],
             "zh": ["需要补充"]
-        }
+        },
+        "image": "/scientists/togaeva3.webp"
     }
 ]

@@ -36,11 +36,14 @@ export default function LabDetail({ lang }) {
                     }}
                 />
 
-                <div style={{ marginLeft: '40px', zIndex: 2 }}>
-                    <h1 className='w-100'>{lab.name[lang]}</h1>
-                    <br/>
-                    <p className='lab-slogan'>{lab.slogan[lang]}</p>
-                    <br/>
+                <div className='d-flex w-100 z-2 justify-content-between align-items-center' style={{ padding: '0 30px' }}>
+                    <div style={{ marginLeft: '40px', zIndex: 2 }}>
+                        <h1  className='lab-name fw-bold w-100'>{lab.name[lang]}</h1>
+                        <br/>
+                        <p className='lab-slogan'>{lab.slogan[lang]}</p>
+                        <br/>
+                    </div>
+                    <img className='lab-scientist-img' style={{borderRadius: '50%'}} src={`${import.meta.env.BASE_URL}${lab.image.slice(1)}`} height={300}  alt="img-lab" />
                 </div>
             </div>
             <div className='w-100 mx-auto'>

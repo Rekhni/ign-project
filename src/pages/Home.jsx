@@ -183,7 +183,7 @@ export default function Home({ lang }) {
               </div>
             </NavLink>
             <NavLink
-              to="/services"
+              to="/museum"
               className="button-92 text-decoration-none"
               style={{ display: "block" }}
             >

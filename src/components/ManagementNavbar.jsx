@@ -120,9 +120,9 @@ export default function ManagementNavbar({ lang }) {
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
-            <ul>
+            <ul className='d-flex flex-wrap gap-3 justify-content-center' >
             {managementData.achievements[lang].map((item, idx) => (
-                <li key={idx}>{item}</li>
+                <li className='text-white p-3 text-center' style={{backgroundColor: 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} key={idx}><i class="bi bi-award-fill"></i> {item}</li>
             ))}
             </ul>
           </div>

@@ -27,7 +27,12 @@ export default function ScientistDetail({ lang }) {
                 <p key={idx}>{line}</p>
               ))}
 
-              {scientist.quotes[lang][0] !== '' ? <p className='p-3' style={{borderRadius: '30px', backgroundColor: 'rgb(239, 227, 188)'}} >{scientist.quotes[lang][0]}</p> : null}
+              {scientist.quotes?.[lang]?.[0]?.trim() !== '' ? (
+                <>
+                  <blockquote>{scientist.quotes[lang][0]}</blockquote>
+                  <cite>{scientist.name[lang]}</cite>
+                </>
+              ) : null}
             </div>  
         </div>
         <ScientistNavbar lang={lang}/>

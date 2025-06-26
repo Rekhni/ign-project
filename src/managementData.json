@@ -18,10 +18,10 @@
     "zh": "技术科学副博士\n高级研究员"
   },
   "quotes": {
-    "ru": "«Создавая инновации, мы раскрываем потенциал недр и способствуем развитию Казахстана».",
-    "en": "“By creating innovations, we unlock the potential of mineral resources and contribute to the development of Kazakhstan.”",
-    "kz": "«Инновациялар жасай отырып, біз жер қойнауының әлеуетін ашып, Қазақстанның дамуына үлес қосамыз».",
-    "zh": "“通过创造创新，我们开发地下资源潜力，助力哈萨克斯坦发展。”"
+    "ru": ["«Создавая инновации, мы раскрываем потенциал недр и способствуем развитию Казахстана»."],
+    "en": ["“By creating innovations, we unlock the potential of mineral resources and contribute to the development of Kazakhstan.”"],
+    "kz": ["«Инновациялар жасай отырып, біз жер қойнауының әлеуетін ашып, Қазақстанның дамуына үлес қосамыз»."],
+    "zh": ["“通过创造创新，我们开发地下资源潜力，助力哈萨克斯坦发展。”"]
   },
   "review": {
     "shortBio": {

@@ -29,28 +29,28 @@ export default function LabNavbar({ lang }) {
           zh: "E. Y. 赛特穆拉托娃"
         }, id: 3}, 
         { name: {
-          ru: 'А. А. Антоненко',
-          en: 'A. A. Antonenko',
-          kz: 'А. А. Антоненко',
-          zh: "А. А. 安东年科"
-        }, id: 4}, 
-        { name: {
           ru: 'Г. К. Бекенова',
           en: "G. K. Bekenova",
           kz: "Г. К. Бекенова",
           zh: "G. K. 贝肯诺娃"
-        }, id: 5}, 
+        }, id: 4}, 
         { name: {
           ru: 'В. Я. Жаймина',
           en: "V. Y. Zhaimina",
           kz: "В. Я. Жаймина",
           zh: "V. Y. 瓦莲京娜"
-        }, id: 6}, 
+        }, id: 5}, 
         { name: {
           ru: 'С. А. Нигматова',
           en: "S. A. Nigmatova",
           kz: "С. А. Нигматова",
           zh: "S. A. 尼格马托娃"
+        }, id: 6}, 
+        { name: {
+          ru: 'А. А. Антоненко',
+          en: 'A. A. Antonenko',
+          kz: 'А. А. Антоненко',
+          zh: "А. А. 安东年科"
         }, id: 7}, 
         { name: {
           ru: 'Н. М. Жуков',

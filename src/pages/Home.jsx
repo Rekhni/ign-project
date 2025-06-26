@@ -2,12 +2,10 @@
 import logo from '../assets/logo.svg';
 import backgroundImg2 from '../assets/bg-img5.png';
 import Contacts from '../components/Contacts.jsx';
-import newsData from '../newsData.json';
 import { NavLink } from 'react-router-dom';
 import PartnersSlider from '../components/PartnersSlider.jsx';
 import partnersData from '../partnersData.json';
-import LabImg from '../assets/bgLabImg.webp'
-
+import mainBgImg from '../assets/main-bg.png';
 export default function Home({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
@@ -66,58 +64,23 @@ export default function Home({ lang }) {
           <div></div>
         </div>
         <div className="text-dark">
-          <div
-            id="carouselExampleAutoplaying"
-            className="carousel slide w-100 h-75"
-            data-bs-ride="carousel"
-          >
-            <div className="carousel-inner">
-              {newsData.map((news, index) => (
-                <NavLink to={`/news/${news.id}`}>
-                  <div
-                    className={`carousel-item ${index === 0 ? "active" : ""}`}
-                    key={index}
-                  >
-                    <img
-                      src={`${import.meta.env.BASE_URL}${news.images[0].slice(
-                        1
-                      )}`}
-                      className="d-block w-100 carousel-img"
-                      alt={`news-${index}`}
-                      style={{ filter: "brightness(60%)" }}
-                    />
-                    <div className="carousel-caption d-none d-md-block">
-                      <h5>{news.title[lang]}</h5>
-                    </div>
-                  </div>
-                </NavLink>
-              ))}
-            </div>
-            <button
-              className="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselExampleAutoplaying"
-              data-bs-slide="prev"
-            >
-              <span
-                className="carousel-control-prev-icon"
-                aria-hidden="true"
-              ></span>
-              <span className="visually-hidden">Previous</span>
-            </button>
-            <button
-              className="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselExampleAutoplaying"
-              data-bs-slide="next"
-            >
-              <span
-                className="carousel-control-next-icon"
-                aria-hidden="true"
-              ></span>
-              <span className="visually-hidden">Next</span>
-            </button>
-          </div>
+              <img src={mainBgImg} alt="main-img" height={500} className='w-100'/>
+                <div
+                  style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: '100%',
+                    height: '100%',
+                    backgroundColor: 'rgba(0, 21, 64, 0.5)', // dark-blue with 50% opacity
+                    zIndex: 1
+                  }}
+                ></div>
+
+                {/* Optional content above overlay */}
+                <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, width: '100%', height: '100%' }}>
+                  {/* Put any text or buttons here */}
+                </div>
         </div>
         <div
           className="justify-content-center w-100 text-dark"

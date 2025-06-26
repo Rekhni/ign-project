@@ -20,7 +20,7 @@ export default function LabNavbar({ lang }) {
           ru: 'С. М. Оздоев',
           en: "S. M. Ozdoev",
           kz: "С. М. Оздоев",
-          zh: "N. M. 奥兹多耶夫"
+          zh: "S. M. 奥兹多耶夫"
         }, id: 2},  
         { name: { 
           ru: 'Э. Ю. Сейтмуратова',
@@ -50,7 +50,8 @@ export default function LabNavbar({ lang }) {
           ru: 'А. А. Антоненко',
           en: 'A. A. Antonenko',
           kz: 'А. А. Антоненко',
-          zh: "А. А. 安东年科"
+          zh: "A. A. 安托年科"
+          
         }, id: 7}, 
         { name: {
           ru: 'Н. М. Жуков',

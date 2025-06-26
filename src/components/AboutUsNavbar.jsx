@@ -27,6 +27,8 @@ export default function AboutUsNavbar({ lang }) {
                 border: "2px solid rgb(22, 158, 255)",
                 borderRadius: "20px",
                 boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+                maxHeight: 500,
+                overflowY: 'auto'
               }}
             >
               {/* <h3>{t("Обзор", "Overview", "Шолу", "概览")}</h3> */}
@@ -46,6 +48,8 @@ export default function AboutUsNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              maxHeight: 500,
+              overflowY: 'auto'
             }}
           >
             <p>{aboutUsData.missionAndValues[lang][0]}</p>
@@ -64,12 +68,7 @@ export default function AboutUsNavbar({ lang }) {
           title={`${t("Хронология", "Chronology", "Хронология", "项目")}`}
         >
           <div 
-            className="mt-3 mx-auto p-3 lab-content" 
-            style={{
-              border: "2px solid rgb(22, 158, 255)",
-              borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
-            }}
+            className="mt-3 lab-content" 
         >
             <HistoryTimeline />
           </div>
@@ -84,6 +83,8 @@ export default function AboutUsNavbar({ lang }) {
               border: "2px solid rgb(22, 158, 255)",
               borderRadius: "20px",
               boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              maxHeight: 500,
+              overflowY: 'auto'
             }}
         >
           <div className='founder-content d-flex gap-3 p-3'>

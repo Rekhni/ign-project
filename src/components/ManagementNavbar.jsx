@@ -30,8 +30,8 @@ export default function ManagementNavbar({ lang }) {
               </h3>
               {managementData.review.shortBio[lang].map((line, idx) => (
                 line.includes(':') 
-                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx}><strong>{line}</strong></p> 
-                  : <p style={{ fontFamily: 'Montserrat' }} key={idx}>{line}</p>
+                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx} dangerouslySetInnerHTML={{ __html: `<strong>${line}</strong>` }}/>
+                  : <p style={{ fontFamily: 'Montserrat' }} key={idx} dangerouslySetInnerHTML={{ __html: line }}/>
               ))}   
             </div>
             <div
@@ -50,11 +50,11 @@ export default function ManagementNavbar({ lang }) {
               </h3>
               {managementData.review.bigBio[lang].map((line, idx) => (
                 line.includes(':') 
-                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx}><strong>{line}</strong></p> 
-                  : <p style={{ fontFamily: 'Montserrat' }} key={idx}>{line}</p>
+                  ? <p key={idx} style={{ fontFamily: 'Montserrat' }} dangerouslySetInnerHTML={{ __html: `<strong>${line}</strong>` }}/> 
+                  : <p key={idx} style={{ fontFamily: 'Montserrat' }} dangerouslySetInnerHTML={{ __html: line }}/>
               ))}    
                 {managementData.moreInfo[lang].map((item, idx) => (
-                <p key={idx}>{item}</p>
+                <p key={idx} dangerouslySetInnerHTML={{ __html: item }} />
               ))}
             </div>
           </div>

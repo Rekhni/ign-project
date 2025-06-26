@@ -63,9 +63,10 @@ export default function Home({ lang }) {
           </div>
           <div></div>
         </div>
-        <div className="text-dark">
-              <img src={mainBgImg} alt="main-img" height={500} className='w-100'/>
+        <div style={{ position: 'relative' }}>
+              <img src={mainBgImg} alt="main-img"  className='w-100'/>
                 <div
+                  className='main-img-overlay'
                   style={{
                     position: 'absolute',
                     top: 0,
@@ -77,10 +78,6 @@ export default function Home({ lang }) {
                   }}
                 ></div>
 
-                {/* Optional content above overlay */}
-                <div style={{ position: 'absolute', top: 0, left: 0, zIndex: 2, width: '100%', height: '100%' }}>
-                  {/* Put any text or buttons here */}
-                </div>
         </div>
         <div
           className="justify-content-center w-100 text-dark"

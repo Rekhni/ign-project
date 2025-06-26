@@ -5,10 +5,6 @@
   font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Special+Elite');
-
-
-
 .navbar {
   background-color: rgba(0, 0, 0, 0.3);       /* transparent black */
   backdrop-filter: blur(12px);               /* glassy blur */
@@ -101,7 +97,7 @@
 }
 
 .lab-content {
-  width: 90%;
+  width: 100%;
 }
 
 .scientist-quotes {
@@ -279,6 +275,7 @@ cite {
 	text-align: left;
 }
 
+
 @media (max-width: 1024px) {
 
 .lab-scientist-img {
@@ -314,6 +311,11 @@ cite {
 
 
 @media (max-width: 576px) {
+
+.main-img {
+  height: 265px;
+}
+
 
 .lab-scientist-img {
   display: none;

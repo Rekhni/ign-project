@@ -426,7 +426,10 @@
       "ru": [
         "Орден «Достык» 2 степени (2010)",
         "Почётная грамота Президента Республики Казахстан",
-        "Медаль «Астана» (1998), Медаль «10 лет независимости Республики Казахстан» (2001), Медаль «10 лет Конституции Республики Казахстан» (2005), Медаль «10 лет Астане» (2008)",
+        "Медаль «Астана» (1998)", 
+        "Медаль «10 лет независимости Республики Казахстан» (2001)", 
+        "Медаль «10 лет Конституции Республики Казахстан» (2005)", 
+        "Медаль «10 лет Астане» (2008)",
         "Почётный знак Правительственной комиссии (2015)"
       ],
       "en": [
@@ -450,7 +453,7 @@
     },
     "media": [
       "/scientists/ozdoev1.webp",
-      "/scientists/ozdoev2.webp" 
+      "/scientists/ozdoev2.jpg" 
     ],
     "image": "/scientists/ozdoev1.webp"
   },
@@ -720,11 +723,11 @@
           ]
     },
     "media": [
-      "/scientists/seitmuratova1.webp",
+      "/scientists/seitmuratova1-2.webp",
       "/scientists/seitmuratova2.webp",
       "/scientists/seitmuratova.webp"
     ],
-    "image": "/scientists/seitmuratova1.webp"
+    "image": "/scientists/seitmuratova1-2.webp"
   },
   {
     "id": 4,
@@ -938,7 +941,7 @@
     "media": [
       "/scientists/antonenko.webp",
       "/scientists/antonenko3.webp",
-      "/scientists/antonenko1.webp",
+      "/scientists/antonenko1.jpg",
       "/scientists/antonenko2.webp",
       "/scientists/antonenko4.webp"
     ],
@@ -1125,6 +1128,7 @@
       ]    
     },
     "media": [
+      "/scientists/bekenova.jpg",
       "/scientists/bekenova1.webp",
       "/scientists/bekenova2.webp",
       "/scientists/bekenova3.webp",
@@ -1577,8 +1581,9 @@
       "zh": ["必填项"]
     },
     "media": [
-      "/scientists/nigmatova.webp",
-      "/scientists/nigmatova1.webp"
+      "/scientists/nigmatova.jpg",
+      "/scientists/nigmatova1.webp",
+      "/scientists/nigmatova2.webp"
     ],
     "image": "/scientists/nigmatova2.webp"
   },
@@ -1738,9 +1743,9 @@
     "media": [
       "/scientists/zhukov1.webp",
       "/scientists/zhukov2.webp",
-      "/scientists/zhukov3.webp"
+      "/scientists/zhukov3.png"
     ],
-    "image": "/scientists/zhukov3.webp"
+    "image": "/scientists/zhukov3.png"
   },
   {
     "id": 9,
@@ -1851,6 +1856,7 @@
       ]
     },
     "media": [
+      "/scientists/glagolev.jpg",
       "/scientists/glagolev1.webp"
     ],
     "image": "/scientists/glagolev1.webp"
@@ -2017,10 +2023,10 @@
     },
     "media": [
       "/scientists/levin1.webp",
-      "/scientists/levin2.webp",
-      "/scientists/levin3.webp"
+      "/scientists/levin2.jpg",
+      "/scientists/levin3.jpg"
     ],
-    "image": "/scientists/levin2.webp"
+    "image": "/scientists/levin2.jpg"
   },
   {
     "id": 11,
@@ -2776,24 +2782,16 @@
     },
     "quotes": {
       "ru": [
-        "«Важность реальных каменных материалов с месторождений для повышения точности исследований».",
-        "«Потребность в современном оборудовании для конкурентоспособности лаборатории»",
         "«Редкие земли в Казахстане: скрытый потенциал и коммерческие перспективы»"
       ],
       "en": [
-        "The importance of real rock materials from deposits to improve research accuracy.",
-        "The need for modern equipment for the laboratory's competitiveness.",
-        "Rare earths in Kazakhstan: hidden potential and commercial prospects."
+        "«Rare earths in Kazakhstan: hidden potential and commercial prospects»"
       ],
       "kz": [
-        "Зерттеу дәлдігін арттыру үшін кен орындарынан алынған нақты тау жыныстары материалдарының маңызы.",
-        "Зертхананың бәсекеге қабілеттілігін арттыру үшін заманауи жабдықтың қажеттілігі.",
-        "Қазақстандағы сирек жер элементтері: жасырын әлеует және коммерциялық мүмкіндіктер."
+        "«Қазақстандағы сирек жер элементтері: жасырын әлеует және коммерциялық мүмкіндіктер»"
       ],
       "zh": [
-        "来自矿床的真实岩石材料对于提高研究精度的重要性。",
-        "实验室竞争力所需的现代设备。",
-        "哈萨克斯坦稀土：隐藏的潜力与商业前景。"
+        "«哈萨克斯坦稀土：隐藏的潜力与商业前景。»"
       ]
     },
     "publications": {
@@ -3054,10 +3052,50 @@
       ]
     },
     "publications": {
-      "ru": ["Требует заполнения"],
-      "en": ["Required field"],
-      "kz": ["Міндетті түрде толтыру қажет"],
-      "zh": ["必填项"]
+      "ru": [
+        "Омаров А.Д., Мусаев Ж.С., Тогаева Б.Б., Шингисова П.К. «Анализ состояния и тенденции развития перевозок на железнодорожном транспорте стран ЕАЭС». Промышленный транспорт Казахстана, №1 (70) 2021; ISSN 1815787",
+        "Шуртабаев М. Т., Тогаева Б. Б., Шингисова П. К. «Цифровая трансформация промышленности: вызовы и возможности». Сборник материалов Круглого стола «Новые материалы и технологии: порошковая металлургия, композиционные материалы, защитные покрытия, аддитивные технологии и робототехника», 2017 г.; РГП «НЦТП», ISBN 978-601-06- 4660-5/",
+        "Тогаева Б. Б., Шингисова П. К. «Литий-ионные и литий-ванадиевые батарей –источник энергии». Сборник материалов Круглого стола «Новые материалы и технологии: порошковая металлургия, композиционные материалы, защитные покрытия, аддитивные технологии и робототехника», 2017 г.; РГП «НЦТП», ISBN 978-601-06-4660-5/",
+        "Тогаева Б. Б., Шингисова П. К. «Топливные гранулы, мировой спрос на них». Сборник материалов Круглого стола «Новые материалы и технологии: порошковая металлургия, композиционные материалы, защитные покрытия, аддитивные технологии и робототехника», 2017 г.; РГП «НЦТП», ISBN 978-601-06-4660-5/",
+        "Шуртабаев М.Т., Ли Е.М., Тогаева Б.Б., «Инновационная деятельность как оптимальный путь развития предприятий горно-металлургического комплекса». Сборник материалов Круглого стола «Инновации –ключевой фактор развития ГМК», 2018 РГП «НЦТП», ISBN 978-601-332-195-0",
+        "Ли Е.М, Тогаева Б.Б, Шингисова П.К «Перспективы искусственного интеллекта и машинного обучения в промышленности». Сборник материалов Круглого стола «Инновации–ключевой фактор развития ГМК», 2018 РГП «НЦТП», ISBN 978-601-332-195-0",
+        "Шуртабаев М.Т., Ли Е.М, Тогаева Б. Б., Шингисова П.К. «Значимость ванадия в современной промышленности». Материалы Круглого стола на тему «Инновационные технологии и подходы в металлургии и химической промышленности РК», 2017 РГП «НЦТП», ISBN 978-601-7224-54-7.",
+        "Шуртабаев М.Т., Лепесов К.К, Тогаева Б.Б. «О переработке титаносодержащих отходов». Материалы Круглого стола на тему «Инновационные технологии и подходы в металлургии и химической промышленности РК», 2017 РГП «НЦТП», ISBN 978-601-7224-547",
+        "Лепесов К.К., Тогаева Б.Б., Шингисова П.К. «Итоги Третьей промышленности революции и их возможности влияние на новую индустриализацию РК», Материалы Круглого стола на тему «Инновационные технологии и подходы в металлургии и химической промышленности РК», 2017 РГП «НЦТП», ISBN 978-601-7224-54-7."
+      ],
+      "en": [
+        "Omarov A.D., Musaev Zh.S., Togaeva B.B., Shingisova P.K. 'Analysis of the state and development trends of railway transport in the EAEU countries'. Industrial Transport of Kazakhstan, No. 1 (70) 2021; ISSN 1815787",
+        "Shurtabayev M.T., Togaeva B.B., Shingisova P.K. 'Digital transformation of industry: challenges and opportunities'. Proceedings of the Round Table 'New Materials and Technologies: Powder Metallurgy, Composite Materials, Protective Coatings, Additive Technologies and Robotics', 2017; RSE 'NCTP', ISBN 978-601-06-4660-5",
+        "Togaeva B.B., Shingisova P.K. 'Lithium-ion and lithium-vanadium batteries – energy source'. Proceedings of the Round Table 'New Materials and Technologies: Powder Metallurgy, Composite Materials, Protective Coatings, Additive Technologies and Robotics', 2017; RSE 'NCTP', ISBN 978-601-06-4660-5",
+        "Togaeva B.B., Shingisova P.K. 'Fuel pellets, global demand for them'. Proceedings of the Round Table 'New Materials and Technologies: Powder Metallurgy, Composite Materials, Protective Coatings, Additive Technologies and Robotics', 2017; RSE 'NCTP', ISBN 978-601-06-4660-5",
+        "Shurtabayev M.T., Lee E.M., Togaeva B.B. 'Innovative activity as the optimal path for the development of mining and metallurgical complex enterprises'. Proceedings of the Round Table 'Innovations – Key Factor in MMC Development', 2018; RSE 'NCTP', ISBN 978-601-332-195-0",
+        "Lee E.M., Togaeva B.B., Shingisova P.K. 'Prospects for Artificial Intelligence and Machine Learning in Industry'. Proceedings of the Round Table 'Innovations – Key Factor in MMC Development', 2018; RSE 'NCTP', ISBN 978-601-332-195-0",
+        "Shurtabayev M.T., Lee E.M., Togaeva B.B., Shingisova P.K. 'The importance of vanadium in modern industry'. Round Table Materials on 'Innovative Technologies and Approaches in Metallurgy and the Chemical Industry of the Republic of Kazakhstan', 2017; RSE 'NCTP', ISBN 978-601-7224-54-7",
+        "Shurtabayev M.T., Lepesov K.K., Togaeva B.B. 'On the processing of titanium-containing waste'. Round Table Materials on 'Innovative Technologies and Approaches in Metallurgy and the Chemical Industry of the Republic of Kazakhstan', 2017; RSE 'NCTP', ISBN 978-601-7224-547",
+        "Lepesov K.K., Togaeva B.B., Shingisova P.K. 'Results of the Third Industrial Revolution and their potential impact on the new industrialization of Kazakhstan'. Round Table Materials on 'Innovative Technologies and Approaches in Metallurgy and the Chemical Industry of the Republic of Kazakhstan', 2017; RSE 'NCTP', ISBN 978-601-7224-54-7"
+      ],
+      "kz": [
+        "Омаров А.Д., Мусаев Ж.С., Тогаева Б.Б., Шингисова П.К. «ЕАЭО елдерінің теміржол көлігі саласының жағдайы мен даму үрдістерін талдау». Қазақстанның өнеркәсіптік көлігі, №1 (70) 2021; ISSN 1815787",
+        "Шуртабаев М.Т., Тогаева Б.Б., Шингисова П.К. «Өнеркәсіптің цифрлық трансформациясы: қиындықтар мен мүмкіндіктер». «Жаңа материалдар мен технологиялар: ұнтақты металлургия, композициялық материалдар, қорғаныш жабындар, аддитивтік технологиялар мен робототехника» дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-06-4660-5",
+        "Тогаева Б.Б., Шингисова П.К. «Литий-иондық және литий-ванадий батареялары – энергия көзі». «Жаңа материалдар мен технологиялар: ұнтақты металлургия, композициялық материалдар, қорғаныш жабындар, аддитивтік технологиялар мен робототехника» дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-06-4660-5",
+        "Тогаева Б.Б., Шингисова П.К. «Отын түйіршіктері, оларға деген жаһандық сұраныс». «Жаңа материалдар мен технологиялар: ұнтақты металлургия, композициялық материалдар, қорғаныш жабындар, аддитивтік технологиялар мен робототехника» дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-06-4660-5",
+        "Шуртабаев М.Т., Ли Е.М., Тогаева Б.Б. «Инновациялық қызмет – тау-кен металлургия кешені кәсіпорындарының дамуындағы оңтайлы жол». «Инновациялар – ГМК дамуының негізгі факторы» дөңгелек үстел материалдары, 2018 ж.; РМК «ҰЦТП», ISBN 978-601-332-195-0",
+        "Ли Е.М., Тогаева Б.Б., Шингисова П.К. «Өнеркәсіптегі жасанды интеллект пен машиналық оқытудың болашағы». «Инновациялар – ГМК дамуының негізгі факторы» дөңгелек үстел материалдары, 2018 ж.; РМК «ҰЦТП», ISBN 978-601-332-195-0",
+        "Шуртабаев М.Т., Ли Е.М., Тогаева Б.Б., Шингисова П.К. «Қазіргі өнеркәсіптегі ванадийдің маңызы». «Қазақстан Республикасының металлургия және химия өнеркәсібіндегі инновациялық технологиялар мен тәсілдер» атты дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-7224-54-7",
+        "Шуртабаев М.Т., Лепесов К.К., Тогаева Б.Б. «Титан құрамды қалдықтарды өңдеу туралы». «Қазақстан Республикасының металлургия және химия өнеркәсібіндегі инновациялық технологиялар мен тәсілдер» атты дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-7224-547",
+        "Лепесов К.К., Тогаева Б.Б., Шингисова П.К. «Үшінші өнеркәсіптік революцияның нәтижелері және олардың Қазақстанның жаңа индустриялануына ықтимал әсері». «Қазақстан Республикасының металлургия және химия өнеркәсібіндегі инновациялық технологиялар мен тәсілдер» атты дөңгелек үстел материалдары, 2017 ж.; РМК «ҰЦТП», ISBN 978-601-7224-54-7"
+      ],
+      "zh": [
+        "奥马罗夫 A.D.，穆萨耶夫 Zh.S.，托加耶娃 B.B.，申吉索娃 P.K.《欧亚经济联盟国家铁路运输现状与发展趋势分析》。《哈萨克斯坦工业运输》，第1期（70），2021年；ISSN 1815787",
+        "舒尔塔巴耶夫 M.T.，托加耶娃 B.B.，申吉索娃 P.K.《工业的数字化转型：挑战与机遇》。圆桌会议论文集《新材料与技术：粉末冶金、复合材料、防护涂层、增材制造与机器人技术》，2017年；国家技术转让中心，ISBN 978-601-06-4660-5",
+        "托加耶娃 B.B.，申吉索娃 P.K.《锂离子和锂钒电池——能源来源》。圆桌会议论文集《新材料与技术：粉末冶金、复合材料、防护涂层、增材制造与机器人技术》，2017年；国家技术转让中心，ISBN 978-601-06-4660-5",
+        "托加耶娃 B.B.，申吉索娃 P.K.《燃料颗粒及其全球需求》。圆桌会议论文集《新材料与技术：粉末冶金、复合材料、防护涂层、增材制造与机器人技术》，2017年；国家技术转让中心，ISBN 978-601-06-4660-5",
+        "舒尔塔巴耶夫 M.T.，李 E.M.，托加耶娃 B.B.《创新活动是发展矿冶企业的最佳途径》。圆桌会议论文集《创新——矿冶发展的关键因素》，2018年；国家技术转让中心，ISBN 978-601-332-195-0",
+        "李 E.M.，托加耶娃 B.B.，申吉索娃 P.K.《人工智能与机器学习在工业中的前景》。圆桌会议论文集《创新——矿冶发展的关键因素》，2018年；国家技术转让中心，ISBN 978-601-332-195-0",
+        "舒尔塔巴耶夫 M.T.，李 E.M.，托加耶娃 B.B.，申吉索娃 P.K.《钒在现代工业中的重要性》。圆桌会议论文集《哈萨克斯坦共和国冶金与化工工业的创新技术与方法》，2017年；国家技术转让中心，ISBN 978-601-7224-54-7",
+        "舒尔塔巴耶夫 M.T.，列佩索夫 K.K.，托加耶娃 B.B.《钛含废料的再处理问题》。圆桌会议论文集《哈萨克斯坦共和国冶金与化工工业的创新技术与方法》，2017年；国家技术转让中心，ISBN 978-601-7224-547",
+        "列佩索夫 K.K.，托加耶娃 B.B.，申吉索娃 P.K.《第三次工业革命的成果及其对哈萨克斯坦新工业化的潜在影响》。圆桌会议论文集《哈萨克斯坦共和国冶金与化工工业的创新技术与方法》，2017年；国家技术转让中心，ISBN 978-601-7224-54-7"
+      ]
     },
     "activeProjects": {
       "ru": [
@@ -3100,11 +3138,11 @@
       "zh": ["必填项"]
     },
     "media": [
-      "/scientists/togaeva1.webp",
-      "/scientists/togaeva2.webp",
-      "/scientists/togaeva3.webp",
-      "/scientists/togaeva4.webp"
+      "/scientists/togaeva1.jpg",
+      "/scientists/togaeva2.jpg",
+      "/scientists/togaeva3.jpg",
+      "/scientists/togaeva4.jpg"
     ],
-    "image": "/scientists/togaeva3.webp"
+    "image": "/scientists/togaeva3.jpg"
   }
 ]

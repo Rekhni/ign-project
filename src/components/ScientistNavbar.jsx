@@ -20,9 +20,8 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               maxHeight: '350px',
               overflowY: 'auto',
               padding: '20px 60px'
@@ -42,9 +41,8 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ol style={{ maxHeight: '300px', overflowY: 'auto', paddingRight: '10px' }}>
@@ -58,9 +56,8 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               maxHeight: '350px',
               overflowY: 'auto',
               paddingRight: '10px'
@@ -80,9 +77,8 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul>
@@ -96,17 +92,16 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               maxHeight: '350px',
               overflowY: 'auto',
               paddingRight: '10px'
             }}
           >
-            <ul>
+            <ul className='d-flex flex-wrap gap-3 justify-content-center'>
               {scientist.achievements[lang].map((item, idx) => (
-                <li key={idx}>{item}</li>
+                <li className='text-white p-3 text-center' style={{backgroundColor: 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} key={idx}><i class="bi bi-award-fill"></i>{item}</li>
               ))}
             </ul>
           </div>

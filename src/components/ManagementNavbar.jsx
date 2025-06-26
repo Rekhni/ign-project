@@ -17,11 +17,10 @@ export default function ManagementNavbar({ lang }) {
             <div
               className='management-tab-content mx-auto'  
               style={{
-                border: "2px solid rgb(22, 158, 255)",
+                border: "1px solid rgb(14, 106, 171)",
                 borderRadius: "20px",
                 maxHeight: '350px',
                 overflowY: 'auto',
-                boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3>
@@ -38,11 +37,10 @@ export default function ManagementNavbar({ lang }) {
             <div
               className='management-tab-content mx-auto'
               style={{
-                border: "2px solid rgb(22, 158, 255)",
+                border: "1px solid rgb(14, 106, 171)",
                 borderRadius: "20px",
                 maxHeight: '350px',
                 overflowY: 'auto',
-                boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3>
@@ -65,11 +63,10 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul>
@@ -83,9 +80,8 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul>
@@ -99,9 +95,8 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul>
@@ -115,9 +110,8 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto "
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul className='d-flex flex-wrap gap-3 justify-content-center' >
@@ -131,9 +125,8 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              border: "1px solid rgb(14, 106, 171)",
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
             }}
           >
             <ul>

@@ -100,6 +100,12 @@ export default function LabNavbar({ lang }) {
           kz: "Қ. С. Тоғызов",
           zh: "K. S. 托吉佐夫"
         }, id: 15},
+        { name: {
+          ru: "Б. Б. Тогаева",
+          en: "B. B. Togaeva",
+          kz: "Б. Б. Тогаева",
+          zh: "B. B. 托加耶娃"
+        }, id: 16},
       ]
 
       

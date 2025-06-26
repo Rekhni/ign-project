@@ -1,5 +1,5 @@
-import achieveImg1 from '../assets/achieve1.png';
-import achieveImg2 from '../assets/achieve2.png';
+import achieveImg1 from '../assets/achieve1.jpg';
+import achieveImg2 from '../assets/achieve2.jpg';
 import Contacts from '../components/Contacts';
 
 export default function ScientificAchievements({ lang }) {

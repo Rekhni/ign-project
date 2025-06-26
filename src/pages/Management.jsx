@@ -34,7 +34,7 @@ export default function Management({ lang }) {
               {/* {managementData.quotes[lang][0] !== '' ? <p className='p-3' style={{borderRadius: '30px', backgroundColor: 'rgb(239, 227, 188)'}} >{managementData.quotes[lang][0]}</p> : null} */}
             </div>
         </div>
-        <div className='d-flex  justify-content-evenly align-items-center'>
+        <div className='d-flex flex-wrap  justify-content-evenly align-items-center'>
           <NavLink to="https://www.scopus.com/authid/detail.uri?authorId=57211373829"><img height={30} width={100} src={scopusLogo} alt="scopus-logo" /></NavLink>
           <NavLink to="https://scholar.google.ru/citations?hl=ru&user=rGBK2noAAAAJ"><img height={40} width={180} src={googleScholarLogo} alt="google-scholar-logo" /></NavLink>
           <NavLink to="https://www.webofscience.com/wos/author/record/AAC-2784-2020"><img height={50} width={200} src={clarivateLogo} alt="clarivate-logo" /></NavLink>

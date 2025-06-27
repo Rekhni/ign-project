@@ -375,5 +375,13 @@
         "哈萨克斯坦共和国国家矿产资源科学院主席团成员"
       ]
     },
-    "image": "/syzdykov.webp"
+    "image": "/syzdykov.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57211373829", "30", "100"],
+        ["/assets/clarivate.png", "https://www.webofscience.com/wos/author/record/AAC-2784-2020", "50", "190"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=rGBK2noAAAAJ", "35", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?authorid=446781", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/profile/Askar-Syzdykov", "25", "135"],
+        ["/assets/linkedin.png", "https://www.linkedin.com/in/%D0%B0%D1%81%D0%BA%D0%B0%D1%80-%D1%81%D1%8B%D0%B7%D0%B4%D1%8B%D0%BA%D0%BE%D0%B2-512259220", "70", "120"]
+    ]
 }

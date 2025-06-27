@@ -246,7 +246,14 @@
           "/scientists/zholtaev3.webp",
           "/scientists/zholtaev4.webp"
       ],
-      "image": "/scientists/zholtaev4.webp"
+      "image": "/scientists/zholtaev4.webp",
+      "scientificLogos": [
+          ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57112610200", "30", "100"],
+          ["/assets/clarivate.png", "#", "50", "200"],
+          ["/assets/google-scholar.png", "#", "40", "180"],
+          ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1081528", "30", "130"],
+          ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/G-Zholtaev-2315159810", "30", "130"]
+      ]
     },
   {
     "id": 2,
@@ -455,7 +462,14 @@
       "/scientists/ozdoev1.webp",
       "/scientists/ozdoev2.jpg" 
     ],
-    "image": "/scientists/ozdoev1.webp"
+    "image": "/scientists/ozdoev1.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57195382978", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "#", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082983&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/SM-Ozdoev-2199642502?_sg=gGyX7Vzp2AahcDKNAboCSCLoKvf-phLzEsZPQQE_LzNniTQCMqOwLZuB5F6FSNXAklPBf9DDpEI9dfM&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ", "30", "130"]
+    ]
   },
   {
     "id": 3,
@@ -727,7 +741,14 @@
       "/scientists/seitmuratova2.webp",
       "/scientists/seitmuratova.webp"
     ],
-    "image": "/scientists/seitmuratova1-2.webp"
+    "image": "/scientists/seitmuratova1-2.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=15731891400", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=0x52MvAAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1081276&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/profile/Eleonora-Seitmuratova", "30", "130"]
+    ]
   },
   {
     "id": 4,
@@ -916,7 +937,14 @@
       "/scientists/bekenova3.webp",
       "/scientists/bekenova4.webp"
     ],
-    "image": "/scientists/bekenova3.webp"
+    "image": "/scientists/bekenova3.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=6507088843", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=Fp_c96sAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=271683&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Galiya-K-Bekenova-2250077229", "30", "130"]
+    ]
   },
     {
     "id": 5,
@@ -1117,7 +1145,14 @@
       "/scientists/zhaimina4.webp",
       "/scientists/zhaimina5.webp"
     ],
-    "image": "/scientists/zhaimina5.webp"
+    "image": "/scientists/zhaimina5.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=56369762900", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=68NTBP8AAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/V-Zhaimina-2307248440", "30", "130"]
+    ]
   },
    {
     "id": 6,
@@ -1367,7 +1402,14 @@
       "/scientists/nigmatova1.webp",
       "/scientists/nigmatova2.webp"
     ],
-    "image": "/scientists/nigmatova2.webp"
+    "image": "/scientists/nigmatova2.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57191502683", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=urj_pvsAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082276&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/profile/Saida-Nigmatova", "30", "130"]
+    ]
   },
     {
     "id": 7,
@@ -1585,7 +1627,14 @@
       "/scientists/antonenko2.webp",
       "/scientists/antonenko4.webp"
     ],
-    "image": "/scientists/antonenko4.webp"
+    "image": "/scientists/antonenko4.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57191839822", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=zJAkKXsAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1082509", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Anatoliy-Antonenko-2186690666", "30", "130"]
+    ]
   },
  
   {
@@ -1746,7 +1795,14 @@
       "/scientists/zhukov2.webp",
       "/scientists/zhukov3.png"
     ],
-    "image": "/scientists/zhukov3.png"
+    "image": "/scientists/zhukov3.png",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57191842822", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=hbkPXfYAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082739&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Nikolai-Zhukov-2311357629", "30", "130"]
+    ]
   },
   {
     "id": 9,
@@ -1860,7 +1916,14 @@
       "/scientists/glagolev.jpg",
       "/scientists/glagolev1.webp"
     ],
-    "image": "/scientists/glagolev1.webp"
+    "image": "/scientists/glagolev1.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=55301229700", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=SL3PA3YAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1083149&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 10,
@@ -2027,7 +2090,14 @@
       "/scientists/levin2.jpg",
       "/scientists/levin3.jpg"
     ],
-    "image": "/scientists/levin2.jpg"
+    "image": "/scientists/levin2.jpg",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=55061870600", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=dXfpXvYAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1105223&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 11,
@@ -2172,7 +2242,14 @@
     "media": [
       "/scientists/goryaeva1.webp"
     ],
-    "image": "/scientists/goryaeva.webp"
+    "image": "/scientists/goryaeva.webp",
+    "scientificLogos": [
+      ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57191835039", "30", "100"],
+      ["/assets/clarivate.png", "#", "50", "200"],
+      ["/assets/google-scholar.png", "#", "40", "180"],
+      ["/assets/library-ru.png", "#", "30", "130"],
+      ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 12,
@@ -2332,7 +2409,14 @@
       "/scientists/pirogova3.webp",
       "/scientists/pirogova4.webp"
     ],
-    "image": "/scientists/pirogova1.webp"
+    "image": "/scientists/pirogova1.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57194506445", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=s9KZDrIAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 13,
@@ -2486,7 +2570,14 @@
       "/scientists/nikitina1.webp",
       "/scientists/nikitina2.webp"
     ],
-    "image": "/scientists/nikitina1.webp"
+    "image": "/scientists/nikitina1.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "#", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "#", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 14,
@@ -2699,7 +2790,14 @@
       "/scientists/umarbekova3.webp",
       "/scientists/umarbekova4.webp"
     ],
-    "image": "/scientists/umarbekova1.webp"
+    "image": "/scientists/umarbekova1.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57194072569", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=d5-Vp0YAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 15,
@@ -2976,7 +3074,14 @@
       "/scientists/togizov2.webp",
       "/scientists/togizov3.webp"
     ],
-    "image": "/scientists/togizov3.webp"
+    "image": "/scientists/togizov3.webp",
+    "scientificLogos": [
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57116515900", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=4SYaHzoAAAAJ", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   },
   {
     "id": 16,
@@ -3144,6 +3249,13 @@
       "/scientists/togaeva3.jpg",
       "/scientists/togaeva4.jpg"
     ],
-    "image": "/scientists/togaeva3.jpg"
+    "image": "/scientists/togaeva3.jpg",
+    "scientificLogos": [
+        ["/assets/scopus.png", "#", "30", "100"],
+        ["/assets/clarivate.png", "#", "50", "200"],
+        ["/assets/google-scholar.png", "#", "40", "180"],
+        ["/assets/library-ru.png", "#", "30", "130"],
+        ["/assets/research-gate.png", "#", "30", "130"]
+    ]
   }
 ]

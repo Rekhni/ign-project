@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom';
 import scientistsData from '../scientistsData.json'
 import Contacts from '../components/Contacts';
 import ScientistNavbar from '../components/ScientistNavbar';
+import { NavLink } from 'react-bootstrap';
 
 
 export default function ScientistDetail({ lang }) {
@@ -34,6 +35,13 @@ export default function ScientistDetail({ lang }) {
                 </>
               ) : null}
             </div>  
+        </div>
+        <div className='d-flex flex-wrap justify-content-evenly'>
+          {scientist.scientificLogos.map(([logoPath, link, height, width], idx) => (
+            <a key={idx} href={link} target="_blank" rel="noopener noreferrer">
+              <img src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
+            </a>
+          ))}
         </div>
         <ScientistNavbar lang={lang}/>
         <hr className='text-white my-0 mx-auto' style={{ height: '1px' }}/>

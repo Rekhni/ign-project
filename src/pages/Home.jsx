@@ -38,7 +38,7 @@ export default function Home({ lang }) {
               }}
             ></div>
             <p
-              className="logo-text text-white w-75 z-2"
+              className="logo-text text-white w-100 z-2"
               style={{
                 marginLeft: "15px",
                 fontSize: "clamp(14px, 4vw, 20px)",
@@ -46,7 +46,7 @@ export default function Home({ lang }) {
               }}
             >
               {t(
-                "Институт геологических наук им. К. И. Сатпаева",
+                "Институт геологических наук имени К. И. Сатпаева",
                 "Kanysh Satpayev Institute of geological sciences",
                 "Қ.И.Сәтбаев атындағы Геологиялық ғылымдар институты",
                 "萨特帕耶夫地质科学研究所"

@@ -1,4 +1,4 @@
-import{j as e,a as c,T as h,b as o,N as r,C as m}from"./index-Bw_HGABe.js";const p={ru:"Сыздыков Аскар Хамзаевич",en:"Syzdykov Askar Khamzaevich",kz:"Сыздыков Асқар Хамзаұлы",zh:"阿斯卡尔·哈姆扎耶维奇·西兹季科夫"},f={ru:"Директор ТОО «Институт геологических наук им. К. И. Сатпаева»",en:"Director of LLP 'Satpayev Institute of Geological Sciences'",kz:"К. И. Сәтбаев атындағы Геологиялық ғылымдар институты ЖШС директоры",zh:"萨特帕耶夫地质科学研究所有限责任公司所长"},g={ru:` Кандидат технических наук
+import{j as e,a as c,T as h,b as o,N as r,C as m}from"./index-C8Lj-oHq.js";const p={ru:"Сыздыков Аскар Хамзаевич",en:"Syzdykov Askar Khamzaevich",kz:"Сыздыков Асқар Хамзаұлы",zh:"阿斯卡尔·哈姆扎耶维奇·西兹季科夫"},f={ru:"Директор ТОО «Институт геологических наук им. К. И. Сатпаева»",en:"Director of LLP 'Satpayev Institute of Geological Sciences'",kz:"К. И. Сәтбаев атындағы Геологиялық ғылымдар институты ЖШС директоры",zh:"萨特帕耶夫地质科学研究所有限责任公司所长"},g={ru:` Кандидат технических наук
 Старший научный сотрудник`,en:`Candidate of Technical Sciences
 Senior Researcher`,kz:`Техника ғылымдарының кандидаты
 Аға ғылыми қызметкер`,zh:`技术科学副博士

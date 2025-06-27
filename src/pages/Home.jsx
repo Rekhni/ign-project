@@ -25,7 +25,7 @@ export default function Home({ lang }) {
               src={logo}
               alt=""
               className="z-2 m-0 hero-image-logo"
-              height="200"
+              height="150"
               style={{ color: "white", paddingRight: "30px" }}
             />
             <div

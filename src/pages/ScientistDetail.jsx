@@ -37,11 +37,15 @@ export default function ScientistDetail({ lang }) {
             </div>  
         </div>
         <div className='d-flex flex-wrap justify-content-evenly'>
-          {scientist.scientificLogos.map(([logoPath, link, height, width], idx) => (
-            <a key={idx} href={link} target="_blank" rel="noopener noreferrer">
-              <img src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
-            </a>
-          ))}
+          {scientist.scientificLogos.map(([logoPath, link, height, width], idx) => {
+            if (link === "#") return null; // Skip if link is "#"
+            
+            return (
+              <a key={idx} href={link} target="_blank" rel="noopener noreferrer">
+                <img src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
+              </a>
+            );
+          })}
         </div>
         <ScientistNavbar lang={lang}/>
         <hr className='text-white my-0 mx-auto' style={{ height: '1px' }}/>

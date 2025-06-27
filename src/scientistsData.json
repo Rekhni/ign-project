@@ -192,7 +192,7 @@
       },
       "achievements": {
         "ru": [
-          "Почетный разведчик недр Казахстана",
+          "Заслуженный геолог Республики Казахстан",
           "Отличник нефтяной промышленности СССР",
           "Лауреат Национальной премии «Золотой Прометей»",
           "Лауреат Государственной премии РК (2015 г.)",
@@ -460,9 +460,10 @@
     },
     "media": [
       "/scientists/ozdoev1.webp",
-      "/scientists/ozdoev2.jpg" 
+      "/scientists/ozdoev2.jpg",
+      "/scientists/ozdoev3.png" 
     ],
-    "image": "/scientists/ozdoev1.webp",
+    "image": "/scientists/ozdoev3.png",
     "scientificLogos": [
         ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57195382978", "30", "100"],
         ["/assets/clarivate.png", "#", "50", "200"],

@@ -480,7 +480,7 @@
       "zh": "E. Y. 赛特穆拉托娃"
     },
     "title": {
-      "ru": "Доктор геолого-минералогических наук,академик НАН РК",
+      "ru": "Доктор геолого-минералогических наук, академик НАН РК",
       "en": "Doctor of Geological and Mineralogical Sciences, Academician of the National Academy of Sciences of the Republic of Kazakhstan",
       "kz": "геология-минералогия ғылымдарының докторы, ҚР ҰҒА академигі",
       "zh": "地质矿物学博士，哈萨克斯坦共和国国家科学院院士"
@@ -2572,11 +2572,11 @@
     ],
     "image": "/scientists/nikitina1.webp",
     "scientificLogos": [
-        ["/assets/scopus.png", "#", "30", "100"],
+        ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=9244004200", "30", "100"],
         ["/assets/clarivate.png", "#", "50", "200"],
-        ["/assets/google-scholar.png", "#", "40", "180"],
+        ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=yKoMkRgAAAAJ", "40", "180"],
         ["/assets/library-ru.png", "#", "30", "130"],
-        ["/assets/research-gate.png", "#", "30", "130"]
+        ["/assets/research-gate.png", "https://www.researchgate.net/profile/O-Nikitina", "30", "130"]
     ]
   },
   {
@@ -2795,8 +2795,8 @@
         ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57194072569", "30", "100"],
         ["/assets/clarivate.png", "#", "50", "200"],
         ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=d5-Vp0YAAAAJ", "40", "180"],
-        ["/assets/library-ru.png", "#", "30", "130"],
-        ["/assets/research-gate.png", "#", "30", "130"]
+        ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1130675&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Z-Umarbekova-2263358699", "30", "130"]
     ]
   },
   {
@@ -3079,8 +3079,8 @@
         ["/assets/scopus.png", "https://www.scopus.com/authid/detail.uri?authorId=57116515900", "30", "100"],
         ["/assets/clarivate.png", "#", "50", "200"],
         ["/assets/google-scholar.png", "https://scholar.google.ru/citations?hl=ru&user=4SYaHzoAAAAJ", "40", "180"],
-        ["/assets/library-ru.png", "#", "30", "130"],
-        ["/assets/research-gate.png", "#", "30", "130"]
+        ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1082072", "30", "130"],
+        ["/assets/research-gate.png", "https://www.researchgate.net/profile/Kuanysh-Togizov", "30", "130"]
     ]
   },
   {

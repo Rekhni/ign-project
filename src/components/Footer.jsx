@@ -5,7 +5,7 @@ export default function Footer({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
         <div className='footer-content d-lg-flex justify-content-between align-items-center p-3' style={{backgroundColor: 'rgb(0, 53, 118)', padding: '0 30px', fontFamily: 'Montserrat'}}>
-            <img className='footer-logo' src={smallLogo} alt="small-logo" height="150"/>
+            <img loading="lazy" className='footer-logo' src={smallLogo} alt="small-logo" height="150"/>
             <p className='footer-text text-white fw-bold'>
                 {t('Институт геологических наук им. К. И. Сатпаева',
                     'Satpayev Institute of geological sciences',

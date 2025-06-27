@@ -92,10 +92,10 @@ export default function AboutUsNavbar({ lang }) {
               <p>{aboutUsData.satpaevHistory[lang][0]}</p>
               <p>{aboutUsData.satpaevHistory[lang][1]}</p>
             </div>
-            <img className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[0].slice(1)}`}   alt="" />
+            <img loading="lazy" className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[0].slice(1)}`}   alt="" />
           </div>
           <div className='founder-content d-flex gap-3 p-3'>
-            <img className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[1].slice(1)}`}   alt="" />
+            <img loading="lazy" className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[1].slice(1)}`}   alt="" />
             <div className='founder-text mx-auto'>
               <p>{aboutUsData.satpaevHistory[lang][2]}</p>
               <p>{aboutUsData.satpaevHistory[lang][3]}</p>
@@ -106,10 +106,10 @@ export default function AboutUsNavbar({ lang }) {
               <p>{aboutUsData.satpaevHistory[lang][4]}</p>
               <p>{aboutUsData.satpaevHistory[lang][5]}</p>
             </div>
-            <img className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[2].slice(1)}`}   alt="" />
+            <img loading="lazy" className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[2].slice(1)}`}   alt="" />
           </div>
           <div className='founder-content d-flex gap-3 p-3'>
-            <img className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[3].slice(1)}`}   alt="" />
+            <img loading="lazy" className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[3].slice(1)}`}   alt="" />
             <div className='founder-text mx-auto'>
               <p>{aboutUsData.satpaevHistory[lang][6]}</p>
               <p>{aboutUsData.satpaevHistory[lang][7]}</p>
@@ -120,7 +120,7 @@ export default function AboutUsNavbar({ lang }) {
               <p>{aboutUsData.satpaevHistory[lang][8]}</p>
               <p>{aboutUsData.satpaevHistory[lang][9]}</p>
             </div>
-            <img className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[4].slice(1)}`}   alt="" />
+            <img loading="lazy" className='mx-auto' height="200" width="200" style={{ borderRadius: '80px' }} src={`${import.meta.env.BASE_URL}${aboutUsData.images[4].slice(1)}`}   alt="" />
           </div>
           </div>
         </Tab>

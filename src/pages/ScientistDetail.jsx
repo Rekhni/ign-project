@@ -14,7 +14,7 @@ export default function ScientistDetail({ lang }) {
         <div className="d-lg-flex w-75 mx-auto justify-content-center" style={{ padding: "30px 0", gap: '30px' }}>
             <div className='text-center'>
               
-              <img src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} alt={scientist.name} height="300" className='rounded scientist-image'/>
+              <img loading="lazy" src={`${import.meta.env.BASE_URL}${scientist.image.slice(1)}`} alt={scientist.name} height="300" className='rounded scientist-image'/>
             </div>
             <div className="scientist-descr w-100 w-lg-50">
               <h1>{scientist.name[lang]}</h1>
@@ -42,7 +42,7 @@ export default function ScientistDetail({ lang }) {
             
             return (
               <a key={idx} href={link} target="_blank" rel="noopener noreferrer">
-                <img src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
+                <img loading="lazy" src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
               </a>
             );
           })}

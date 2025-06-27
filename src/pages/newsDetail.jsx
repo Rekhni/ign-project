@@ -30,7 +30,8 @@ export default function NewsDetail({ lang }) {
                 className={`carousel-item ${index === 0 ? 'active' : ''}`}
                 key={index}
               >
-                <img
+                <img 
+                  loading="lazy"
                   src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
                   className="d-block mx-auto w-75 h-75"
                   alt={`news-${index}`}

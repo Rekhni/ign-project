@@ -87,7 +87,7 @@ export default function ScientificAchievements({ lang }) {
         </ul>
         <div className="d-lg-flex justify-content-center w-75 mx-auto text-center">
           <div>
-            <img className='achieve-img' src={achieveImg1} alt="achieve-img-1" height="400" />
+            <img loading="lazy" className='achieve-img' src={achieveImg1} alt="achieve-img-1" height="400" />
             <p className="w-75 mx-auto mt-3" style={{ fontSize: "15px" }}>
               {t(
                 "Минерагеническая карта Казахстана (палеозой) в 2009 году была удостоена Государственной премии Республики Казахстан.",
@@ -101,7 +101,7 @@ export default function ScientificAchievements({ lang }) {
             </p>
           </div>
           <div>
-            <img className='achieve-img' src={achieveImg2} alt="achieve-img-2" height="400" />
+            <img loading="lazy" className='achieve-img' src={achieveImg2} alt="achieve-img-2" height="400" />
             <p className="w-75 mx-auto mt-3" style={{ fontSize: "15px" }}>
               {t(
                 "Составлена Минерагеническая карта мезозой-кайнозойского чехла Казахстана в масштабе 1:1 000 000 (на трех языках).",

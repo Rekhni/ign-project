@@ -19,7 +19,7 @@ export default function Partners({ lang }) {
             </div>
             <div className='d-flex flex-wrap justify-content-evenly w-75 gap-3 mx-auto' style={{ paddingBottom: '30px' }}>
                 {partnersData.logos.map((logo) => (
-                    <img src={`${import.meta.env.BASE_URL}${logo.slice(1)}`} height="150" alt="" />
+                    <img loading="lazy" src={`${import.meta.env.BASE_URL}${logo.slice(1)}`} height="150" alt="" />
                 ))}
             </div>
             <hr className='text-dark my-0 mx-auto' style={{ height: '1px' }}/>

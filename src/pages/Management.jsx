@@ -11,7 +11,7 @@ export default function Management({ lang }) {
         <div className="d-lg-flex w-75 mx-auto justify-content-center" style={{ paddingTop: "30px", gap: '30px' }}>
             <div className='text-center'>
               
-              <img src={`${import.meta.env.BASE_URL}${managementData.image.slice(1)}`} alt={managementData.name} height="300" className='rounded'/>
+              <img loading="lazy" src={`${import.meta.env.BASE_URL}${managementData.image.slice(1)}`} alt={managementData.name} height="300" className='rounded'/>
             </div>
             <div className="management-descr w-lg-50">
               <h1>{managementData.name[lang]}</h1>
@@ -35,7 +35,7 @@ export default function Management({ lang }) {
             
             return (
               <a key={idx} href={link} target="_blank" rel="noopener noreferrer">
-                <img src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
+                <img loading="lazy" src={`${import.meta.env.BASE_URL}${logoPath.slice(1)}`} height={height} width={width} alt="" />
               </a>
             );
           })}

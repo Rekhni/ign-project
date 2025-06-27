@@ -22,6 +22,7 @@ export default function Home({ lang }) {
             style={{ fontFamily: "Montserrat" }}
           >
             <img
+              loading="lazy"
               src={logo}
               alt=""
               className="z-2 m-0 hero-image-logo"
@@ -64,7 +65,7 @@ export default function Home({ lang }) {
           <div></div>
         </div>
         <div style={{ position: 'relative' }}>
-              <img src={mainBgImg} alt="main-img"  className='w-100'/>
+              <img loading="lazy" src={mainBgImg} alt="main-img"  className='w-100'/>
                 <div
                   className='main-img-overlay'
                   style={{

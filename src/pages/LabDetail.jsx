@@ -43,7 +43,7 @@ export default function LabDetail({ lang }) {
                         <p className='lab-slogan'>{lab.slogan[lang]}</p>
                         <br/>
                     </div>
-                    <img className='lab-scientist-img' style={{borderRadius: '50%'}} src={`${import.meta.env.BASE_URL}${lab.image.slice(1)}`} height={300}  alt="img-lab" />
+                    <img loading="lazy" className='lab-scientist-img' style={{borderRadius: '50%'}} src={`${import.meta.env.BASE_URL}${lab.image.slice(1)}`} height={300}  alt="img-lab" />
                 </div>
             </div>
             <div className='w-100 mx-auto'>

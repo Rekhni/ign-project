@@ -34,7 +34,7 @@ export default function InstituteStructure({ lang }) {
                     </h1>
                     <hr className="bg-white" style={{ height: '5px', width: '25%'}}/>
                 </div>
-                <img className='w-75 mx-auto' src={structureImage} alt="inst-structure" style={{ marginTop: '30px' }}/>
+                <img loading="lazy" className='w-75 mx-auto' src={structureImage} alt="inst-structure" style={{ marginTop: '30px' }}/>
             </div>
             <hr className='text-dark my-0 mx-auto' style={{ height: '1px' }}/>
             <section id="contacts">

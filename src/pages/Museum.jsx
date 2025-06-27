@@ -69,6 +69,7 @@ export default function Museum({ lang }) {
                     {museumData[0].images.map((img, index) => (
                       <div className={`carousel-item ${index === 0 ? "active" : ""}`} key={index}>
                         <img
+                          loading="lazy"
                           src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
                           className="d-block w-100 carousel-img"
                           alt={`museum-${index}`}
@@ -126,11 +127,13 @@ export default function Museum({ lang }) {
                   )}
                 </p>
                 <img
+                  loading="lazy"
                   src={museumImgs[0]}
                   className="w-75 mx-auto rounded"
                   alt="museum-img-1"
                 />
                 <img
+                  loading="lazy"
                   src={museumImgs[1]}
                   className="w-75 mx-auto mt-3 mb-3 rounded"
                   alt="museum-img-2"

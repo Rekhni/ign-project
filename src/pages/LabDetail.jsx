@@ -15,6 +15,7 @@ export default function LabDetail({ lang }) {
                 className='d-flex w-100 w-lg-75 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
                     backgroundImage: `url(${LabImg})`,
+                    backgroundAttachment: "fixed",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     height: '500px',

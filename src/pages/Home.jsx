@@ -64,22 +64,16 @@ export default function Home({ lang }) {
           </div>
           <div></div>
         </div>
-        <div style={{ position: 'relative' }}>
-              <img loading="lazy" src={mainBgImg} alt="main-img"  className='w-100'/>
-                <div
-                  className='main-img-overlay'
-                  style={{
-                    position: 'absolute',
-                    top: 0,
-                    left: 0,
-                    width: '100%',
-                    height: '100%',
-                    backgroundColor: 'rgba(0, 21, 64, 0.5)', // dark-blue with 50% opacity
-                    zIndex: 1
-                  }}
-                ></div>
+<div
+  className='hero-fixed-section'
+  style={{
+    backgroundImage: `url(${mainBgImg})`,
+  }}
+>
+  <div className='hero-fixed-overlay'></div>
+</div>
 
-        </div>
+
         <div
           className="justify-content-center w-100 text-dark"
           style={{
@@ -207,6 +201,7 @@ export default function Home({ lang }) {
           id="form"
           style={{
             position: "relative",
+            backgroundAttachment: "fixed",
             backgroundImage: `url(${backgroundImg2})`,
             backgroundSize: "cover", // or 'contain' or specific px
             backgroundRepeat: "no-repeat",

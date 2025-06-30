@@ -5,6 +5,29 @@
   font-style: normal;
 }
 
+.hero-fixed-section {
+  background-image: url('../assets/main-bg.png'); /* You'll override this inline in JSX */
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: top;
+  position: relative;
+  height: 65vh;
+  width: 100%;
+
+}
+
+/* Overlay inside the image */
+.hero-fixed-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 21, 64, 0.5);
+  z-index: 1;
+}
+
 .navbar {
   background-color: rgba(0, 0, 0, 0.3);       /* transparent black */
   backdrop-filter: blur(12px);               /* glassy blur */
@@ -312,8 +335,11 @@ cite {
 
 @media (max-width: 576px) {
 
-.main-img {
-  height: 265px;
+.hero-fixed-section {
+  height: 250px;
+  background-attachment: scroll; /* Fixes broken image rendering on mobile */
+  background-size: cover;        /* Ensures image still fills area */
+  background-position: top;
 }
 
 

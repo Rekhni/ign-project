@@ -10,6 +10,7 @@ export default function AboutUs({ lang }) {
                 className='d-flex w-100 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
                     backgroundImage: `url(${aboutUsImg})`,
+                    backgroundAttachment: "fixed",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     height: '500px',

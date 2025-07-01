@@ -69,7 +69,9 @@ export default function NewsDetail({ lang }) {
 
       {/* Article body */}
       <div className="mx-auto w-75" style={{ fontSize: '18px', whiteSpace: 'pre-line', marginBottom: '30px' }}>
-        {newsItem.content[lang]}
+        {newsItem.content[lang].map((line, idx) => (
+          <p key={idx}>{line}</p>
+        ))}
       </div>
       <hr className='text-dark my-0 mx-auto' style={{ height: '1px' }}/>
       <section id="contacts">

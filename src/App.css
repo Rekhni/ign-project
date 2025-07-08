@@ -81,9 +81,26 @@
   outline: none;
 }
 
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; /* remove any pop-up delay/jump */
+}
+
+.nav-item:hover {
+  background-color: rgb(21, 47, 76)
+}
+
+.dropdown-item:hover {
+  background-color: rgb(21, 47, 76)
+}
+
 .nav-tabs .nav-link {
   color: black;
   font-weight: 500;
+}
+
+.nav-tabs .nav-link:hover {
+  
 }
 
 .nav-tabs .nav-link.active {
@@ -298,6 +315,10 @@ cite {
 	text-align: left;
 }
 
+.board-container {
+  width: 75%;
+}
+
 
 @media (max-width: 1024px) {
 
@@ -334,6 +355,19 @@ cite {
 
 
 @media (max-width: 576px) {
+
+.board-container {
+  width: 90%;
+  text-align: center;
+}
+
+.board-title {
+  font-size: 25px;
+}
+
+.board-chief-title, .board-members-title {
+  font-size: 20px;
+}
 
 .hero-fixed-section {
   height: 250px;

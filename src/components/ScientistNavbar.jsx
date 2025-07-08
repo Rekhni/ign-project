@@ -20,7 +20,7 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',
@@ -41,7 +41,7 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >
@@ -56,7 +56,7 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',
@@ -77,7 +77,7 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >
@@ -92,7 +92,7 @@ export default function ScientistNavbar({ lang }) {
           <div 
             className="scientist-content mt-3 mx-auto p-3"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',

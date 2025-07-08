@@ -48,26 +48,27 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
+                onClick={(e) => e.preventDefault()}
                 >{t('O нас', 'About us', 'Біз туралы', '关于我们')}
               
               </NavLink>
                 <ul className="dropdown-menu gap-3" aria-labelledby="aboutDropdown" style={{backgroundColor: 'rgb(0, 53, 118)'}}>
-                    <li><NavLink className="dropdown-item text-white" to="/about-us" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/about-us" onClick={handleLinkClick} >
                     {t('История', 'History', 'Тарих', '历史')}
                     </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/management" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/management" onClick={handleLinkClick}>
                       {t('Руководство', 'Management', 'Басшылық', '管理层')}
                       </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="#" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/supervisory-board" onClick={handleLinkClick}>
                       {t('Наблюдательный совет', 'Supervisory Board', 'Бақылау кеңесі', '监事会')}
                       </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/institute-structure" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/institute-structure" onClick={handleLinkClick}>
                       {t('Структура Института', 'Institute Structure', 'Институт құрылымы', '研究所结构')}
                       </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/scientific-achievements" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/scientific-achievements" onClick={handleLinkClick}>
                       {t('Научные достижения', 'Scientific Achievements', 'Ғылыми жетістіктер', '科学成果')}
                     </NavLink></li>
-                    <li><NavLink className="dropdown-item text-white" to="/partners" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                    <li><NavLink className="dropdown-item text-white" to="/partners" onClick={handleLinkClick}>
                       {t('Партнеры', 'Partners', 'Серіктестер', '合作伙伴')}
                       </NavLink></li>
                 </ul>
@@ -80,6 +81,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
+                onClick={(e) => e.preventDefault()}
               >
                 {t('Научный сектор', 'Scientific Sector', 'Ғылыми сектор', '科研部门')}
                 </NavLink>
@@ -94,7 +96,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
                     padding: '10px'
                   }}>
                     {labsData.map((lab) => (
-                      <li><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} onClick={handleLinkClick} style={{ backgroundColor: 'rgb(0, 53, 118)'}}>
+                      <li><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} onClick={handleLinkClick}>
                         {lab.name[lang]}
                       </NavLink></li>
                     ))}
@@ -108,6 +110,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
+                onClick={(e) => e.preventDefault()}
                 >
                     {t('Библиотека и Архив', 'Library & Archive', 'Кітапхана және мұрағат', '图书馆与档案馆')}
                 </NavLink>
@@ -117,10 +120,10 @@ export default function Navbar({ lang, onToggleLanguage }) {
                   style={{backgroundColor: 'rgb(0, 53, 118)', 
                     boxShadow: '15px 12px 5px'
                   }}>
-                   <li><NavLink className="dropdown-item text-white" to="/library" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                   <li><NavLink className="dropdown-item text-white" to="/library" onClick={handleLinkClick}>
                     {t('Библиотека', 'Library', 'Кітапхана', '图书馆')}
                     </NavLink></li>
-                   <li><NavLink className="dropdown-item text-white" to="/archive" onClick={handleLinkClick} style={{backgroundColor: 'rgb(0, 53, 118)'}}>
+                   <li><NavLink className="dropdown-item text-white" to="/archive" onClick={handleLinkClick}>
                     {t('Архив', 'Archive', 'Мұрағат', '档案馆')}
                     </NavLink></li>
                 </ul>

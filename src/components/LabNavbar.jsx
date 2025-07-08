@@ -126,9 +126,8 @@ export default function LabNavbar({ lang }) {
             <div
               className="p-3 w-100 w-lg-75 "
               style={{
-                border: "2px solid rgb(22, 158, 255)",
+                backgroundColor: 'rgb(233, 248, 253)',
                 borderRadius: "20px",
-                boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3>{t("Обзор", "Overview", "Шолу", "概览")}</h3>
@@ -141,9 +140,8 @@ export default function LabNavbar({ lang }) {
             <div
               className="p-3 h-75 w-100 w-lg-25"
               style={{
-                border: "2px solid rgb(22, 158, 255)",
+                backgroundColor: 'rgb(233, 248, 253)',
                 borderRadius: "20px",
-                boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               }}
             >
               <h3 className='mb-3 text-center'>{t('Команда', 'Team', 'Ұжым', '团队')}</h3>
@@ -179,9 +177,8 @@ export default function LabNavbar({ lang }) {
           <div
             className="mt-3 mx-auto p-3 lab-content"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
-              borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              backgroundColor: 'rgb(233, 248, 253)',
+              borderRadius: "20px"
             }}
           >
             <ul>
@@ -198,9 +195,8 @@ export default function LabNavbar({ lang }) {
           <div 
             className="mt-3 mx-auto p-3 lab-content" 
             style={{
-              border: "2px solid rgb(22, 158, 255)",
-              borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              backgroundColor: 'rgb(233, 248, 253)',
+              borderRadius: "20px"
             }}
         >
             <div>
@@ -225,9 +221,8 @@ export default function LabNavbar({ lang }) {
           <div 
             className="mt-3 mx-auto p-3 lab-content"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
-              borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
+              backgroundColor: 'rgb(233, 248, 253)',
+              borderRadius: "20px"
             }}
         >
             <p>{lab.contacts[lang]}</p>

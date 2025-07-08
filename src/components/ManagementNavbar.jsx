@@ -17,10 +17,9 @@ export default function ManagementNavbar({ lang }) {
             <div
               className='management-tab-content mx-auto'  
               style={{
-                border: "1px solid rgb(14, 106, 171)",
+                backgroundColor: 'rgb(233, 248, 253)',
                 borderRadius: "20px",
-                maxHeight: '350px',
-                overflowY: 'auto',
+
               }}
             >
               <h3>
@@ -37,10 +36,8 @@ export default function ManagementNavbar({ lang }) {
             <div
               className='management-tab-content mx-auto'
               style={{
-                border: "1px solid rgb(14, 106, 171)",
-                borderRadius: "20px",
-                maxHeight: '350px',
-                overflowY: 'auto',
+                backgroundColor: 'rgb(233, 248, 253)',
+                borderRadius: "20px"
               }}
             >
               <h3>
@@ -63,7 +60,7 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',
@@ -80,7 +77,7 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >
@@ -95,7 +92,7 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >
@@ -110,7 +107,7 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto "
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >
@@ -125,7 +122,7 @@ export default function ManagementNavbar({ lang }) {
           <div 
             className="management-tab-content mt-3 mx-auto"
             style={{
-              border: "1px solid rgb(14, 106, 171)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
             }}
           >

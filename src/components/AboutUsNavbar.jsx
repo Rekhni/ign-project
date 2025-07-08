@@ -24,9 +24,8 @@ export default function AboutUsNavbar({ lang }) {
             <div
               className="p-3 w-100 w-lg-75 "
               style={{
-                border: "2px solid rgb(22, 158, 255)",
+                backgroundColor: 'rgb(233, 248, 253)',
                 borderRadius: "20px",
-                boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
                 maxHeight: 500,
                 overflowY: 'auto'
               }}
@@ -45,9 +44,8 @@ export default function AboutUsNavbar({ lang }) {
           <div
             className="mt-3 mx-auto p-3 lab-content"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               maxHeight: 500,
               overflowY: 'auto'
             }}
@@ -80,9 +78,8 @@ export default function AboutUsNavbar({ lang }) {
           <div 
             className="mt-3 mx-auto p-3 lab-content"
             style={{
-              border: "2px solid rgb(22, 158, 255)",
+              backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
-              boxShadow: "12px 12px 2px 1px rgba(73, 153, 218, 0.2)",
               maxHeight: 500,
               overflowY: 'auto'
             }}

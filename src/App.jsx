@@ -39,7 +39,7 @@ function App() {
       <Navbar lang={language} onToggleLanguage={setLanguage}/>
       <Suspense fallback={<Spinner/>}>
         <Routes>
-          <Route path="/" element={<Home lang={language}/>} />
+          <Route path="/ign-project/" element={<Home lang={language}/>} />
           <Route path="/museum" element={<Museum lang={language}/>}/>
           <Route path='/news' element={<News lang={language}/>}/>
           <Route path='/management' element={<Management lang={language}/>}/>

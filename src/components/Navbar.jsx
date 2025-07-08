@@ -36,7 +36,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
         <div className={`collapse navbar-collapse ${!isCollapsed ? 'show' : ''}`} id="navbarNav">
           <ul className="navbar-nav ms-auto gap-4 d-flex flex-wrap justify-content-end">
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="/ign-project/" end onClick={handleLinkClick}>
+              <NavLink className="nav-link text-white" to="/" end onClick={handleLinkClick}>
               {t('Главная', 'Home', 'Басты бет', '首页')}
               </NavLink>
             </li>

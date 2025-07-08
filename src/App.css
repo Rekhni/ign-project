@@ -87,7 +87,7 @@
 }
 
 .nav-item:hover {
-  background-color: rgb(21, 47, 76)
+  background-color: rgb(21, 47, 76);
 }
 
 .dropdown-item:hover {
@@ -100,8 +100,9 @@
 }
 
 .nav-tabs .nav-link:hover {
-  
+  color: white;
 }
+
 
 .nav-tabs .nav-link.active {
   color: #0056b3;

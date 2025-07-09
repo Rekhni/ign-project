@@ -8,6 +8,12 @@ export default function ScientistNavbar({ lang }) {
     const scientist = scientistsData.find((item) => item.id.toString() === id);
     const quotes = scientist.quotes[lang].slice(1);
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
+
+    const getFileUrl = (path) => {
+      return path.startsWith('http')
+        ? path
+        : `${import.meta.env.BASE_URL}${path}`;
+    };
   return (
     <Container className="my-4">
       <Tabs 
@@ -153,6 +159,36 @@ export default function ScientistNavbar({ lang }) {
             </div>
           </div>
         </Tab>
+        {scientist.application && (
+          <Tab eventKey="files" title={`${t('Файлы', 'Files', 'Файлдар', '奖项')}`}>
+            <div 
+              className="scientist-content mt-3 mx-auto p-3"
+              style={{
+                backgroundColor: 'rgb(233, 248, 253)',
+                borderRadius: "20px",
+                overflowY: 'auto',
+                paddingRight: '10px'
+              }}
+            >
+              <h3>Приложение</h3>
+              <iframe
+                src={getFileUrl(scientist.application)}
+                width="100%"
+                height="600px"
+                style={{ border: '1px solid #ccc', borderRadius: '8px' }}
+                title="Application PDF"
+              />
+              <h3>Справка</h3>
+              <iframe
+                src={getFileUrl(scientist.report)}
+                width="100%"
+                height="600px"
+                style={{ border: '1px solid #ccc', borderRadius: '8px' }}
+                title="Application PDF"
+              />
+            </div> 
+          </Tab>
+        )}
       </Tabs>
     </Container>
   );

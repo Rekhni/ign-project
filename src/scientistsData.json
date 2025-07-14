@@ -1421,8 +1421,8 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082276&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/Saida-Nigmatova", "25", "135"]
     ],
-    "application": "files/приложение 2 Нигматова.pdf",
-    "report": "files/справка Нигматовой.pdf"
+    "application": "files/Приложение 2 Нигматова.pdf",
+    "report": "files/Справка Нигматовой.pdf"
   },
     {
     "id": 7,

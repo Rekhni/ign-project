@@ -12,27 +12,8 @@ export default function ManagementNavbar({ lang }) {
         className="w-75 mx-auto border-0 justify-content-evenly"
         style={{color: 'black'}}
      >
-        <Tab eventKey="overview" title={`${t('Обзор', 'Overview', 'Шолу', '概览')}`}>
+        <Tab eventKey="overview" title={`${t('Профессиональная Биография / Образование', 'Professional Biography / Education', 'Биография', '全部历史')}`}>
           <div className="d-flex flex-column mt-3 mx-auto" style={{ gap: '30px' }} >
-            <div
-              className='management-tab-content mx-auto'  
-              style={{
-                backgroundColor: 'rgb(233, 248, 253)',
-                borderRadius: "20px",
-
-              }}
-            >
-              <h3>
-                <strong>
-                  {t('Краткая история', 'Short history', 'Қысқаша тарих', '简史')}
-                </strong>
-              </h3>
-              {managementData.review.shortBio[lang].map((line, idx) => (
-                line.includes(':') 
-                  ?  <p style={{ fontFamily: 'Montserrat' }} key={idx} dangerouslySetInnerHTML={{ __html: `<strong>${line}</strong>` }}/>
-                  : <p style={{ fontFamily: 'Montserrat' }} key={idx} dangerouslySetInnerHTML={{ __html: line }}/>
-              ))}   
-            </div>
             <div
               className='management-tab-content mx-auto'
               style={{
@@ -40,19 +21,11 @@ export default function ManagementNavbar({ lang }) {
                 borderRadius: "20px"
               }}
             >
-              <h3>
-                <strong>
-                {t('Полная история', 'Full history', 'Толық тарих', '全部历史')}
-              </strong>
-              </h3>
               {managementData.review.bigBio[lang].map((line, idx) => (
                 line.includes(':') 
                   ? <p key={idx} style={{ fontFamily: 'Montserrat' }} dangerouslySetInnerHTML={{ __html: `<strong>${line}</strong>` }}/> 
                   : <p key={idx} style={{ fontFamily: 'Montserrat' }} dangerouslySetInnerHTML={{ __html: line }}/>
               ))}    
-                {managementData.moreInfo[lang].map((item, idx) => (
-                <p key={idx} dangerouslySetInnerHTML={{ __html: item }} />
-              ))}
             </div>
           </div>
         </Tab>

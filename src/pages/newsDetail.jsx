@@ -22,50 +22,55 @@ export default function NewsDetail({ lang }) {
       </div>
 
       {/* Bootstrap carousel */}
-      {newsItem.images?.length > 0 && (
-        <div id="newsImageCarousel" className="carousel slide mb-5 mx-auto" data-bs-ride="carousel" style={{ width: '90%' }}>
-          <div className="carousel-inner rounded shadow">
-            {newsItem.images.map((img, index) => (
-              <div
-                className={`carousel-item ${index === 0 ? 'active' : ''}`}
-                key={index}
-              >
-                <img 
-                  loading="lazy"
-                  src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
-                  className="d-block mx-auto w-75 h-75"
-                  alt={`news-${index}`}
-                  style={{ height: '480px', objectFit: 'cover' }}
-                />
-              </div>
-            ))}
-          </div>
+{newsItem.images?.length > 0 && (
+  <div id="newsImageCarousel" className="carousel slide mb-5 mx-auto" data-bs-ride="carousel" style={{ width: '90%' }}>
+    <div className="carousel-inner">
+      {newsItem.images.map((img, index) => (
+        <div
+          className={`carousel-item ${index === 0 ? 'active' : ''}`}
+          key={index}
+          style={{ position: 'relative' }}
+        >
+          <img
+            loading="lazy"
+            src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
+            className="d-block mx-auto w-100"
+            alt={`news-${index}`}
+            style={{ height: '480px', objectFit: 'cover' }}
+          />
 
-          {/* Controls */}
-          {newsItem.images.length > 1 && (
-            <>
-              <button
-                className="carousel-control-prev"
-                type="button"
-                data-bs-target="#newsImageCarousel"
-                data-bs-slide="prev"
-              >
-                <span className="carousel-control-prev-icon" aria-hidden="true" />
-                <span className="visually-hidden">Previous</span>
-              </button>
-              <button
-                className="carousel-control-next"
-                type="button"
-                data-bs-target="#newsImageCarousel"
-                data-bs-slide="next"
-              >
-                <span className="carousel-control-next-icon" aria-hidden="true" />
-                <span className="visually-hidden">Next</span>
-              </button>
-            </>
-          )}
+          {/* Dark overlay */}
+          <div
+            className="position-absolute top-0 start-0 w-100 h-100"
+            style={{ backgroundColor: 'rgba(0,0,0,0.5)', pointerEvents: 'none', zIndex: 1 }}
+          />
+
+          {/* Caption (optional) */}
+          <div className="carousel-caption d-flex flex-column justify-content-end" style={{ zIndex: 2 }}>
+            <h5 className="fw-bold" style={{ fontSize: '28px' }}>
+              {newsItem.title[lang]}
+            </h5>
+          </div>
         </div>
-      )}
+      ))}
+    </div>
+
+    {/* Controls */}
+    {newsItem.images.length > 1 && (
+      <>
+        <button className="carousel-control-prev" type="button" data-bs-target="#newsImageCarousel" data-bs-slide="prev">
+          <span className="carousel-control-prev-icon" aria-hidden="true" />
+          <span className="visually-hidden">Previous</span>
+        </button>
+        <button className="carousel-control-next" type="button" data-bs-target="#newsImageCarousel" data-bs-slide="next">
+          <span className="carousel-control-next-icon" aria-hidden="true" />
+          <span className="visually-hidden">Next</span>
+        </button>
+      </>
+    )}
+  </div>
+)}
+
 
       {newsItem.videos && (
           <div className="video-section  w-75 mx-auto" style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', justifyContent: 'center', marginTop: '30px', marginBottom: '40px' }}>

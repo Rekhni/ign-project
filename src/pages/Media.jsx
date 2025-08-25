@@ -30,6 +30,15 @@ export default function Media({ lang }) {
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                 ></iframe>
+                <iframe
+                    width="500"
+                    height="300"
+                    src="https://www.youtube.com/embed/dV7cyCanUIk"
+                    title="YouTube video"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                ></iframe>
             </div>
             <hr className="bg-dark my-0 mx-auto" style={{ height: '2px', width: '100%' }}/>
             <section id="contacts">

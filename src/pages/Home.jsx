@@ -7,6 +7,7 @@ import PartnersSlider from '../components/PartnersSlider.jsx';
 import partnersData from '../partnersData.json';
 import mainBgImg from '../assets/main-bg.png';
 import newsData from '../newsData.json';
+import { Link } from 'react-router-dom';
 export default function Home({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
@@ -90,7 +91,7 @@ export default function Home({ lang }) {
           >
             {/* Image */}
 
-            <a href="/news/1">
+            <Link to={`/news/1`} className="d-block position-relative w-100 h-100" style={{ textDecoration: "none", color: "inherit" }}>
               <img
                 loading="lazy"
                 src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
@@ -112,7 +113,7 @@ export default function Home({ lang }) {
                 "«Философиялық тас»: KAZ Minerals қолдауымен Геология ғылымдары институтында өткен интеллектуалдық квест",
                 "“哲学之石”：在KAZ Minerals支持下于地质科学研究所举办的智力探险")}</h5>
             </div>
-            </a>
+            </Link>
           </div>
         ))}
       </div>

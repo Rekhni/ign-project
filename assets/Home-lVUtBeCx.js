@@ -1,4 +1,4 @@
-import{r as it,j as l,L as st,N as L,C as at}from"./index-CQnXgHvb.js";import{s as ot}from"./logo-Bb-ZKjfQ.js";import{p as ut}from"./partnersData-e1j_7rhw.js";import{n as B}from"./newsData-CPtDf9KT.js";const ct="/assets/bg-img5-O9yKKoAS.png";/*!
+import{r as it,j as l,L as st,N as L,C as at}from"./index-Cor4Tz2y.js";import{s as ot}from"./logo-Bb-ZKjfQ.js";import{p as ut}from"./partnersData-e1j_7rhw.js";import{n as B}from"./newsData-CPtDf9KT.js";const ct="/assets/bg-img5-O9yKKoAS.png";/*!
  * Glide.js v3.7.1
  * (c) 2013-2024 Jędrzej Chałubek (https://github.com/jedrzejchalubek/)
  * Released under the MIT License.

@@ -66,14 +66,14 @@ export default function Home({ lang }) {
           </div>
           <div></div>
         </div>
-<div
+{/* <div
   className='hero-fixed-section'
   style={{
     backgroundImage: `url(${mainBgImg})`,
   }}
 >
   <div className='hero-fixed-overlay'></div>
-</div>
+</div> */}
 
 <div>
   {newsData[0].images?.length > 0 && (

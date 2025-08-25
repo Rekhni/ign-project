@@ -6,6 +6,7 @@ import { NavLink } from 'react-router-dom';
 import PartnersSlider from '../components/PartnersSlider.jsx';
 import partnersData from '../partnersData.json';
 import mainBgImg from '../assets/main-bg.png';
+import newsData from '../newsData.json';
 export default function Home({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
@@ -72,6 +73,77 @@ export default function Home({ lang }) {
 >
   <div className='hero-fixed-overlay'></div>
 </div>
+
+<div>
+  {newsData[0].images?.length > 0 && (
+    <div
+      id="newsImageCarousel"
+      className="carousel slide mx-auto"
+      data-bs-ride="carousel"
+      style={{ width: "100%" }}
+    >
+      <div className="carousel-inner shadow">
+        {newsData[0].images.map((img, index) => (
+          <div
+            className={`carousel-item ${index === 0 ? "active" : ""}`}
+            key={index}
+          >
+            {/* Image */}
+
+            <a href="/news/1" target="_blank" rel="noopener noreferrer">
+              <img
+                loading="lazy"
+                src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
+                className="d-block w-100"
+                alt={`news-${index}`}
+                style={{ height: "480px", objectFit: "cover" }}
+              />
+            {/* Dark overlay */}
+            <div
+              className="position-absolute top-0 start-0 w-100 h-100"
+              style={{ backgroundColor: "rgba(0, 0, 0, 0.5)" }}
+            ></div>
+
+            {/* Caption */}
+            <div className="carousel-caption d-flex flex-column justify-content-center" >
+              <h5 style={{ fontSize: "40px" }}>{t(
+                "«Философский Камень»: интеллектуальный квест в Институте геологических наук с поддержкой KAZ Minerals", 
+                "«Philosopher’s Stone»: An Intellectual Quest at the Institute of Geological Sciences with the Support of KAZ Minerals",
+                "«Философиялық тас»: KAZ Minerals қолдауымен Геология ғылымдары институтында өткен интеллектуалдық квест",
+                "“哲学之石”：在KAZ Minerals支持下于地质科学研究所举办的智力探险")}</h5>
+            </div>
+            </a>
+          </div>
+        ))}
+      </div>
+
+      {/* Controls */}
+      {newsData[0].images.length > 1 && (
+        <>
+          <button
+            className="carousel-control-prev"
+            type="button"
+            data-bs-target="#newsImageCarousel"
+            data-bs-slide="prev"
+          >
+            <span className="carousel-control-prev-icon" aria-hidden="true" />
+            <span className="visually-hidden">Previous</span>
+          </button>
+          <button
+            className="carousel-control-next"
+            type="button"
+            data-bs-target="#newsImageCarousel"
+            data-bs-slide="next"
+          >
+            <span className="carousel-control-next-icon" aria-hidden="true" />
+            <span className="visually-hidden">Next</span>
+          </button>
+        </>
+      )}
+    </div>
+  )}
+</div>
+
 
 
         <div

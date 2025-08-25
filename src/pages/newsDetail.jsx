@@ -67,6 +67,20 @@ export default function NewsDetail({ lang }) {
         </div>
       )}
 
+      {newsItem.videos && (
+          <div className="video-section  w-75 mx-auto" style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', justifyContent: 'center', marginTop: '30px', marginBottom: '40px' }}>
+                <iframe
+                    width="500"
+                    height="300"
+                    src={newsItem.videos}
+                    title="YouTube video"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                ></iframe>
+            </div>
+      )}
+
       {/* Article body */}
       <div className="mx-auto w-75" style={{ fontSize: '18px', whiteSpace: 'pre-line', marginBottom: '30px' }}>
         {newsItem.content[lang].map((line, idx) => (

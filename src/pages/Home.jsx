@@ -90,7 +90,7 @@ export default function Home({ lang }) {
           >
             {/* Image */}
 
-            <a href="/news/1" target="_blank" rel="noopener noreferrer">
+            <a href="/news/1">
               <img
                 loading="lazy"
                 src={`${import.meta.env.BASE_URL}${img.slice(1)}`}

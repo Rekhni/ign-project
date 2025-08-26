@@ -950,8 +950,8 @@
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Galiya-K-Bekenova-2250077229", "25", "135"]
     ],
     "files": [
-              "files/Список публикаций (Приложение 2) Бекеновой.pdf",
-              "files/Справка (Приложение 1) Бекеновой.pdf"
+              "files/prilozhenie2_bekenova.pdf",
+              "files/spravka_bekenova.pdf"
             ]
   },
     {
@@ -1162,8 +1162,8 @@
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/V-Zhaimina-2307248440", "25", "135"]
     ],
     "files": [
-                    "files/Приложение 2 Жаймина.pdf",
-                    "files/Справка Жайминой.pdf"
+                    "files/prilozhenie2_zhaimina.pdf",
+                    "files/spravka_zhaimina.pdf"
                   ]
   },
    {
@@ -1423,8 +1423,8 @@
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/Saida-Nigmatova", "25", "135"]
     ],
     "files": [
-              "files/Приложение 2 Нигматова.pdf",
-              "files/справка Нигматова.pdf"
+              "files/prilozhenie2_nigmatova.pdf",
+              "files/spravka_nigmatova.pdf"
               ]
   },
     {
@@ -2118,8 +2118,8 @@
         ["/assets/research-gate.png", "#", "30", "130"]
     ],
     "files": [
-        "files/Справка Левина В.Л. (Приложение 1).pdf",
-        "files/Список публикаций (Приложение 2) Левин.pdf"
+        "files/prilozhenie2_levin.pdf",
+        "files/spravka_levin.pdf"
       ]
   },
   {

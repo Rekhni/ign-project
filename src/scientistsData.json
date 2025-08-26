@@ -254,8 +254,7 @@
           ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1081528", "30", "130"],
           ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/G-Zholtaev-2315159810", "25", "135"]
       ],
-      "application": null,
-      "report": null
+      "files": []
     },
   {
     "id": 2,
@@ -473,8 +472,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082983&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/SM-Ozdoev-2199642502?_sg=gGyX7Vzp2AahcDKNAboCSCLoKvf-phLzEsZPQQE_LzNniTQCMqOwLZuB5F6FSNXAklPBf9DDpEI9dfM&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 3,
@@ -754,8 +752,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1081276&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/Eleonora-Seitmuratova", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 4,
@@ -952,8 +949,10 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=271683&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Galiya-K-Bekenova-2250077229", "25", "135"]
     ],
-    "application": "files/приложение 2 Бекенова.pdf",
-    "report": "files/Справка Бекеновой.pdf"
+    "files": [
+              "files/Список публикаций (Приложение 2) Бекеновой.pdf",
+              "files/Справка (Приложение 1) Бекеновой.pdf"
+            ]
   },
     {
     "id": 5,
@@ -1162,8 +1161,10 @@
         ["/assets/library-ru.png", "#", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/V-Zhaimina-2307248440", "25", "135"]
     ],
-    "application": "files/Приложение 2 Жаймина.pdf",
-    "report": "files/Справка Жайминой.pdf"
+    "files": [
+                    "files/Приложение 2 Жаймина.pdf",
+                    "files/Справка Жайминой.pdf"
+                  ]
   },
    {
     "id": 6,
@@ -1421,8 +1422,10 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082276&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/Saida-Nigmatova", "25", "135"]
     ],
-    "application": "files/Приложение 2 Нигматова.pdf",
-    "report": "files/справка Нигматова.pdf"
+    "files": [
+              "files/Приложение 2 Нигматова.pdf",
+              "files/справка Нигматова.pdf"
+              ]
   },
     {
     "id": 7,
@@ -1648,8 +1651,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1082509", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Anatoliy-Antonenko-2186690666", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
  
   {
@@ -1818,8 +1820,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1082739&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Nikolai-Zhukov-2311357629", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 9,
@@ -1941,8 +1942,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1083149&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "#", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 10,
@@ -2117,8 +2117,10 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1105223&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "#", "30", "130"]
     ],
-    "application": "files/Приложение 2 Левин.pdf",
-    "report": "files/Справка Левина В. Л.FR12.pdf"
+    "files": [
+        "files/Справка Левина В.Л. (Приложение 1).pdf",
+        "files/Список публикаций (Приложение 2) Левин.pdf"
+      ]
   },
   {
     "id": 11,
@@ -2271,8 +2273,7 @@
       ["/assets/library-ru.png", "#", "30", "130"],
       ["/assets/research-gate.png", "#", "30", "130"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 12,
@@ -2440,8 +2441,7 @@
         ["/assets/library-ru.png", "#", "30", "130"],
         ["/assets/research-gate.png", "#", "30", "130"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 13,
@@ -2603,8 +2603,7 @@
         ["/assets/library-ru.png", "#", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/O-Nikitina", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 14,
@@ -2825,8 +2824,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_items.asp?authorid=1130675&pubrole=100&show_refs=1&pubcat=risc", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/scientific-contributions/Z-Umarbekova-2263358699", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 15,
@@ -3111,8 +3109,7 @@
         ["/assets/library-ru.png", "https://elibrary.ru/author_profile.asp?id=1082072", "30", "130"],
         ["/assets/research-gate.png", "https://www.researchgate.net/profile/Kuanysh-Togizov", "25", "135"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   },
   {
     "id": 16,
@@ -3288,7 +3285,6 @@
         ["/assets/library-ru.png", "#", "30", "130"],
         ["/assets/research-gate.png", "#", "30", "130"]
     ],
-    "application": null,
-    "report": null
+    "files": []
   }
 ]

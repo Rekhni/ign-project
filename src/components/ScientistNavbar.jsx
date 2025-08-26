@@ -159,7 +159,7 @@ export default function ScientistNavbar({ lang }) {
             </div>
           </div>
         </Tab>
-        {scientist.application && (
+        {scientist.files.length > 0 && (
           <Tab eventKey="files" title={`${t('Файлы', 'Files', 'Файлдар', '奖项')}`}>
             <div 
               className="scientist-content mt-3 mx-auto p-3"
@@ -170,22 +170,16 @@ export default function ScientistNavbar({ lang }) {
                 paddingRight: '10px'
               }}
             >
-              <h3>Приложение</h3>
-              <iframe
-                src={getFileUrl(scientist.application)}
-                width="100%"
-                height="600px"
-                style={{ border: '1px solid #ccc', borderRadius: '8px' }}
-                title="Application PDF"
-              />
-              <h3>Справка</h3>
-              <iframe
-                src={getFileUrl(scientist.report)}
-                width="100%"
-                height="600px"
-                style={{ border: '1px solid #ccc', borderRadius: '8px' }}
-                title="Application PDF"
-              />
+              {scientist.files.map((file, idx) => (
+                <iframe
+                  key={idx}
+                  src={getFileUrl(file)}
+                  width="100%"
+                  height="600px"
+                  style={{ border: '1px solid #ccc', borderRadius: '8px' }}
+                  title="Application PDF"
+                />
+              ))}
             </div> 
           </Tab>
         )}

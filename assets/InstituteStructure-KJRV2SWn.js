@@ -57,3 +57,4 @@ import{g as nr,c as rr,d as ir,e as St,f as ne,h as or,R as I,r as Dt,j as st,C 
           opacity: 0.9;
         }
       `}),i.w>0&&st.jsx(X,{data:n,orientation:"vertical",pathFunc:"diagonal",translate:{x:i.w/2,y:100},nodeSize:{x:300,y:170},separation:{siblings:1.7,nonSiblings:1.4},pathClassFunc:a,collapsible:!0,zoomable:!0})]})}function Bs({lang:t}){return st.jsxs("div",{className:"text-dark bg-white",style:{fontFamily:"Montserrat"},children:[st.jsx(Fs,{lang:t}),st.jsx("hr",{className:"text-dark my-0 mx-auto",style:{height:"1px"}}),st.jsx("section",{id:"contacts",children:st.jsx(ar,{lang:t})})]})}export{Bs as default};
+//# sourceMappingURL=InstituteStructure-KJRV2SWn.js.map

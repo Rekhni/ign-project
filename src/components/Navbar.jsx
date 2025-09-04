@@ -95,8 +95,8 @@ export default function Navbar({ lang, onToggleLanguage }) {
                     overflowX: 'auto',
                     padding: '10px'
                   }}>
-                    {labsData.map((lab) => (
-                      <li><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} onClick={handleLinkClick}>
+                    {labsData.map((lab, id) => (
+                      <li key={id}><NavLink className="dropdown-item text-white" to={`/laboratories/${lab.id - 1}`} onClick={handleLinkClick}>
                         {lab.name[lang]}
                       </NavLink></li>
                     ))}

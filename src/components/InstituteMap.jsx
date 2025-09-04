@@ -9,23 +9,35 @@ export default function InstituteMap() {
   useEffect(() => {
     let cancelled = false;
 
-    const initMap = () => {
+    const initWhenReady = () => {
       if (cancelled || mapRef.current) return;
       const DG = window.DG;
-      if (!DG) return; // script not fully initialized yet
-      const el = document.getElementById('map');
-      if (!el) return;
+      // Wait for the API init promise
+      if (!DG || typeof DG.then !== 'function') return;
 
-      const map = DG.map('map', { center: [43.250602, 76.953002], zoom: 13 });
-      DG.marker([43.250602, 76.953002]).addTo(map).bindPopup('Институт геологических наук');
-      mapRef.current = map;
+      DG.then(() => {
+        if (cancelled || mapRef.current) return;
+        const el = document.getElementById('map');
+        if (!el) return;
+
+        const map = DG.map('map', {
+          center: [43.250602, 76.953002],
+          zoom: 13,
+        });
+
+        DG.marker([43.250602, 76.953002])
+          .addTo(map)
+          .bindPopup('Институт геологических наук');
+
+        mapRef.current = map;
+      });
     };
 
-    // If DG is already available (cached), init immediately
     if (window.DG) {
-      initMap();
+      // Script already present (cached/previous page) — try to init
+      initWhenReady();
     } else {
-      // Inject the script once and init on load
+      // Inject the script once
       let script = document.getElementById(DG_SCRIPT_ID);
       if (!script) {
         script = document.createElement('script');
@@ -33,11 +45,10 @@ export default function InstituteMap() {
         script.src = DG_SRC;
         script.async = true;
         script.defer = true;
-        script.onload = initMap;
+        script.onload = initWhenReady; // will call DG.then(...)
         document.head.appendChild(script);
       } else {
-        // If the script tag exists but hasn’t fired load yet
-        script.addEventListener('load', initMap, { once: true });
+        script.addEventListener('load', initWhenReady, { once: true });
       }
     }
 

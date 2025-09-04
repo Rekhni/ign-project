@@ -107,7 +107,7 @@ export default function ScientistNavbar({ lang }) {
           >
             <ul className='d-flex flex-wrap gap-3 justify-content-center'>
               {scientist.achievements[lang].map((item, idx) => (
-                <li className='text-white p-3 text-center' style={{backgroundColor: 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} key={idx}><i class="bi bi-award-fill"></i>{item}</li>
+                <li className='text-white p-3 text-center' style={{backgroundColor: 'rgb(2, 158, 193)', listStyleType: 'none', borderRadius: '30px'}} key={idx}><i className="bi bi-award-fill"></i>{item}</li>
               ))}
             </ul>
           </div>
@@ -119,13 +119,13 @@ export default function ScientistNavbar({ lang }) {
               borderRadius: "20px" 
                }}
           >
-            <div id="carouselExampleIndicators" class="carousel slide mx-auto" style={{ maxWidth: '600px' }} data-bs-ride="carousel">
-              <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <div id="carouselExampleIndicators" className="carousel slide mx-auto" style={{ maxWidth: '600px' }} data-bs-ride="carousel">
+              <div className="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
               </div>
-              <div class="carousel-inner">
+              <div className="carousel-inner">
                 {scientist.media.map((img, idx) => (
                   <div className={`carousel-item ${idx === 0 ? 'active' : ''}`} key={idx}>
                     <img 
@@ -138,23 +138,23 @@ export default function ScientistNavbar({ lang }) {
                 ))}
               </div>
               <button 
-                class="carousel-control-prev" 
+                className="carousel-control-prev" 
                 type="button" 
                 data-bs-target="#carouselExampleIndicators" 
                 style={{ width: '5%', left: '100px' }} 
                 data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
+                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span className="visually-hidden">Previous</span>
               </button>
               <button 
-                class="carousel-control-next" 
+                className="carousel-control-next" 
                 type="button" 
                 data-bs-target="#carouselExampleIndicators" 
                 data-bs-slide="next"
                 style={{ width: '5%', right: '100px' }}
                 >
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
+                <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                <span className="visually-hidden">Next</span>
               </button>
             </div>
           </div>

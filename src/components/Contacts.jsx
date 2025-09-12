@@ -8,7 +8,7 @@ export default function Contacts({ lang }) {
         style={{ padding: '30px'}}
         
       >
-        <div className="contacts-text w-75" style={{ margin: "20px auto" }}>
+        <div className="contacts-title w-75" style={{ margin: "20px auto" }}>
           <h3 className="mb-4">
             {t(
               "Наши контакты",
@@ -17,7 +17,7 @@ export default function Contacts({ lang }) {
               "我们的联系方式"
             )}
           </h3>
-          <p style={{ fontSize: "20px", width: '80%' }}>
+          <p className="contacts-text" style={{ width: '80%' }}>
             {t(
               "Приемный телефон: ",
               "Reception phone: ",

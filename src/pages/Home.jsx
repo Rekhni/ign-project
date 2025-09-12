@@ -95,9 +95,9 @@ export default function Home({ lang }) {
               <img
                 loading="lazy"
                 src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
-                className="d-block w-100"
+                className="d-block w-100 main-carousel-img"
                 alt={`news-${index}`}
-                style={{ height: "480px", objectFit: "cover" }}
+                style={{ objectFit: "cover" }}
               />
             {/* Dark overlay */}
             <div
@@ -107,7 +107,7 @@ export default function Home({ lang }) {
 
             {/* Caption */}
             <div className="carousel-caption d-flex flex-column justify-content-center" >
-              <h5 style={{ fontSize: "40px" }}>{t(
+              <h5 className='main-event-text'>{t(
                 "«Философский Камень»: интеллектуальный квест в Институте геологических наук с поддержкой KAZ Minerals", 
                 "«Philosopher’s Stone»: An Intellectual Quest at the Institute of Geological Sciences with the Support of KAZ Minerals",
                 "«Философиялық тас»: KAZ Minerals қолдауымен Геология ғылымдары институтында өткен интеллектуалдық квест",

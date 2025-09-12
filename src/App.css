@@ -320,6 +320,18 @@ cite {
   width: 75%;
 }
 
+.main-event-text {
+  font-size: 40px;
+}
+
+.main-carousel-img {
+    height: 480px;
+}
+
+.contacts-text {
+    font-size: 20px;
+}
+
 
 @media (max-width: 1024px) {
 
@@ -511,11 +523,11 @@ cite {
     width: 100%;
   }
 
-  .contacts-content .contacts-text {
+  .contacts-content .contacts-title {
     text-align: center;
   }
 
-  .contacts-content .contacts-text p {
+  .contacts-content .contacts-title p {
     margin: auto;
   }
   .footer-content {
@@ -538,5 +550,17 @@ cite {
 
   .footer-text {
     display: none;
+  }
+
+  .main-event-text {
+    font-size: 20px;
+  }
+
+  .main-carousel-img {
+    height: 300px;
+  }
+
+  .contacts-text {
+    font-size: 12px;
   }
 }

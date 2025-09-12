@@ -16,7 +16,7 @@ export default function Footer({ lang }) {
             <div className='footer-logos d-lg-flex gap-lg-3'>
                 <a href="https://www.facebook.com/profile.php?id=61577074686525&_rdc=2&_rdr#" className='fs-lg-4'><i className="bi bi-facebook text-white fs-4"></i></a>
                 <a href="mailto: Info@ign.kz"><i className="bi bi-envelope-at-fill text-white fs--2 fs-4"></i></a>
-                <a href="https://www.instagram.com/instituteofgeologyandsciene/"><i className="bi bi-instagram text-white fs-4"></i></a>
+                <a href="https://www.instagram.com/ign.satbayev?igsh=emEzbmZzdnBhb2dp"><i className="bi bi-instagram text-white fs-4"></i></a>
                 <a href="https://wa.me/7007473891?text=Здравствуйте%2C+у+меня+есть+вопрос"><i className="bi bi-whatsapp text-white fs-4"></i></a>
                 <a href="https://www.youtube.com/@satbayev-geo-university"><i className="bi bi-youtube text-white fs-4"></i></a>
             </div>

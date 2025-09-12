@@ -135,6 +135,7 @@
 .scientist-content {
   width: 90%;
   margin: 30px;
+  padding: 20px 60px;
 }
 
 .lab-content {
@@ -330,6 +331,14 @@ cite {
 
 .contacts-text {
     font-size: 20px;
+}
+
+.achievements-text {
+  width: 75%;
+}
+
+.achievements-title {
+  font-size: 30px;
 }
 
 
@@ -562,5 +571,26 @@ cite {
 
   .contacts-text {
     font-size: 12px;
+  }
+
+  .achievements-text {
+    width: 90%;
+  }
+
+  .achievements-title {
+    font-size: 25px;
+  }
+
+  .partners-img {
+    width: 300px;
+  }
+
+  .scientist-content {
+    padding: 10px 40px;
+  }
+
+  .news-title {
+    font-size: 20px;
+    margin: 0 10px;
   }
 }

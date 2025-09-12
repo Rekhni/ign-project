@@ -8,9 +8,9 @@ export default function ScientificAchievements({ lang }) {
       <>
             <div className="w-100 mx-auto text-dark bg-white" style={{ fontFamily: "Montserrat", padding: '20px 0' }}>
         <div className="d-flex flex-column text-center gap-3 mb-3 w-75 mx-auto">
-          <div className='d-flex justify-content-center align-items-center mx-auto w-75 gap-3'>
+          <div className='d-flex justify-content-center align-items-center mx-auto gap-3'>
             <hr className="bg-white rounded" style={{ height: '5px', width: '30%' }}/>
-            <h1 className='w-75' style={{fontSize: '30px'}}>
+            <h1 className='achievements-title'>
               {t(
                 "Основные научные достижения",
 
@@ -23,7 +23,7 @@ export default function ScientificAchievements({ lang }) {
             </h1>
             <hr className="bg-white rounded" style={{ height: '5px', width: '30%' }}/>
           </div>
-          <h3 className='w-75 mx-auto'>
+          <h3 className='achievements-text mx-auto'>
               {t(
                 "В области региональной геологии:",
 
@@ -35,7 +35,7 @@ export default function ScientificAchievements({ lang }) {
               )}
           </h3>
         </div>
-        <ul className='w-75 mx-auto'>
+        <ul className='achievements-text mx-auto'>
           <li>
             {t(
               "Атлас опорных стратиграфических разрезов Казахстана. 2010 г.",
@@ -88,7 +88,7 @@ export default function ScientificAchievements({ lang }) {
         <div className="d-lg-flex justify-content-center w-75 mx-auto text-center">
           <div>
             <img loading="lazy" className='achieve-img' src={achieveImg1} alt="achieve-img-1" height="400" />
-            <p className="w-75 mx-auto mt-3" style={{ fontSize: "15px" }}>
+            <p className="achievements-text mx-auto mt-3" style={{ fontSize: "15px" }}>
               {t(
                 "Минерагеническая карта Казахстана (палеозой) в 2009 году была удостоена Государственной премии Республики Казахстан.",
                 
@@ -102,7 +102,7 @@ export default function ScientificAchievements({ lang }) {
           </div>
           <div>
             <img loading="lazy" className='achieve-img' src={achieveImg2} alt="achieve-img-2" height="400" />
-            <p className="w-75 mx-auto mt-3" style={{ fontSize: "15px" }}>
+            <p className="achievements-text mx-auto mt-3" style={{ fontSize: "15px" }}>
               {t(
                 "Составлена Минерагеническая карта мезозой-кайнозойского чехла Казахстана в масштабе 1:1 000 000 (на трех языках).",
 
@@ -126,7 +126,7 @@ export default function ScientificAchievements({ lang }) {
               "在成矿学和矿床形成领域："
             )}
         </h3>
-        <ul className='w-75 mx-auto'>
+        <ul className='achievements-text mx-auto'>
           <li>
             {t(
               '- Составлена Минерагеническая карта Казахстана в масштабе 1:1000000 (на трех языках) и внедрена Комитетом геологии и недропользования МИНТ РК, в 2009 году была удостоена Государственной премии Республики Казахстан.',
@@ -155,7 +155,7 @@ export default function ScientificAchievements({ lang }) {
               "在石油和天然气矿床地质领域："
             )}
         </h3>
-        <ul className='w-75 mx-auto'>
+        <ul className='achievements-text mx-auto'>
           <li>
             {t(
               "Оценены прогнозные ресурсы углеводородов по зонам нефтегазонакопления в пределах Прикаспийского, Устюртского, Мангышлакского и Торгайского осадочных бассейнов.",
@@ -203,7 +203,7 @@ export default function ScientificAchievements({ lang }) {
               "在矿物学和地球化学领域："
             )}
         </h3>
-        <p className='w-75 mx-auto'>
+        <p className='achievements-text mx-auto'>
           {t(
             "За последние 25 лет сотрудниками сектора минералогии ИГН им. К.И. Сатпаева было открыто, изучено и описано 15 новых минеральных видов,\nутвержденных Комиссией по новым минералам, классификации и номенклатуре Международной минералогической ассоциации.",
 

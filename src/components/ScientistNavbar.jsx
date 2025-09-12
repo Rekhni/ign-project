@@ -30,7 +30,7 @@ export default function ScientistNavbar({ lang }) {
               borderRadius: "20px",
               maxHeight: '350px',
               overflowY: 'auto',
-              padding: '20px 60px'
+              
             }}
           >
             {scientist.review[lang].map((line, idx) => (

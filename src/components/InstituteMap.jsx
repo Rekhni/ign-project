@@ -9,35 +9,49 @@ export default function InstituteMap() {
   useEffect(() => {
     let cancelled = false;
 
+    const init = () => {
+      if (cancelled || mapRef.current) return;
+      const el = document.getElementById('map');
+      if (!el || !window.DG) return;
+
+      const map = window.DG.map('map', {
+        center: [43.250602, 76.953002],
+        zoom: 13,
+      });
+
+      window.DG.marker([43.250602, 76.953002])
+        .addTo(map)
+        .bindPopup('Институт геологических наук');
+
+      mapRef.current = map;
+
+      // Nudge layout if container was hidden initially
+      setTimeout(() => {
+        if (mapRef.current && mapRef.current.invalidateSize) {
+          mapRef.current.invalidateSize();
+        }
+      }, 150);
+    };
+
     const initWhenReady = () => {
       if (cancelled || mapRef.current) return;
+
       const DG = window.DG;
-      // Wait for the API init promise
-      if (!DG || typeof DG.then !== 'function') return;
+      if (!DG) return; // script not loaded yet
 
-      DG.then(() => {
-        if (cancelled || mapRef.current) return;
-        const el = document.getElementById('map');
-        if (!el) return;
-
-        const map = DG.map('map', {
-          center: [43.250602, 76.953002],
-          zoom: 13,
+      // If DG is a thenable, wait; otherwise, init immediately
+      if (typeof DG.then === 'function') {
+        DG.then(() => {
+          if (!cancelled) init();
         });
-
-        DG.marker([43.250602, 76.953002])
-          .addTo(map)
-          .bindPopup('Институт геологических наук');
-
-        mapRef.current = map;
-      });
+      } else {
+        init();
+      }
     };
 
     if (window.DG) {
-      // Script already present (cached/previous page) — try to init
       initWhenReady();
     } else {
-      // Inject the script once
       let script = document.getElementById(DG_SCRIPT_ID);
       if (!script) {
         script = document.createElement('script');
@@ -45,7 +59,7 @@ export default function InstituteMap() {
         script.src = DG_SRC;
         script.async = true;
         script.defer = true;
-        script.onload = initWhenReady; // will call DG.then(...)
+        script.onload = initWhenReady;
         document.head.appendChild(script);
       } else {
         script.addEventListener('load', initWhenReady, { once: true });
@@ -61,5 +75,11 @@ export default function InstituteMap() {
     };
   }, []);
 
-  return <div className="contacts-map w-100 w-xl-50" id="map" style={{ height: 450 }} />;
+  return (
+    <div
+      id="map"
+      className="contacts-map w-100 w-xl-50"
+      style={{ height: 450, minHeight: 300 }}
+    />
+  );
 }

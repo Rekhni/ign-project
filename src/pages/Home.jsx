@@ -107,11 +107,7 @@ export default function Home({ lang }) {
 
             {/* Caption */}
             <div className="carousel-caption d-flex flex-column justify-content-center" >
-              <h5 className='main-event-text'>{t(
-                "«Философский Камень»: интеллектуальный квест в Институте геологических наук с поддержкой KAZ Minerals", 
-                "«Philosopher’s Stone»: An Intellectual Quest at the Institute of Geological Sciences with the Support of KAZ Minerals",
-                "«Философиялық тас»: KAZ Minerals қолдауымен Геология ғылымдары институтында өткен интеллектуалдық квест",
-                "“哲学之石”：在KAZ Minerals支持下于地质科学研究所举办的智力探险")}</h5>
+              <h5 className='main-event-text'>{newsData[0].title[lang]}</h5>
             </div>
             </Link>
           </div>

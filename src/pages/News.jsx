@@ -22,12 +22,11 @@ export default function News({ lang }) {
                                 <img src={`${import.meta.env.BASE_URL}${news.images[0].slice(1)}`} className="card-img-top" alt="news-img" style={{height: '180px'}} />
                                 <div className="card-body">
                                     <p className="card-text">
-                                        {news.title[lang]}
+                                        {news.title[lang].length > 90 ? news.title[lang].slice(0, 95) + "..." : news.title[lang]} 
                                     </p>
                                 </div>
                                 <p className='text-white position-absolute' style={{bottom: '0', right: '10px'}}>{news.date}</p>
                             </NavLink>
-
                     </div>
                 ))}
             </div>

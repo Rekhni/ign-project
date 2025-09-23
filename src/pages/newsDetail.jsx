@@ -12,18 +12,18 @@ export default function NewsDetail({ lang }) {
     }
 
   return (
-    <div className="py-5 text-dark bg-white" style={{ fontFamily: 'Montserrat', lineHeight: '1.7'}}>
+    <div className="text-dark bg-white" style={{ fontFamily: 'Montserrat', lineHeight: '1.7'}}>
       {/* Title + Date */}
-      <div className="text-center mb-4">
+      {/* <div className="text-center mb-4">
         <h1 className="news-title fw-bold">
           {newsItem.title[lang]}
         </h1>
         <p className="text-dark">{newsItem.date}</p>
-      </div>
+      </div> */}
 
       {/* Bootstrap carousel */}
 {newsItem.images?.length > 0 && (
-  <div id="newsImageCarousel" className="carousel slide mb-5 mx-auto" data-bs-ride="carousel" style={{ width: '90%' }}>
+  <div id="newsImageCarousel" className="carousel slide mb-5 mx-auto" data-bs-ride="carousel" style={{ width: '100%' }}>
     <div className="carousel-inner">
       {newsItem.images.map((img, index) => (
         <div
@@ -36,12 +36,12 @@ export default function NewsDetail({ lang }) {
             src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
             className="d-block mx-auto w-100"
             alt={`news-${index}`}
-            style={{ height: '480px', objectFit: 'cover' }}
+            style={{ height: '550px', objectFit: 'cover' }}
           />
 
           {/* Dark overlay */}
           <div
-            className="position-absolute top-0 start-0 w-100 h-100"
+            className="position-absolute bottom-0  w-100 h-25"
             style={{ backgroundColor: 'rgba(0,0,0,0.5)', pointerEvents: 'none', zIndex: 1 }}
           />
 

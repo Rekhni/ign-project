@@ -10,7 +10,7 @@ export default function LabDetail({ lang }) {
     const lab = labsData[id];
 
     return (
-        <div className='text-dark bg-white p-3 h-100' style={{ fontFamily: 'Montserrat' }}>
+        <div className='text-dark bg-white h-100' style={{ fontFamily: 'Montserrat' }}>
             <div
                 className='d-flex w-100 w-lg-75 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
@@ -19,7 +19,6 @@ export default function LabDetail({ lang }) {
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     height: '500px',
-                    borderRadius: '20px 20px 0 0',
                     overflow: 'hidden'
                 }}
             >   
@@ -32,7 +31,6 @@ export default function LabDetail({ lang }) {
                         width: '100%',
                         height: '100%',
                         backgroundColor: 'rgba(0,0,0,0.4)', // Adjust opacity here
-                        borderRadius: '20px 20px 0 0',
                         zIndex: 1
                     }}
                 />

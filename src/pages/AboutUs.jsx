@@ -5,7 +5,7 @@ import AboutUsNavbar from '../components/AboutUsNavbar';
 export default function AboutUs({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
-        <div className='text-dark bg-white p-3 h-100' style={{ fontFamily: 'Montserrat' }}>
+        <div className='text-dark bg-white h-100' style={{ fontFamily: 'Montserrat' }}>
             <div
                 className='d-flex w-100 mx-auto text-white fw-bold align-items-center position-relative'
                 style={{
@@ -14,7 +14,6 @@ export default function AboutUs({ lang }) {
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                     height: '500px',
-                    borderRadius: '20px 20px 0 0',
                     overflow: 'hidden'
                 }}
             >   
@@ -27,7 +26,6 @@ export default function AboutUs({ lang }) {
                         width: '100%',
                         height: '100%',
                         backgroundColor: 'rgba(0, 0, 0, 0.57)', // Adjust opacity here
-                        borderRadius: '20px 20px 0 0',
                         zIndex: 1
                     }}
                 />

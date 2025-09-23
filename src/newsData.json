@@ -1,6 +1,57 @@
 [
-    {
+        {
         "id": 1,
+        "date": "23.09.2025",
+        "title": {
+            "ru": "Когда минералы оживают: молодые геологи в поиске философского камня",
+            "en": "When Minerals Come Alive: Young Geologists in Search of the Philosopher’s Stone",
+            "kz": "Минералдар жан бітіргенде: жас геологтар философиялық тасты іздеуде",
+            "zh": "当矿物复活时：年轻地质学家寻找“哲学之石"
+        },
+        "content": {
+            "ru": [
+                "У музея минералов Института геологических наук имени К. И. Сатпаева - вновь была разбита старая геологическая палатка и опять звучала гитара: состоялось уже второе мероприятие в рамках проекта «Философский камень», реализованного при поддержке группы KAZ Minerals. В этот раз ядром участников стали молодые геологи студенты Satbayev University — именно они проявили особый интерес к продолжению инициативы и составили костяк аудитории, которая собралась среди витрин, полных минералов и горных пород со всей территории Казахстана.",
+                "Мероприятие вновь стало не просто встречей, а своеобразным путешествием сквозь время, мысль и культуру. Его вел актер театра «Асабалар» и солист группы «Apollo’s» Аполлон Корчинский, который превратил сухие понятия науки в живой, вдохновляющий рассказ. Ему изобразительно аккомпанировал в реальном времени известный алматинский художник Алпамыс Батыров: световой маппинг которого превращал камни в оживающих собеседников.",
+                "В первой части программы состоялся своеобразный бенефис идей: актер и художник вынесли на сцену напряженные и глубокие исследовательские темы — о руке, впервые тянущейся к камню; о первом ударе кремня, в котором родился замысел; о том, как человек превращает материю не в орудие зависимости, а в продолжение своей воли. В этих образах участники услышали историю геологии не только как науки, но и как великого культурного кода человечества.",
+                "А затем наступил второй, неожиданный этап. Молодые геологи и студенты Satbayev University отправились по залу музея, отыскивая свой «философский камень». Кто-то задерживался у витрины с кристаллами кварца и видел в их прозрачности символ чистоты знания и неумолимого порядка природы. Кто-то подолгу всматривался в черное зеркало обсидиана и размышлял о том, что истина всегда требует риска и смелости, что каждое острое лезвие — это результат преодоления. Кто-то выбирал нефрит — зеленый и вечный, камень, веками бывший символом силы и бессмертия, и видел в нем связь геологии с культурой, искусством, мифом.",
+                "Каждый из участников производил в уме собственную исследовательскую работу. Они словно выстраивали ассоциативные палитры смыслов: соединяли минералы с личными образами, с историей науки, с будущим цивилизации. Благодаря титанической работе Каныша Сатпаева и его единомышленников, которые сделали реальностью уникальный музей, а также при дальновидной поддержке группы KAZ Minerals будущие геологи создавали свои маленькие интеллектуальные прорывы, делали шаги к пониманию того, что геология — это не только добыча и анализ пород, но и философия, и стратегия, и культура.",
+                "Благодарим Группу KAZ Minerals за поддержку и доверие."
+            ],
+            "en": [
+                "At the Mineral Museum of the Institute of Geological Sciences named after K. I. Satbayev, an old geological tent was once again set up and the guitar played again: the second event of the “Philosopher’s Stone” project, supported by KAZ Minerals, took place. This time, the core participants were young geologists — students of Satbayev University, who showed particular interest in continuing the initiative and formed the backbone of the audience gathered among showcases filled with minerals and rocks from across Kazakhstan.",
+                "The event once again became not just a meeting, but a kind of journey through time, thought, and culture. It was led by Apollo Korchinsky, actor of the “Asabalar” theater and soloist of the “Apollo’s” band, who turned the dry concepts of science into a vivid, inspiring story. He was expressively accompanied in real time by the well-known Almaty artist Alpamys Batyrov, whose light mapping transformed the stones into living interlocutors.",
+                "The first part of the program was a kind of benefit performance of ideas: the actor and the artist brought to the stage tense and profound research themes — about the hand reaching for a stone for the first time; about the first strike of flint, where intention was born; about how a person transforms matter not into an instrument of dependence, but into an extension of their will. In these images, participants heard the story of geology not only as a science, but also as a great cultural code of humanity.",
+                "Then came the second, unexpected stage. Young geologists and Satbayev University students walked through the museum hall, searching for their own “philosopher’s stone.” Some lingered at the display of quartz crystals, seeing in their transparency a symbol of the purity of knowledge and the unyielding order of nature. Others gazed for a long time into the black mirror of obsidian, reflecting that truth always requires risk and courage, that every sharp edge is the result of overcoming. Still others chose jade — green and eternal, a stone that for centuries has been a symbol of strength and immortality — and saw in it the connection of geology with culture, art, and myth.",
+                "Each participant carried out their own research work in their minds. They seemed to build associative palettes of meanings: linking minerals with personal images, with the history of science, with the future of civilization. Thanks to the titanic work of Kanysh Satbayev and his associates, who made this unique museum a reality, and with the farsighted support of KAZ Minerals, future geologists were making their own small intellectual breakthroughs, taking steps toward understanding that geology is not only about extraction and analysis of rocks, but also philosophy, strategy, and culture.",
+                "We thank KAZ Minerals Group for their support and trust."
+            ],
+            "kz": [
+                "Қ.И. Сәтбаев атындағы Геологиялық ғылымдар институтының минералдар мұражайында тағы да ескі геологиялық шатыр тігілді, тағы да гитара үні естілді: KAZ Minerals тобының қолдауымен жүзеге асырылып жатқан «Философиялық тас» жобасының екінші шарасы өтті. Бұл жолы бастаманы жалғастыруға ерекше қызығушылық танытып, көрермендердің негізгі бөлігін Сәтбаев университетінің жас геолог-студенттері құрады.",
+                "Іс-шара жай ғана кездесу емес, уақыт, ой және мәдениет арқылы ерекше саяхатқа айналды. Оны «Асабалар» театрының актері және «Apollo’s» тобының солисі Аполлон Корчинский жүргізіп, ғылымның құрғақ ұғымдарын әсерлі, шабыттандырарлық әңгімеге айналдырды. Оған көрнекті алматылық суретші Алпамыс Батыров ерекше көркемдікпен қатар жүрді: оның жарықтық мэппингі тастарды тірі сұхбаттастарға айналдырды.",
+                "Бағдарламаның алғашқы бөлігі идеялардың өзіндік бенефисі болды: актер мен суретші сахнаға тасқа алғаш созылған қолды; кремнийдің алғашқы соққысы арқылы пайда болған ойды; адамның материяны тәуелділік құралына емес, өз еркінің жалғасына айналдыруын шығарды. Осы бейнелерде қатысушылар геология тарихын тек ғылым ғана емес, адамзаттың ұлы мәдени коды ретінде де естіді.",
+                "Кейін күтпеген екінші кезең басталды. Жас геологтар мен Сәтбаев университетінің студенттері мұражай залын аралап, өздерінің «философиялық тасын» іздеді. Бірі кварц кристалдарының қасында ұзақ аялдап, олардың мөлдірлігін білімнің тазалығы мен табиғаттың мызғымас тәртібінің белгісі деп қабылдады. Бірі обсидианның қара айнасына ұзақ қарады: ақиқат әрқашан тәуекел мен батылдықты талап етеді, әрбір өткір қыр – бұл жеңістің нәтижесі екенін ойлады. Енді бірі жасыл әрі мәңгілік нефритті таңдады – ғасырлар бойы күш пен өлместіктің символы болған тасты – геологияның мәдениетпен, өнермен, мифпен байланысын көрді.",
+                "Әрбір қатысушы ойында өзіндік зерттеу жұмысын жүргізді. Олар минералдарды жеке бейнелермен, ғылым тарихымен, өркениет болашағымен байланыстырып, мағыналардың ассоциативтік палитрасын құрғандай болды. Қаныш Сәтбаев пен оның серіктестерінің қажырлы еңбегінің арқасында жүзеге асқан бірегей мұражай және KAZ Minerals тобының көреген қолдауы болашақ геологтарға өздерінің кішкентай интеллектуалдық серпілістерін жасауға, геологияның тек кен өндіру мен талдау ғана емес, философия, стратегия және мәдениет екенін түсінуге қадам басуға мүмкіндік берді.",
+                "Қолдау мен сенім білдіргені үшін KAZ Minerals тобына алғыс білдіреміз."
+            ],
+            "zh": [
+                "在以卡尼什·萨特帕耶夫命名的地质科学研究所矿物博物馆里，一顶旧地质帐篷再次搭起，吉他声再次响起：由 KAZ Minerals 集团支持的 “哲学之石” 项目的第二场活动举行了。这一次的核心参与者是年轻的地质学家——萨特帕耶夫大学的学生们，他们对延续这一倡议表现出特别的兴趣，并成为观众的中坚力量，他们聚集在摆满哈萨克斯坦各地矿物和岩石的展柜之间。",
+                "活动再次不仅仅是一场聚会，而是一段穿越时间、思想与文化的奇妙旅程。活动由“阿萨巴拉尔”剧院演员兼“Apollo’s”乐队主唱阿波罗·科尔钦斯基主持，他把科学的枯燥概念转化为生动而鼓舞人心的故事。著名阿拉木图艺术家阿尔帕米斯·巴特ыров则以现场光影投影艺术作伴，把石头变成了会“说话”的伙伴。",
+                "节目的第一部分成为一种思想的盛会：演员和艺术家把紧张而深刻的研究主题搬上舞台——那伸向石头的第一只手；那第一次敲击燧石中诞生的意图；那人类如何把物质转化为意志的延伸，而不是依赖的工具。在这些意象中，参与者听到的，是地质学不仅仅是一门科学，更是人类伟大的文化密码。",
+                "随后，出现了第二个意想不到的环节。年轻的地质学家和萨特帕耶夫大学的学生们在博物馆的大厅中寻找属于自己的“哲学之石”。有人在石英晶体展柜前久久停留，看到其透明中象征着知识的纯净与自然的秩序；有人凝视着黑曜石的黑色镜面，思索着真理总是需要冒险和勇气，每一片锋利的刀刃都是克服困难的结果；有人则选择了翡翠——绿色而永恒，这块数百年来象征力量与不朽的石头，让他们看到了地质学与文化、艺术、神话之间的联系。",
+                "每位参与者都在脑海中进行着自己的研究。他们仿佛在构建意义的联想调色板：将矿物与个人形象、科学史以及文明的未来相连接。正是因为卡尼什·萨特帕耶夫及其同事的巨大努力，使得这一独特的博物馆成为现实，再加上 KAZ Minerals 集团的远见支持，未来的地质学家们得以创造出属于自己的小小智识突破，迈出理解地质学不仅是开采和分析岩石，更是哲学、战略和文化的步伐。",
+                "感谢 KAZ Minerals 集团的支持与信任。"
+            ]
+        },
+        "images": [
+            "/news/news21.2.jpg",
+            "/news/news21.1.jpg",
+            "/news/news21.3.jpg",
+            "/news/news21.4.jpg"
+        ],
+        "videos": "https://www.youtube.com/embed/cbBFRGNN7oY"
+    },
+    {
+        "id": 2,
         "date": "18.09.2025",
         "title": {
             "ru": "Алматы: новый этап сотрудничества в геологии",
@@ -36,7 +87,7 @@
         "videos": null
     },
     {
-        "id": 2,
+        "id": 3,
         "date": "17.09.2025",
         "title": {
             "ru": "Обсуждение Послания Президента: Сатпаев университет – площадка для дискуссий",
@@ -84,7 +135,7 @@
         "videos": "https://www.youtube.com/embed/5Dh4Ol0sKFU"
     },
         {
-        "id": 3,
+        "id": 4,
         "date": "12.09.2025",
         "title": {
             "ru": "От архивов к цифровому интеллекту: мы создаём будущее геологической науки",
@@ -130,7 +181,7 @@
         "videos": "https://www.youtube.com/embed/FEHaZWKOqyQ"
     },
     {
-        "id": 4,
+        "id": 5,
         "date": "25.08.2025",
         "title": {
             "ru": "«Философский Камень»: интеллектуальный квест в Институте геологических наук с поддержкой KAZ Minerals",
@@ -197,7 +248,7 @@
         "videos": "https://www.youtube.com/embed/dV7cyCanUIk"
     },
     {
-        "id": 5,
+        "id": 6,
         "date": "15.08.2025",
         "title": {
             "ru": "Рабочая встреча с международными геологическими службами",
@@ -286,7 +337,7 @@
         "videos": null
     },
         {
-        "id": 6,
+        "id": 7,
         "date": "06.08.2025",
         "title": {
             "ru": "Инновационные нефтегазовые технологии — путь к локальному производству в Казахстане",
@@ -385,7 +436,7 @@
         "videos": null
     },
         {
-        "id": 7,
+        "id": 8,
         "date": "23.07.2025",
         "title": {
             "ru": "GeoLab Eurasia — новая эра геоаналитики в Казахстане",
@@ -459,7 +510,7 @@
         "videos": null
     },
     {
-        "id": 8,
+        "id": 9,
         "date": "14.07.2025",
         "title": {
             "ru": "40 дней памяти Балтабека Мухановича",
@@ -479,7 +530,7 @@
         "videos": null
     },
     {
-        "id": 9,
+        "id": 10,
         "date": "30.06.2025",
         "title": {
             "ru": "Мансия Нургалиевна — президент КОГНГ",
@@ -532,7 +583,7 @@
         "videos": null
     },
     {
-        "id": 10,
+        "id": 11,
         "date": "28.06.2025",
         "title": {
             "ru": "Алима Кайнакевна — учёный, наставник, личность",
@@ -580,7 +631,7 @@
         "videos": null
     },
     {
-    "id": 11,
+    "id": 12,
     "date": "27.06.2025",
     "title": {
         "ru": "Будущее геологии — за наукой, и оно начинается сейчас.",
@@ -664,7 +715,7 @@
     "videos": null
     },
     {
-        "id": 12,
+        "id": 13,
         "date": "11.02.2025",
         "title": {
             "ru": "Манифест редкоземельщика",
@@ -721,7 +772,7 @@
         "videos": null
     },
     {
-        "id": 13,
+        "id": 14,
         "date": "17.02.2025",
         "title": {
             "ru": "Торжественное событие в ИГН!",
@@ -781,7 +832,7 @@
         "videos": null
     },
     {
-        "id": 14,
+        "id": 15,
         "date": "21.02.2025",
         "title": {
             "ru": "Алматы & Баку: Геологический мост дружбы и науки!",
@@ -835,7 +886,7 @@
         "videos": null
     },
     {
-        "id": 15,
+        "id": 16,
         "date": "27.02.2025",
         "title": {
             "ru": "Вдохновляющий момент в Институте Геологических Наук",
@@ -873,7 +924,7 @@
         "videos": null
     },
     {
-        "id": 16,
+        "id": 17,
         "date": "28.02.2025",
         "title": {
             "ru": "Геология и сотрудничество: казахстанско-китайское партнерство на высоте",

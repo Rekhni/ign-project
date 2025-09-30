@@ -34,9 +34,9 @@ export default function NewsDetail({ lang }) {
           <img
             loading="lazy"
             src={`${import.meta.env.BASE_URL}${img.slice(1)}`}
-            className="d-block mx-auto w-100"
+            className="d-block mx-auto w-100 news-img"
             alt={`news-${index}`}
-            style={{ height: '550px', objectFit: 'cover' }}
+            style={{objectFit: 'cover' }}
           />
 
           {/* Dark overlay */}
@@ -47,7 +47,7 @@ export default function NewsDetail({ lang }) {
 
           {/* Caption (optional) */}
           <div className="carousel-caption d-flex flex-column justify-content-end" style={{ zIndex: 2 }}>
-            <h5 className="fw-bold" style={{ fontSize: '28px' }}>
+            <h5 className="fw-bold news-text">
               {newsItem.title[lang]}
             </h5>
           </div>

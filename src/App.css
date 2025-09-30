@@ -341,6 +341,14 @@ cite {
   font-size: 30px;
 }
 
+.news-text {
+    font-size: 28px;
+}
+
+.news-img {
+  height: 550px;
+}
+
 
 @media (max-width: 1024px) {
 
@@ -592,5 +600,18 @@ cite {
   .news-title {
     font-size: 20px;
     margin: 0 10px;
+  }
+
+  .news-text {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .news-img {
+    height: 450px;
+  }
+
+  #newsImageCarousel .carousel-caption {
+    padding-bottom: 0;
   }
 }

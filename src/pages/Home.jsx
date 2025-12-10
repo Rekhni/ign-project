@@ -180,7 +180,7 @@ export default function Home({ lang }) {
             </NavLink>
 
             <NavLink
-              to="#"
+              to="/geospark"
               className="button-92 text-decoration-none"
               style={{ display: "block" }}
             >

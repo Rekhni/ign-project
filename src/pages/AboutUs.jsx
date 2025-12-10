@@ -49,5 +49,4 @@ export default function AboutUs({ lang }) {
             </section>
         </div>
     )
-
 }

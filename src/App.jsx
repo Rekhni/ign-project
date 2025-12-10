@@ -24,6 +24,7 @@ const LabDetail = lazy(() => import('./pages/LabDetail'));
 const ScientistsGallery = lazy(() => import('./pages/ScientistsGallery'));
 const Services = lazy(() => import('./pages/Services'));
 const SupervisoryBoard = lazy(() => import('./pages/SupervisoryBoard'));
+const GeosparkPage = lazy(() => import('./pages/GeosparkPage'));
 import { Spinner } from 'react-bootstrap';
 import AboutUs from './pages/AboutUs';
 
@@ -56,6 +57,7 @@ function App() {
           <Route path='/services' element={<Services lang={language}/>}/>
           <Route path='/about-us' element={<AboutUs lang={language}/>}/>
           <Route path='/supervisory-board' element={<SupervisoryBoard lang={language}/>}/>
+          <Route path='/geospark' element={<GeosparkPage lang={language}/>}/>
         </Routes>
       </Suspense>
       <Footer lang={language}/>

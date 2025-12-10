@@ -36,6 +36,16 @@ const GeosparkPage = ({ lang }) => {
 
    
                     <div style={{ zIndex: 2 }}>
+
+                        <h1 style={{ paddingLeft: "50px"}}>
+                            {t(
+                                "GeoSpark — Геологическая клубная институция",
+                                "GeoSpark — A Geological Club Institution",
+                                "GeoSpark — Геология бағытындағы клубтық институция",
+                                "GeoSpark —— 地质学俱乐部机构"
+                            )}
+                            
+                        </h1>
     
                         <h3 className='history-quote'>
                             {t(

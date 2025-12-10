@@ -364,8 +364,11 @@ cite {
   color: white;
 }
 
-@media (max-width: 1024px) {
+.geospark-title {
+    padding-left: 50px;
+  }
 
+@media (max-width: 1024px) {
 
 
 .lab-scientist-img {
@@ -396,6 +399,15 @@ cite {
 
   .hero-image-logo-divider {
     display: none;
+  }
+
+  .geospark-logo {
+    width: 200px;
+    height: 200px;
+  }
+
+  .geospark-title {
+    padding-left: 50px;
   }
 }
 
@@ -629,5 +641,14 @@ cite {
 
   #newsImageCarousel .carousel-caption {
     padding-bottom: 0;
+  }
+
+  .geospark-logo {
+    display: none;
+  }
+
+  .geospark-title {
+    text-align: center;
+    padding-left: 0;
   }
 }

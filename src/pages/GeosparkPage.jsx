@@ -37,7 +37,7 @@ const GeosparkPage = ({ lang }) => {
    
                     <div style={{ zIndex: 2 }}>
 
-                        <h1 style={{ paddingLeft: "50px"}}>
+                        <h1 className='geospark-title'>
                             {t(
                                 "GeoSpark — Геологическая клубная институция",
                                 "GeoSpark — A Geological Club Institution",
@@ -57,7 +57,7 @@ const GeosparkPage = ({ lang }) => {
                     </div>
 
 
-                    <img src={geosparkLogo} alt="geospark-logo" width={400} height={400} style={{ marginRight: "100px"}}/>
+                    <img className='geospark-logo' src={geosparkLogo} alt="geospark-logo" style={{ marginRight: "100px"}}/>
 
                 </div>
                 <div className='w-100 mx-auto'>

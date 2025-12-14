@@ -368,6 +368,20 @@ cite {
     padding-left: 50px;
   }
 
+.geospark-structure-img {
+    width: 650px;
+    height: 400px;
+}
+
+.geospark-bg-img {
+  height: 500px;
+  background-image: url("./assets/geosparkBgImg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
 @media (max-width: 1024px) {
 
 
@@ -650,5 +664,20 @@ cite {
   .geospark-title {
     text-align: center;
     padding-left: 0;
+  }
+
+  .geospark-structure-img {
+    width: 400px;
+    height: 250px;
+  }
+
+  .geospark-bg-img {
+    height: 400px;
+    width: 300px;
+    background-image: url("./assets/geosparkBgImg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
   }
 }

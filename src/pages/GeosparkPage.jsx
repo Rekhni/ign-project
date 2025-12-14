@@ -10,14 +10,9 @@ const GeosparkPage = ({ lang }) => {
   return (
             <div className='text-dark bg-white h-100' style={{ fontFamily: 'Montserrat' }}>
                 <div
-                    className='d-flex w-100 mx-auto text-white fw-bold align-items-center justify-content-between position-relative'
+                    className='geospark-bg-img d-flex w-100 mx-auto text-white fw-bold align-items-center justify-content-between position-relative'
                     style={{
-                        backgroundImage: `url(${geosparkBgImg})`,
-                        backgroundAttachment: "fixed",
-                        backgroundSize: "cover",
-                        backgroundPosition: "center",
-                        height: '500px',
-                        overflow: 'hidden'
+
                     }}
                 >   
                     {/* Dark overlay */}

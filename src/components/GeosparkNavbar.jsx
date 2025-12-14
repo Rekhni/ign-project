@@ -1,6 +1,7 @@
 import React from 'react'
 import { Tabs, Tab, Container } from 'react-bootstrap';
 import geosparkData from "../geosparkData.json";
+import geosparkStructureImg from "../assets/GeoSpark_structure.png";
 
 const GeosparkNavbar = ({ lang }) => {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
@@ -38,10 +39,10 @@ const GeosparkNavbar = ({ lang }) => {
         </Tab>
         <Tab
           eventKey="architecture"
-          title={`${t("Архитектура", "Architecture", "Архитектура", "建筑学")}`}
+          title={`${t("Структура", "Structure", "Құрылым", "结构")}`}
         >
           <div
-            className="mt-3 mx-auto p-3 lab-content"
+            className="d-flex justify-content-center mt-3 mx-auto p-3 lab-content"
             style={{
               backgroundColor: 'rgb(233, 248, 253)',
               borderRadius: "20px",
@@ -49,10 +50,7 @@ const GeosparkNavbar = ({ lang }) => {
               overflowY: 'auto'
             }}
           >
-            <h2>{geosparkData.architecture.title[lang][0]}</h2>
-            {geosparkData.architecture.text[lang].map((line, idx) => (
-                <p key={idx}>{line}</p>
-            ))}
+            <img src={geosparkStructureImg} className='geospark-structure-img' alt="geospark-img-structure" />
           </div>
         </Tab>
         <Tab

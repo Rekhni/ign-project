@@ -382,6 +382,11 @@ cite {
   overflow: hidden;
 }
 
+.geospark-home-logo {
+  width: 300px;
+  height: 3000px;
+}
+
 @media (max-width: 1024px) {
 
 
@@ -422,6 +427,11 @@ cite {
 
   .geospark-title {
     padding-left: 50px;
+  }
+  
+  .geospark-home-logo {
+    width: 150px;
+    height: 150px;
   }
 }
 
@@ -679,5 +689,10 @@ cite {
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
+  }
+
+  .geospark-home-logo {
+    width: 80px;
+    height: 80px;
   }
 }

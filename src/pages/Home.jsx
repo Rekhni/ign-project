@@ -8,6 +8,7 @@ import partnersData from '../partnersData.json';
 import mainBgImg from '../assets/main-bg.png';
 import newsData from '../newsData.json';
 import { Link } from 'react-router-dom';
+import geosparkLogo from "../assets/geosparkLogo.svg";
 export default function Home({ lang }) {
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
     return (
@@ -202,7 +203,7 @@ export default function Home({ lang }) {
                     color: "rgb(0, 53, 118)"
                   }}
                 >
-                  GeoSpark
+                  <img className='geospark-home-logo' src={geosparkLogo} alt="geospark-logo" />
                 </div>
               </div>
             </NavLink>
@@ -225,7 +226,8 @@ export default function Home({ lang }) {
                   style={{
                     zIndex: 2,
                     position: "relative",
-                    color: "rgb(0, 53, 118)"
+                    color: "rgb(0, 53, 118)",
+                    fontFamily: "Arial"
                   }}
                 >
                   {t("Музей", "Museum", "Мұражай", "博物馆")}
@@ -234,35 +236,6 @@ export default function Home({ lang }) {
             </NavLink>
           </div>
         </div>
-        {/* <div className="d-flex flex-column justify-content-center w-100 text-dark bg-white" style={{fontFamily: 'Montserrat', paddingTop: '30px'}}>
-            <div className="d-flex justify-content-center align-items-center gap-3 w-75 mx-auto">
-                <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
-                <h1 className='fs-3 fs-lg-8'>
-                {t('Медиа', 'Media', 'Медиа', '媒体画廊')}
-                </h1>
-                <hr className="bg-white rounded" style={{ height: '5px', width: '30%'}}/>
-            </div>
-            <div className="video-section w-75 mx-auto" style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', justifyContent: 'center', marginTop: '30px', marginBottom: '40px' }}>
-                <iframe
-                    className="w-100" 
-                    style={{ maxWidth: '500px', aspectRatio: '16/9' }}
-                    src="https://www.youtube.com/embed/W594R6QGr9o"
-                    title="YouTube video"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                ></iframe>
-                <iframe
-                    className="w-100" 
-                    style={{ maxWidth: '500px', aspectRatio: '16/9' }}
-                    src="https://www.youtube.com/embed/AV1XGnSXbYo"
-                    title="YouTube video"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                ></iframe>
-            </div>
-        </div> */}
         <div style={{ margin: "40px 0" }}>
           <PartnersSlider logos={partnersData} />
         </div>

@@ -435,6 +435,11 @@ cite {
 .geospark-logo {
   width: 400px;
   height: auto;
+  padding-right: 50px;
+}
+
+.geospark-title {
+    padding-left: 50px;
 }
 
 @media (max-width: 1024px) {
@@ -475,9 +480,7 @@ cite {
     height: 200px;
   }
 
-  .geospark-title {
-    padding-left: 50px;
-  }
+
   
   .geospark-home-logo {
     width: 150px;

@@ -364,16 +364,16 @@ cite {
   color: white;
 }
 
-.geospark-title {
+/* .geospark-title {
     padding-left: 50px;
   }
 
 .geospark-structure-img {
     width: 650px;
     height: 400px;
-}
+} */
 
-.geospark-bg-img {
+/* .geospark-bg-img {
   height: 500px;
   background-image: url("./assets/geosparkBgImg.jpg");
   background-size: cover;
@@ -385,6 +385,56 @@ cite {
 .geospark-home-logo {
   width: 300px;
   height: 3000px;
+} */
+
+/* HERO wrapper */
+.geospark-hero {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  color: #fff;
+}
+
+/* iPhone-safe background image */
+.geospark-hero__bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* key fix */
+  object-position: center;  /* prevents top-left */
+  transform: translateZ(0); /* helps Safari render correctly */
+}
+
+/* overlay */
+.geospark-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.57);
+  z-index: 1;
+}
+
+/* content layout */
+.geospark-hero__content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+/* optional */
+.geospark-hero__text {
+  max-width: 900px;
+}
+
+/* logo */
+.geospark-logo {
+  width: 400px;
+  height: auto;
 }
 
 @media (max-width: 1024px) {
@@ -667,7 +717,7 @@ cite {
     padding-bottom: 0;
   }
 
-  .geospark-logo {
+  /* .geospark-logo {
     display: none;
   }
 
@@ -682,8 +732,8 @@ cite {
   }
 
   .geospark-bg-img {
-    height: 400px;
-    width: 300px;
+    height: 500px;
+    width: 100px;
     background-image: url("./assets/geosparkBgImg.jpg");
     background-size: cover;
     background-position: center;
@@ -694,5 +744,37 @@ cite {
   .geospark-home-logo {
     width: 80px;
     height: 80px;
+  } */
+}
+
+@media (max-width: 576px) {
+  .geospark-hero {
+    height: 400px; /* better than fixed pixels on iPhone */
+  }
+
+  .geospark-hero__content {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+
+  .geospark-logo {
+    display: none; /* or keep it: set width: 140px */
+  }
+
+  .geospark-title {
+    padding-left: 0; /* your old CSS had left padding */
+  }
+
+  .history-quote {
+    padding-left: 0;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .geospark-structure-img {
+    width: 350px;
+    height: 230px;
   }
 }

@@ -143,6 +143,11 @@ export default function Navbar({ lang, onToggleLanguage }) {
                 {t('Медиа', 'Media Gallery', 'Медиа', '媒体画廊')}
               </NavLink>
             </li>
+            <li className='nav-item'>
+              <NavLink className="nav-link text-white" to="/interactive-map" onClick={handleLinkClick}>
+                {t('Карта', 'Map', 'Карта', '地图')}
+              </NavLink>
+            </li>
             <li className="nav-item">
               <NavLink className="nav-link text-white" to="/news" onClick={handleLinkClick}>
                 {t('Новости', 'News', 'Жаңалықтар', '新闻')}

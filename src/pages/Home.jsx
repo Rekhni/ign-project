@@ -203,7 +203,7 @@ export default function Home({ lang }) {
                     color: "rgb(0, 53, 118)"
                   }}
                 >
-                  <img className='geospark-home-logo' src={geosparkLogo} alt="geospark-logo" />
+                  <img className='geospark-home-logo' width="200" height="200" src={geosparkLogo} alt="geospark-logo" />
                 </div>
               </div>
             </NavLink>

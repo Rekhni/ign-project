@@ -8,6 +8,7 @@ import museumImg1KZ from '../assets/museumImg1KZ.jpg';
 import museumImg2KZ from '../assets/museumImg2KZ.jpg';
 import museumData from '../museumData.json';
 import Contacts from '../components/Contacts';
+import MineralViewer from '../components/MIneralViewer';
 
 export default function Museum({ lang }) {    
     const t = (ru, en, kz, zh) => (lang === 'ru' ? ru : lang === 'en' ? en : lang === 'kz' ? kz : zh);
@@ -139,7 +140,7 @@ export default function Museum({ lang }) {
                   alt="museum-img-2"
                 />
               </div>
-        <hr className='text-dark my-0 mx-auto' style={{ height: '1px' }}/>
+        <MineralViewer />
         <section id="contacts">
           <Contacts lang={lang}/>
         </section>

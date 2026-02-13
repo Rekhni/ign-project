@@ -145,7 +145,7 @@ export default function Navbar({ lang, onToggleLanguage }) {
             </li>
             <li className='nav-item'>
               <NavLink className="nav-link text-white" to="/interactive-map" onClick={handleLinkClick}>
-                {t('Карта', 'Map', 'Карта', '地图')}
+                {t('Экспедиции', 'Expeditions', 'Экспедициялар', '考察')}
               </NavLink>
             </li>
             <li className="nav-item">
